@@ -1,0 +1,11 @@
+{
+  "name": "backbone-app",
+  "version": "1.0.0",
+  "description": "playground for backbone",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Olle Mattsson (olle.mattsson@codemate.com)",
+  "license": "ISC"
+}

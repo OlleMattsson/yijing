@@ -1,0 +1,17 @@
+[
+	{	"id" : "1", 	          
+    	"utf8" : "228 183 128",
+	    "html": "&#19904;",
+	    "sequence" : [0,0,0,0,0,0],
+	    "name" : "Force",
+	    "description" : "durpa"
+
+	},
+	{	"id" : "2",
+	  	"utf8" : "228 183 129",
+	  	"html": "&#19905;",
+	    "sequence" : [0,0,0,0,0,0],
+	  	"name" : "Field",
+	    "description" : "durpa"
+	}	
+]
