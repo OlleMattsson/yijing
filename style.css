@@ -1,3 +1,24 @@
 li {
 	list-style-type: none;
 }
+
+.monogram {
+	display:inline;
+	font-size:10em;
+	line-height:20px;
+	color:rgba(61, 61, 61, 1);
+}
+
+.monogram.old {
+	color:rgba(125, 125, 125, 1);
+} 
+
+.line {
+	height:25px;
+}
+
+.info {
+	text-align: center;
+	margin-top: 50px;
+	font-size:0.9em;
+}

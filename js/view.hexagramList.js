@@ -14,6 +14,7 @@ define([
 		template: Handlebars.compile( templateHTML ),
 		model: new viewModel(),
 		tagName: 'HexagramList',
+		el: "#HexagramList",
 		initialize : function (selector) {
 			this.collection = new HexagramCollection();
 			this.collection.bind("reset", this.render, this);

@@ -8,13 +8,14 @@ define([
 
     var AppModel = Backbone.Model.extend({
       defaults : {
-        appTitle : "Backbone Playground"
+        appTitle : "YiJing"
       }
     });
 
 
 
     var AppView = Backbone.View.extend({
+      el : "#app",
       className : "AppView",
       template: Handlebars.compile( appMainViewTemplate ),        
       render: function() {
@@ -24,16 +25,17 @@ define([
 
 
   var start = function(){
-      new Router();
+      
 
       var appModel = new AppModel();
       var appView = new AppView({model : appModel});
       appView.render();
-      $('body').html( appView.el )
+      
+      //$('body').html( appView.el )
 
-
+      new Router();
       Backbone.history.start();
-      console.log('app.js running')
+      console.log('app.js is running')
   }
 
   return {
