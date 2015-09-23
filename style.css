@@ -19,7 +19,7 @@ h2 {
 .monogram {
 	display:inline;
 	font-size:10em;
-	line-height:20px;
+	line-height:0px;
 	color:rgba(61, 61, 61, 1);
 }
 
@@ -28,7 +28,7 @@ h2 {
 } 
 
 .line {
-	height:25px;
+	height:20px;
 	text-align: center;
 }
 

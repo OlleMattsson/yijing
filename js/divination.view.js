@@ -10,7 +10,8 @@ define([
 			el : '#divine',
 			model : DivinationModel,
 			template: Handlebars.compile( Template ),
-			modelBinder: new Backbone.ModelBinder(),  		          
+			modelBinder: new Backbone.ModelBinder(),  	
+
 			render: function() {
 				this.$el.html( this.template );
 
@@ -18,7 +19,7 @@ define([
           			"kingWenNow" : [{
 				        selector: '[name = "kingWenNow"]',
 				        elAttribute: "href",
-				        converter: this.hexagramLink
+				        converter: this.hexagramLinkConverter
 				    },
 				    {
 				        selector: '[name = "kingWenNow"]'
@@ -26,18 +27,17 @@ define([
 					"kingWenFuture" : [{
 				        selector: '[name = "kingWenFuture"]',
 				        elAttribute: "href",
-				        converter: this.hexagramLink
+				        converter: this.hexagramLinkConverter
 				    },
 				    {
 				        selector: '[name = "kingWenFuture"]'
 				    }],
 
 				 };
-
 				this.modelBinder.bind(this.model, this.el, bindings);
-
 			},
-			hexagramLink : function (direction, value) {
+
+			hexagramLinkConverter : function (direction, value) {
 				var baseURL = 'http://www2.unipr.it/~deyoung/I_Ching_Wilhelm_Translation.html#'
 			    if (direction === "ModelToView") {
 			        //format only when the direction is from model to view
@@ -47,31 +47,19 @@ define([
 			        return value;
 			    }
 	    	},
+
 			renderLine : function(line, sequence, renderTarget) {
 				var monogram = '', sequence;
-
 				switch (sequence[line]) {
 					
 					// --x--
 					case 0:
 						monogram = '<span class="monogram old">&#9867;</span>'
-						/*
-						+'<span style="left: -58px; top: 4px; position: relative;">'+
-						'<svg width="20" height="20">'+
-						'<line x1="0"  y1="0"    x2="20" y2="20" style="stroke:#000000; stroke-width: 3; stroke-opacity: 0.5;"/>'+	
-						'<line x1="20" y1="0"    x2="0"  y2="20" style="stroke:#000000; stroke-width: 3; stroke-opacity: 0.5;"/>'+						
-						'</svg></span>';
-						*/	
 						break;						
 
 					// --0--
 					case 1: case 2: case 3:
 						monogram = '<span class="monogram old">&#9866;</span>'
-						/*
-						+'<span style="left: -60px; top: 5px; position: relative;">'+
-						'<svg width="25" height="25"><circle cx="13" cy="13" r="10" style="stroke:#000000; stroke-width: 3; stroke-opacity: 0.5; fill-opacity: 0;"/></svg></span>';	
-						
-						*/
 						break;		
 
 					// -----
@@ -87,16 +75,14 @@ define([
 
 				this.$el.find('#'+ renderTarget + "Line-" + (line + 1)).html(monogram);
 			},
-			renderHexagram : function() {
-				console.log("Rendering sequence: " + this.model.nowSequence)
-				
+
+			renderHexagram : function() {				
 				for (var i = 0, l = this.model.nowSequence.length; i < l; i++ ) {
 					this.renderLine(i, this.model.nowSequence, 'hexagram');
 				}
 			},
+			
 			renderFutureHexagram : function() {
-				console.log("Rendering future sequence: " + this.model.futureSequence)
-
 				for (var i = 0, l = this.model.futureSequence.length; i < l; i++ ) {
 					this.renderLine(i, this.model.futureSequence, 'futureHexagram');
 				}
