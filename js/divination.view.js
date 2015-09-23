@@ -13,11 +13,40 @@ define([
 			modelBinder: new Backbone.ModelBinder(),  		          
 			render: function() {
 				this.$el.html( this.template );
-				
-				// ModelBinder-magic =)
-          		this.modelBinder.bind(this.model, this.el);
+
+          		var bindings = { 
+          			"kingWenNow" : [{
+				        selector: '[name = "kingWenNow"]',
+				        elAttribute: "href",
+				        converter: this.hexagramLink
+				    },
+				    {
+				        selector: '[name = "kingWenNow"]'
+				    }],
+					"kingWenFuture" : [{
+				        selector: '[name = "kingWenFuture"]',
+				        elAttribute: "href",
+				        converter: this.hexagramLink
+				    },
+				    {
+				        selector: '[name = "kingWenFuture"]'
+				    }],
+
+				 };
+
+				this.modelBinder.bind(this.model, this.el, bindings);
 
 			},
+			hexagramLink : function (direction, value) {
+				var baseURL = 'http://www2.unipr.it/~deyoung/I_Ching_Wilhelm_Translation.html#'
+			    if (direction === "ModelToView") {
+			        //format only when the direction is from model to view
+			        return  baseURL + value;
+			    } else {
+			        //from view to model, just store the plain value
+			        return value;
+			    }
+	    	},
 			renderLine : function(line, sequence, renderTarget) {
 				var monogram = '', sequence;
 

@@ -1,22 +1,11 @@
 // essentially a controller
 define([
   'backbone',
-  'inputField',
-  'inputFieldBind',
   'iChing',
-  'DivinationModel',
   'DivinationView'
-
-], function(Backbone, inputField, inputFieldBind, iChing, DivinationModel, DivinationView){
+], function(Backbone, iChing, DivinationView){
   return Backbone.Router.extend({
     routes: {
-      // <url> : <event>
-      'input': function() {
-        var input = new inputField("#modules");
-      },
-      'inputBind': function(){
-        var inputbind = new inputFieldBind("#modules");
-      },
       'iChing': function(){
         var iching = new iChing("#modules");
       },
@@ -27,8 +16,10 @@ define([
             view.model.makeHexagram();  
             
             view.model.on('hexagramComplete', function(){
+              $('#spinner').hide();
               view.renderHexagram();
               view.renderFutureHexagram();
+
             });
         
       },
