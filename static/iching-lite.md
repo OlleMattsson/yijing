@@ -2,12 +2,12 @@ Yi Ying
 ==============
 Wilhelm Translation, 1950
 
-(Line intepretations have been omitted from this lite version.)
+*(Line intepretations have been omitted from this "lite" version.)*
 
 1. Ch'ien / The Creative
 ------------------------
 
-above  CH'IEN  THE CREATIVE, HEAVEN
+above  CH'IEN  THE CREATIVE, HEAVEN 
 below  CH'IEN  THE CREATIVE, HEAVEN
 
 The first hexagram is made up of six unbroken lines. These unbroken
@@ -27,7 +27,7 @@ and develops their higher nature.
 
 ### THE JUDGMENT
 
-THE CREATIVE works sublime success,   Furthering through perseverance.
+THE CREATIVE works sublime success, furthering through perseverance.
 
 According to the original meaning, the attributes [sublimity, potentiality
 of success, power to further, perseverance] are paired. When an individual
@@ -86,8 +86,7 @@ the way for an increasingly intricate number symbolism.
 ### THE IMAGE
 
 The movement of heaven is full of power. 
-Thus the superior man makes himself strong and 
-untiring.
+Thus the superior man makes himself strong and untiring.
 
 Since there is only one heaven, the doubling of the trigram Ch'ien,
 of which heaven is the image, indicates the movement of heaven. One complete
@@ -107,7 +106,7 @@ the fields of his activity.
 2. K'un / The Receptive
 -----------------------
 
-above  K'UN  THE RECEPTIVE, EARTH
+above  K'UN  THE RECEPTIVE, EARTH 
 below  K'UN  THE RECEPTIVE, EARTH
 
 This hexagram is made up of broken lines only. The broken lines represents
@@ -133,14 +132,14 @@ which  is productive of evil to both.
 
 ### THE JUDGMENT
 
-THE RECEPTIVE brings about sublime success,
-Furthering through the perseverance of a mare.
-If the superior man undertakes something and tries to lead,
-He goes astray;
-But if he follows, he finds guidance.
-It is favorable to find friends in the west and south,
-To forego friends in the east and north.
-Quiet perseverance brings good fortune.
+THE RECEPTIVE brings about sublime success, 
+Furthering through the perseverance of a mare. 
+If the superior man undertakes something and tries to lead, 
+He goes astray; 
+But if he follows, he finds guidance. 
+It is favorable to find friends in the west and south, 
+To forego friends in the east and north. 
+Quiet perseverance brings good fortune. 
 
 The four fundamental aspects of the Creative--"sublime success, furthering
 through perseverance"--are also attributed to the Receptive.  Here, however,
@@ -182,9 +181,9 @@ by fictional hates and favoritism.
 
 ### THE IMAGE
 
-The earth's condition is receptive devotion.
-Thus the superior man who has breadth of character
-Carries the outer world.
+The earth's condition is receptive devotion. 
+Thus the superior man who has breadth of character 
+Carries the outer world. 
 
 Just as there is only one heaven, so too there is only one earth.
 In the hexagram of heaven the doubling of the trigram implies duration in
@@ -199,7 +198,7 @@ he is able both to support and to bear with people and things.
 3. Chun / Difficulty at the Beginning
 ------------------------
 
-above  K'AN  THE ABYSMAL, WATER
+above  K'AN  THE ABYSMAL, WATER 
 below  CHêN  THE AROUSING, THUNDER
 
 The name of the hexagram, Chun, really connotes a blade of grass pushing
@@ -216,10 +215,10 @@ from tension,  and all things breathe freely again.
 
 ### THE JUDGMENT
 
-DIFFICULTY AT THE BEGINNING works supreme success,
-Furthering through perseverance.
-Nothing should be undertaken.
-It furthers one to appoint helpers.
+DIFFICULTY AT THE BEGINNING works supreme success, 
+Furthering through perseverance. 
+Nothing should be undertaken. 
+It furthers one to appoint helpers. 
 
 Times of growth are beset with difficulties. They resemble a first
 birth. But these difficulties arise from the very profusion of all that
@@ -238,8 +237,8 @@ Clouds and thunder:
 
 The image of DIFFICULTY AT THE BEGINNING.
 
-Thus the superior man
-Brings order out of confusion.
+Thus the superior man 
+Brings order out of confusion. 
 
 Clouds and thunder are represented by definite decorative lines; this
 means that in the chaos of difficulty at the beginning, order is already
@@ -253,7 +252,7 @@ unite.
 4. Mêng / Youthful Folly
 ------------------------
 
-above  KêN  KEEPING STILL, MOUNTAIN 
+above  KêN  KEEPING STILL, MOUNTAIN  
 below  K'AN  THE ABYSMAL, WATER
 
 In this hexagram we are reminded of youth and folly in two different
@@ -269,13 +268,13 @@ flow fills up the   deep place blocking its progress, and success is attained.
 
 ### THE JUDGMENT
 
-YOUTHFUL FOLLY has success.
-It is not I who seek the young fool;
-The young fool seeks me.
-At the first oracle I inform him. 
-If he asks two or three times, it is importunity.
-If he importunes, I give him no information.
-Perseverance furthers.
+YOUTHFUL FOLLY has success. 
+It is not I who seek the young fool; 
+The young fool seeks me. 
+At the first oracle I inform him.  
+If he asks two or three times, it is importunity. 
+If he importunes, I give him no information. 
+Perseverance furthers. 
 
 In the time of youth, folly is not an evil. One may succeed in spite
 of it, provided one finds an experienced teacher and has the right attitude
@@ -1154,87 +1153,7 @@ in his readiness to teach mankind, and just as the earth is boundlessly
 wide,  sustaining and caring for all creatures on it, so the sage sustains
 and cares  for all people and excludes no part of humanity.
 
-THE LINES
 
-Nine at the beginning means:
-
-Joint approach.
-Perseverance brings good fortune.
-
-The good begins to prevail and to find response in influential circles.
-This in turn is an incentive to men of ability. IT is well to join this
-upward  trend, but we must not let ourselves be carried away by the current
-of the  time; we must adhere perseveringly to what is right. This bring
-good  fortune.
-Nine in the second place means:
-
-Joint approach.
-Good fortune.
-Everything furthers.
-
-When the stimulus to approach comes from a high place, and when a
-man has the inner strength and consistency that need no admonition, good
-fortune will ensue. Nor need the future cause any concern. He is well aware
-that everything earthly is transitory, and that a descent follows upon every
-rise, but need not be confused by this universal law of fate. Everything
-serves to further. Therefore he will travel the paths of life swiftly, honestly,
-and valiantly.
-
-Six in the third place means:
-
-Comfortable approach.
-Nothing that would further.
-If one is induced to grieve over it,
-One becomes free of blame.
-
-Things are going well for a man: he achieves power and influence.
-But in this lies the danger that he may relax, and confident of his position,
-allow the easygoing, careless mood to show itself in his dealings with
-other   people. This would inevitably be harmful. But there is possibility
-of a change  of mood. If he regrets his mistaken attitude and feels the
-responsibility     of an influential position, he frees himself of faults.
-
-Six in the fourth place means:
-
-Complete approach.
-No blame.
-
-
-While the three lower lines indicate rise to power and influence,
-the three upper lines show the attitude of persons in higher position toward
-those of lower rank for whom they procure influence. Here is shown the open-minded
-approach of a person of high rank to a man of ability whom he draws in
-to   his own circle, regardless of class prejudice. This is very favorable.
-
-
-Six in the fifth place means:
-
-Wise approach.
-This is right for a great prince.
-Good fortune.
-
-A prince, or anyone in a leading position, must have the wisdom to
-attract to himself people of ability who are expert in directing affairs.
-His wisdom consists both in selecting the right people and in allowing
-those   chosen to have a free hand without interference from him.  For only
-through   such self-restraint will he find the experts needed to satisfy
-all of his   requirements.
-
-Six at the top means:
-
-Great hearted approach.
-Good-hearted approach.
-Good fortune. No blame.
-
-A sage who has put the world behind him and who in spirit has already
-withdrawn from life may, under certain circumstances, decide to return
-once   more to the here and now and to approach other men. This means great
-good   fortune for the men whom he teaches and helps. And for him this great
-hearted   humbling of himself is blameless.
-
-
-
-<a name="20"></a>
 20. Kuan / Contemplation (View)
 -------------------------------
 
@@ -1300,76 +1219,9 @@ therefore cannot be deceived;  on the other, he will impress the people so
 profoundly, by his mere existence  and by the impact of his personality,
 that they will be swayed by him as the grass by the wind.
 
-THE LINES
-
-Six at the beginning means:
-
-Boy like contemplation.
-For an inferior man, no blame.
-For a superior man, humiliation.
-
-This means contemplation from a distance, without comprehension. A
-man of influence is at hand, abut his influence is not understood by
-the    common people. This matters little in the case of the masses, for
-they benefit   by the actions of the ruling sage whether they understand
-them or not. But   for a superior man it is a disgrace. He must not content
-himself with a shallow,   thoughtless view of prevailing forces; he must
-contemplate them as a connected   whole and try to understand them.
-
-Six in the second place means:
-
-Contemplation through the crack of the door.
-Furthering for the perseverance of a woman.
-
-Through the crack of the door one has a limited outlook; one looks
-outward from within. Contemplation is subjectively limited. One tends
-to   relate everything to oneself and cannot put oneself in another's place
-and   understand his motives. This is appropriate for a good housewife. It
-is not  necessary for her to be conversant with the affairs of the world.
-But for  a man who must take active part in public life, such a narrow, egotistic
-way of contemplating things is of course harmful.
-
-Six in the third place means:
-
-Contemplation of my life 
-Decides the choice
-Between advance and retreat.
-
-This is the place of transition. We no longer look outward to receive
-pictures that are more or less limited and confused, but direct out contemplation
-upon ourselves in order to find a guideline for our decisions. This self-contemplation
-means the overcoming of naive egotism in the person who sees everything
-solely  form his own standpoint. He begins to reflect and in this way acquires
-objectivity.  However, self-knowledge does not mean preoccupation with
-one's   own thoughts;  rather, it means concern about the effects one creates.
-It   is only the effects  our lives produce that give us the right to judge
-whether   what we have done  means progress or regression.
-
-Six in the fourth place means:
-
-Contemplation of the light of the kingdom.
-It furthers one to exert influence as the guest of a king.
-
-This describes a man who understands the secrets by which a kingdom
-can be made to flourish. Such a man must be given an authoritative position,
-in which he can exert influence. He should be, so to speak, a guest-that
-is, he should be honored and act independently, and should not be used
-as   a tool.
-Nine at the top means:
-
-Contemplation of his life.
-The superior man is without blame.
-
-While the preceding line represents a man who contemplates himself,
-here in the highest place everything that is personal, related to the
-ego,    is excluded. The picture is that of a sage who stands outside the
-affairs    of the world. Liberated from his ego, he contemplates the laws
-of life and   so realizes that knowing how to become free of blame is the
-highest good.
 
 
 
-<a name="21"></a>
 21.  Shih Ho / Biting Through
 -----------------------------
 
@@ -1430,87 +1282,11 @@ there  is alack of clarity  in the penal codes and slackness in executing
 them.The  only to strengthen  the law is to make it clear and make penaltiescertain
 and swift.
 
-THE LINES
-
-Nine at the beginning means:
-
-His feet are fastened in the stocks,
-So that his toes disappear.
-No blame.
-
-If a sentence is imposed the first time a man attempts to do wrong,
-the penalty is a mild one.  Only the toes are put in the stocks.  This
-prevents   him from sinning further and thus he becomes free of blame. 
-It  is a warning   to halt in time on the path of evil.
-
-Six  in the second place means:
-
-Bites through tender meat,
-So that his nose disappears.
-No blame.
-
-It is easy to discriminate between right and wrong in this case;it
-is like biting through tender meat. But one encounters ahardened sinner,
-and, aroused by anger, one goes a little toofar. The disappearance of
-the    nose in the course of the bitesignifies that indignation blots out
-finer   sensibility. However,there is no great harm in this, because the
-penalty  as such isjust.
-
-Six  in the third place means:
-
-Bites on old dried meat 
-And strikes on something poisonous.
-Slight humiliation.  No blame.
-
-Punishment is to be carried out by someone who lacks the power and
-authority to do so.  Therefore the culprits do not submit.  The matter
-at   issue is an old one-as symbolized by salted game-and in dealing with
-it difficulties  arise.  This old meat is spoiled: by taking up the problem
-the punisher arouses  poisonous hatred against himself, and n this way is
-put in a somewhat humiliating  position.  But since punishment was required
-by the time, he remains free  of blame.
-
-Nine in the fourth place means:
-
-Bites on dried gristly meat.
-Receives metal arrows.
-It furthers one to be mindful of difficulties
-And to be persevering.
-Good fortune. 
-
-There are great obstacles to be overcome, powerful opponents are to
-be punished. Though this is arduous, the effort succeeds. But it is necessary
-to be hard as metal and straight as an arrow to surmount the difficulties.
-If one knows these difficulties and remains persevering, he attains good
-fortune. The difficult task is achieved in the end.
-Six in the fifth place means:
-
-Bites on dried lean meat.
-Receives yellow gold.
-Perseveringly aware of danger.
-
-No blame.
-
-The case to be decided is indeed not easy but perfectly clear.  Since
-we naturally incline to leniency, we must make every effort to be like
-yellow   gold-that is, as true as gold and as impartial as yellow, the color
-of the   middle [the mean]. It is only by remaining conscious of the dangers
-growing   out of the responsibility we have assumed that we can avoid making
-mistakes.
-
-Nine at the top means:
-
-His neck is fastened in the wooden cangue,
-So that his ears disappear.
-Misfortune.
-
-In contrast to the first line, this line refers to a man who is incorrigible.
-His punishment is the wooden cangue, and his ears disappear under it-that
-is to say, he is deaf to warnings. This obstinacy leads to misfortune.
 
 
 
-<a name="22"></a>
+
+
 22. Pi / Grace
 --------------
 
@@ -1558,77 +1334,10 @@ does not shine far; in the same way, beautiful form suffices to brighten
 and to throw light upon matters of lesser moment, but important questions
 cannot be decided in this way. They require greater earnestness.
 
-THE LINES
-
-Nine at the beginning means:
-
-He lends grace to his toes, leaves the carriage, and walks.
-
-A beginner in subordinate place must take upon himself the labor of
-advancing. There might be an opportunity of surreptitiously easing the
-way-symbolized   by the carriage-but a self-contained man scorns help gained
-in a dubious  fashion. He thinks it more graceful to go on foot than to
-drive  in a carriage  under false pretenses.
-Six in the second place means:
-
-Lends grace to the beard on his chin.
-
-The beard is not an independent thing; it moves only with the chin.
-The image therefore means that form is to be considered only as a result
-and attribute of content. The beard is a superfluous ornament. To devote
-care to it for its own sake, without regard for the inner content of which
-it is an ornament, would bespeak a certain vanity.
-
-Nine in the third place means:
-
-Graceful and moist.
-Constant perseverance brings good fortune.
-
-This represents a very charming life situation. One is under the spell
-of grace and the mellow mood induced by wine. This grace can adorn, but
-it  can also swamp us. Hence the warning not to sink into convivial indolence
-but to remain constant in perseverance. Good fortune depends on this.
-
-Six in the fourth place means:
-
-Grace or simplicity?
-A white horse comes as if on wings.
-He is not a robber,
-He will woo at the right time.
-
-An individual is in a situation in which doubts arise as to which
-is better-to pursue the grace of external brilliance, or to return to simplicity.
-The doubt itself implies the answer. Confirmation comes from the outside;
-it comes like a white winged horse. The white color indicates simplicity.
-At first it may be disappointing to renounce the comforts that might
-have     been obtained, yet one finds peace of mind in a true relationship
-with  the   friend who courts him. The winged horse is the symbol of the
-thoughts  that   transcend all limits of space and time.
-
-Six in the fifth place means:
-
-Grace in the hills and gardens.
-The roll of silk is meager and small.
-Humiliation, but in the end good fortune.
-
-A man withdraws from contact with people of the lowlands, who seek
-nothing but magnificence and luxury, in to the solitude of the heights.
-There  he finds an individual to look up to, whom he would like to have
-as  a friend.  But the gifts he has to offer are poor and few, so that he
-feels  ashamed.  However, it is not the material gifts that count, but sincerity
-of feeling,  and so all goes well in the end.
-Nine at the top means:
-
-Simple grace. No blame.
-
-Here at the highest stage of development all ornament is discarded.
-Form no longer conceals content but brings out its value to the full.
-Perfect    grace consists not in exterior ornamentation of the substance,
-but in the    simple fitness of its form.
 
 
 
-<a name="23"></a>
+
 23. Po / Splitting Apart
 ------------------------
 
@@ -1679,86 +1388,10 @@ be generous   and benevolent, like the earth that carries all. Then they
 will make their   position as secure as a mountain is in its tranquillity.
 
 
-THE LINES
-
-Six at the beginning means:
-
-The leg of the bed is split.
-Those who persevere are destroyed.
-Misfortune.
-
-Inferior people are on the rise and stealthily begin their destructive
-burrowing from below in order to undermine the place where the superior
-man  rests. Those followers of the ruler who remain loyal are destroyed
-by  slander  and intrigue. The situation bodes disaster, yet there is nothing
-to do but  wait.
-
-Six in the second place means:
-
-The bed is split at the edge.
-Those who persevere are destroyed.
-Misfortune.
-
-The power of the inferior people is growing. The danger draws close
-to one's person; already there are clear indication, and rest is disturbed.
-Moreover, in this dangerous situation one is as yet without help or friendly
-advances from above or below. Extreme caution is necessary in this isolation.
-One must adjust to the time and promptly avoid the danger. Stubborn perseverance
-in maintaining one's standpoint would lead to downfall.
-
-Six in the third place means:
-
-He splits with them. No blame.
-
-An individual finds himself in an evil environment to which he is
-committed by external ties. But he has an inner relationship with a superior
-man, and through this he attains the stability to free himself from the way
-of the inferior people around him. This brings him into opposition to them
-of course, but that is not wrong.
-
-Six in the fourth place means:
-
-The bed is split up to the skin.
-Misfortune.
-
-Here the disaster affects not only the resting place but even the
-occupant. No warning or other comment is added. Misfortune has reached its
-peak: it can no longer be warded off.
-
-Six in the fifth place means:
-
-A shoal of fishes. Favor comes through the court ladies.
-Everything acts to further.
-
-Here, in immediate proximity to the strong, light-giving principle
-at the top, the nature of the dark force undergoes a change. It no longer
-opposes the strong principle by means of intrigues but submits to its
-guidance.    Indeed, as the head of the other weak lines, it leads all of
-these to the    strong line, just as a princess leads her maids-in-waiting
-like a shoal  of  fishes to her husband and thus gains his favor. Inasmuch
-as the lower  element  thus voluntarily places itself under the higher, it
-attains happiness  and  the higher also receives its due. Therefore all goes
-well.
-Nine at the top means:
-
-There is a large fruit still uneaten.
-The superior man receives a carriage.
-The house of the inferior man is split apart.
-
-Here the splitting apart reaches its end. When misfortune has spent
-itself, better times return. The seed of the good remains, and it is
-just     when the fruit falls to the ground that food sprouts anew from its
-seed.    The superior man again attains influence and effectiveness. He is
-supported    by public opinion as if in a carriage. But the inferior man's
-wickedness   is visited upon himself. His house is split apart. A law of
-nature is at  work here. Evil is not destructive to the good alone but inevitably
-destroys  itself as well. For evil, which lives solely by negation, cannot
-continue  to exist on its own strength alone. The inferior man himself fares
-best when  held under control by a superior man. 
 
 
 
-<a name="24"></a>
+
 24. Fu / Return (The Turning Point)
 -----------------------------------
 
@@ -1821,77 +1454,10 @@ return of health after illness,  the return of understanding after an estrangeme
 everything must be treated  tenderly and with care at the beginning, so
 that  the return may lead to a  flowering.
 
-THE LINES
-
-Nine at the beginning means:
-
-Return from a short distance.
-No need for remorse.
-Great good fortune.
-
-Slight digressions from the good cannot be avoided, but one must turn
-back in time, before going too far. This is especially important in the
-development  of character; every faintly evil thought must be put aside
-immediately,  before  it goes too far and takes root in the mind. Then there
-is no cause  for remorse,  and all goes well.
-
-Six in the second place means:
-
-Quiet return. Good fortune.
-
-Return always calls for a decision and is an act of self-mastery.
-It is made easier if a man is in good company. If he can bring himself to
-put aside pride and follow the example of good men, good fortune results.
-
-Six in the third place means:
-
-Repeated return. Danger. No blame.
-
-There are people of a certain inner instability who feel a constant
-urge to reverse themselves. There is danger in continually deserting
-the    good because of uncontrolled desires, then turning back to it again
-because    of a better resolution. However, since this does not lead to habituation
-in evil, a general inclination to overcome the defect is not wholly excluded/
-
-Six in the fourth place means:
-
-Walking in the midst of others,
-One returns alone.
-
-A man is in a society composed of inferior people, but is connected
-spiritually with a strong and good friend, and this makes him turn back
-alone.  Although nothing is said of reward and punishment, this return
-is   certainly  favorable, for such a resolve to choose the good brings its
-own   reward.
-
-Six in the fifth place means:
-
-Noblehearted return. No remorse.
-
-When the time for return has come, a man should not take shelter in
-trivial excuses, but should look within and examine himself. And if he
-has   done something wrong he should make a noblehearted resolve to confess
-his   fault. No one will regret having taken this road.
-
-Six at the top means:
-
-Missing the return. Misfortune.
-Misfortune from within and without.
-If armies are set marching in this way,
-One will in the end suffer a great defeat, 
-Disastrous for the ruler of the country.
-For ten years
-It will not be possible to attack again.
-
-If a man misses the right time for return, he meets with misfortune.
-The misfortune has its inner cause in a wrong attitude toward the world.
-The misfortune coming upon him for without results from this wrong attitude.
-What is pictured here is blind obstinacy and the judgment that is visited
-upon it.
 
 
 
-<a name="25"></a>
+
 25. Wu Wang / Innocence (The Unexpected)
 ----------------------------------------
 
@@ -1946,74 +1512,10 @@ state.    So it is with the good rulers of mankind: drawing on the spiritual
 wealth    at their command, they take care of all forms of life and all forms
 of culture   and do everything to further them, and at the proper time.
 
-THE LINES
-
-Nine at the beginning means:
-
-Innocent behavior brings good fortune.
-
-The original impulses of the heart are always good, so that we may
-follow them confidently, assured of good fortune and achievement of our
-aims.
-
-Six in the second place means:
-
-If one does not count on the harvest while plowing,
-
-Nor on the use of the ground while clearing it,
-It furthers one to undertake something.
-
-We should do every task for its own sake as time and place demand
-and not with an eye to the result. Then each task turns out well, and anything
-we undertake succeeds.
-
-Six in the third place means:
-
-Undeserved misfortune.
-
-The cow that was tethered by someone
-Is the wanderer's gain, the citizen's loss.
-
-Sometimes undeserved misfortune befalls a man at the hands of another,
-as for instance when someone passes by and takes a tethered cow along
-with    him. His gain is the owner's loss. In all transactions, no matter
-how innocent,    we must accommodate ourselves to the demands of the time,
-otherwise unexpected    misfortune overtakes us.
-
-Nine in the fourth place means:
-
-He who can be persevering 
-Remains without blame.
-
-
-We cannot lose what really belongs to us, even if we throw it away.
-Therefore we need have no anxiety. All that need concern us is that we
-should   remain true to our own natures and not listen to others.
-Nine in the fifth place means:
-
-Use no medicine in an illness
-Incurred through no fault of your own.
-It will pass of itself.
-
-An unexpected evil may come accidentally from without. If it does
-not originate in one's own nature or have a foothold there, one should not
-resort to external means to eradicate it, but should quietly let nature take
-its course. Then improvement will come of itself.
-
-Nine at the top means:
-
-Innocent action brings misfortune.
-
-Nothing furthers.
-
-When, in a given situation, the time is not ripe for further progress,
-the best thing to do is to wait quietly, without ulterior designs. If
-one    acts thoughtlessly and tries to push ahead in opposition to fate,
-success    will not be achieved.
 
 
 
-<a name="26"></a>
+
 26. Ta Ch'u / The Taming Power of the Great
 -------------------------------------------
 
@@ -2074,82 +1576,10 @@ strengthen   and elevate their own characters. The way to study the past
 is not to confine   oneself to mere knowledge of history but, through application
 of this knowledge,   to give actuality to the past.
 
-THE LINES
-
-Nine at the beginning means:
-
-Danger is at hand. It furthers one to desist.
-
-A man wishes to make vigorous advance, but circumstances present an
-obstacle. He sees himself held back firmly. If he should attempt to fore
-an advance, it would lead him into misfortune. Therefore it is better
-for    him to compose himself and to wait until an outlet is offered for
-release    of his stored-up energies.
-
-Nine in the second place means:
-
-The axletrees are taken from the wagon.
-
-Here advance is checked just as in the third line of THE TAMING POWER
-OF THE SMALL 
-
-<a href="http://www2.unipr.it/~deyoung/I_Ching_Wilhelm_Translation.html#9">9</a>. However, in the later the restraining force is
-slight; thus a conflict arises between the propulsive and the restraining
-movement, as a result of which the spokes fall out of the wagon wheels,
-while  here the restraining force is absolutely superior; hence no struggle
-takes  place. One submits and removes the axletrees from the wagon -in
-other   words,  contents himself with waiting. In this way energy accumulates
-for   a vigorous  advance later on.
-
-Nine in the third place means.
-A good horse that follows others.
-Awareness of danger,
-With perseverance, furthers.
-Practice chariot driving and armed defense daily. 
-It furthers one to have somewhere to go.
-
-The way opens; the hindrance has been cleared away. A man is in contact
-with a strong will acting in the same direction as his own, and goes
-forward     like one good horse following another. But danger still threatens,
-and  he   must remain aware of it, or he will be robbed of his firmness.
-Thus he must   acquire skill on the one hand in what will take him forward,
-and on the other  in what will protect him against unforeseen attacks. It
-is good in such a  pass to have a goal toward which to strive.
-
-Six in the fourth place means:
-
-The headboard of a young bull.
-Great good fortune.
-
-This line and the one following it are the two that tame the forward-pushing
-lower lines. Before a bull's horns grow out, a headboard is fastened
-to   its  forehead, so that later when the horns appear they cannot do harm.
-A  good  way to restrain wild force is to forestall it. By so doing one achieves
-an  easy and great success.
-Six in the fifth place means:
-
-The tusk of a gelded boar.
-Good fortune.
-
-Here the restraining of the impetuous forward drive is achieved in
-an indirect way. A boar's tusk is in itself dangerous, but if the boar's
-nature is altered, the tusk is no longer a menace. Thus also where men
-are   concerned, wild force should not be combated directly; instead, its
-roots   should be eradicated.
-Nine at the top means:
-
-One attains the way of heaven.
-
-Success.
-
-The time of obstruction is past. The energy long dammed up by inhibition
-forces its way out and achieves great success. This refers to a man who
-is  honored by the ruler and whose principles now prevail and shape the
-world.      
 
 
 
-<a name="27"></a>
+
 27. I / Corners of the Mouth (Providing Nourishment)
 ----------------------------------------------------
 
@@ -2209,100 +1639,10 @@ For tranquillity keeps the words that come out of the mouth from exceeding
 proper measure, and keeps the food that goes into the mouth from exceeding
 its proper measure. Thus character is cultivated.
 
-THE LINES
-
-Nine at the beginning means:
-
-You let your magic tortoise go,
-And look at me with the corners of your mouth drooping.
-Misfortune.
-
-The magic tortoise is a creature possessed of such supernatural powers
-that it lives on air and needs no earthly nourishment. The image means
-that   a man fitted by nature and position to live freely and independently
-renounces   this self-reliance and instead looks with envy and discontent
-at others who  are outwardly in better circumstances. But such base envy
-only arouses derision  and contempt in those others. This has bad results.
-
-Six in the second place means:
-
-Turning to the summit for nourishment,
-Deviating from the path
-
-To seek nourishment from the hill.
-Continuing to do this brings misfortune.
-
-Normally a person either provides his own means of nourishment or
-is supported in a proper way by those whose duty of privilege it is to provide
-for him. If, owing to weakness of spirit, a man cannot support himself,
-a  feeling of uneasiness comes over him; this is because in shirking the
-proper  way of obtaining a living, he accepts support as a favor from those
-in higher  place. This is unworthy, for he is deviating from his true nature.
-Kept up  indefinitely, this course leads to misfortune.
-
-Six in the third place means:
-
-Turning away from nourishment.
-Perseverance brings misfortune.
-Do not act thus for ten years.
-
-Nothing serves to further.
-
-
-He who seeks nourishment that does not nourish reels from desire to
-gratification and in gratification craves desire. Mad pursuit of pleasure
-for the satisfaction of the senses never brings one to the goal. One
-should     never (ten years is a complete cycle of time) follow this path,
-for nothing     good can come of it.
-
-Six in the fourth place means:
-
-Turning to the summit
-For provision of nourishment
-Brings good fortune.
-
-Spying about with sharp eyes
-Like a tiger with insatiable craving.
-
-No blame.
-
-In contrast to the six in the second place, which refers to a man
-bent exclusively on his own advantage, this line refers to one occupying
-a high position and striving to let his light sine forth. To do this he needs
-helpers, because he cannot attain his lofty aim alone. With the greed of
-a hungry tiger he is on the lookout for the right people. Since he is not
-working for himself but for the good of all, there is no wrong in such zeal.
-Six in the fifth place means:
-
-Turning away from the path.
-
-To remain persevering brings good fortune.
-One should not cross the great water.
-
-A man may be conscious of a deficiency in himself. He should be undertaking
-the nourishment of the people, but he has not the strength to do it.
-Thus     he must turn from his accustomed path and beg counsel and help from
-a man    who is spiritually his superior but undistinguished outwardly. If
-he maintains    this attitude of mind perseveringly, success and good fortune
-are his. But   he must remain aware of his dependence. He must not put his
-own person forward   nor attempt great labors, such as crossing the great
-water.
-Nine at the top means:
-
-The source of nourishment.
-Awareness of danger brings good fortune.
-It furthers one to cross the great water.
-
-This describes a sage of the highest order, from whom emanate all
-influences that provide nourishment for others. Such a position brings with
-it heavy responsibility. If he remains conscious of this fact, he has good
-fortune and may confidently undertake even great and difficult labors, such
-as crossing the great water. These undertakings bring general happiness for
-him and for all others.
 
 
 
-<a name="28"></a>
+
 28. Ta Kuo / Preponderance of the Great
 ---------------------------------------
 
@@ -2358,81 +1698,7 @@ the symbol of the trigram Sun is the tree, which stands firm even though
 it stands alone, and the attribute of Tui is joyousness, which remains
 undaunted    even if it must renounce the world.
 
-THE LINES
 
-Six at the beginning means:
-
-To spread white rushes underneath.
-
-No blame.
-
-When a man wishes to undertake an enterprise in extraordinary times,
-he must be extraordinarily cautious, just as when setting a heavy thing
-down  on the floor, one takes care to put rushes under it, so that nothing
-will  break. This caution, though it may seem exaggerated, is not a mistake.
-Exceptional  enterprises cannot succeed unless utmost caution is observed
-in their beginnings  and in the laying of their foundations.
-Nine in the second place means:
-
-A dry poplar sprouts at the root.
-An older man takes a young wife.
-Everything furthers.
-
-Wood is near water; hence the image of an old poplar sprouting at
-the root. This means an extraordinary situation arises when an older man
-marries a young girl who suits him. Despite the unusualness of the situation,
-all goes well.  From the point of view of politics, the meaning is that in
-exceptional times one does well to join with the lowly, for this affords
-a possibility of renewal.
-
-Nine in the third place means:
-
-The ridgepole sags to the breaking point.
-Misfortune.
-
-
-This indicates a type of man who in times of preponderance of the
-great insists on pushing ahead. He accepts no advice from others, and therefore
-they in turn are not willing to lend him support. Because of this the
-burden    grows, until the structure of things bends or breaks. Plunging
-willfully   ahead in times of danger only hastens the catastrophe.
-Nine in the fourth place means:
-
-The ridgepole is braced. Good fortune.
-If there are ulterior motives, it is humiliating.
-
-Through friendly relations with people of lower rank, a responsible
-man succeeds in becoming master of the situation. But if, instead of
-working     for the rescue of the whole, he were to misuse his connections
-to obtain    personal power and success, it would lead to humiliation.
-
-Nine in the fifth place means:
-
-A withered poplar puts forth flowers.
-An older woman takes a husband. 
-
-No blame. No praise.
-
-A withered poplar that flowers exhausts its energies thereby and only
-hastens its end. An older woman may marry once more, but no renewal takes
-place. Everything remains barren. Thus, though all the amenities are
-observed,     the net result is only the anomaly of the situation.  Applied
-to politics,     the metaphor means that if in times of insecurity we give
-up alliance with    those below us and keep up only the relationships we
-have with people of   higher rank, an unstable situation is created.
-
-Six at the top means:
-
-One must go through the water.
-It goes over one's head.
-Misfortune. No blame.
-
-Here is a situation in which the unusual has reached a climax. One
-is courageous and wishes to accomplish one's task, no matter what happens.
-This leads into danger. The water rises over one's head. This is the
-misfortune.     But one incurs no blame in giving up one's life that the
-good and the right    may prevail. There are things that are more important
-than life.   
 
 
 
@@ -2499,89 +1765,10 @@ than     an accidental and isolated occurrence. So likewise in teaching others
 everything    depends on consistency, for it is only through repetition that
 the pupil   makes the material his own.
 
-THE LINES
-
-Six at the beginning means:
-
-Repetition of the Abysmal.
-In the abyss one falls into a pit.
-Misfortune.
-
-By growing used to what is dangerous, a man can easily allow it to
-become part of him. He is familiar with it and grows used to evil. With
-this  he has lost the right way, and misfortune is the natural result.
-Nine in the second place means:
-
-The abyss is dangerous.
-One should strive to attain small things only.
-
-When we are in danger we ought not to attempt to get out of it immediately,
-regardless of circumstances; at first we must content ourselves with
-not    being overcome by it. We must calmly weigh the conditions of the time
-and    by satisfied with small gains, because for the time being a great
-success    cannot be attained. A spring flows only sparingly at first, and
-tarries  for  some time before it makes its way in to the open.
-
-Six in the third place means:
-
-Forward and backward, abyss on abyss.
-In danger like this, pause at first and wait,
-Otherwise you will fall into a pit in the abyss.
-Do not act this way.
-
-Here every step, forward or backward, leads into danger. Escape is
-out of the question. Therefore we must not be misled into action, as
-a  result   of which we should only bog down deeper in the danger; disagreeable
-as it   may be to remain in such a situation, we must wait until a way out
-shows  itself.
-
-Six in the fourth place means:
-
-A jug of wine, a bowl of rice with it;
-Earthen vessels
-
-Simply handed in through the Window.
-
-There is certainly no blame in this.
-
-In times of danger ceremonious forms are dropped. What matters most
-is sincerity. Although as a rule it is customary for an official to present
-certain introductory gifts and recommendations before he is appointed,
-here   everything is simplified to the utmost. The gifts are insignificant,
-there   is no one to sponsor him, he introduces himself; yet all this need
-not be   humiliating if only there is the honest intention of mutual help
-in danger.   Still another idea is suggested. The window is the place through
-which light   enters the room. If in difficult times we want to enlighten
-someone, we must  begin with that which is in itself lucid and proceed
-quite   simply from that  point on.
-Nine in the fifth place means:
-
-The abyss is not filled to overflowing,
-It is filled only to the rim.
-
-No blame.
-
-Danger comes because one is too ambitious. In order to flow out of
-a ravine, water does not rise higher than the lowest point of the rim.
-So   likewise a man when in danger has only to proceed along the line of
-least   resistance; thus he reaches the goal. Great labors cannot be accomplished
-in such times; it is enough to get out of the danger.
-
-Six at the top means:
-
-Bound with cords and ropes,
-
-Shut in between thorn-hedged prison walls:
-For three years one does not find the way.
-Misfortune.
-
-A man who in the extremity of danger has lost the right way and is
-irremediably entangled in his sins has no prospect of escape. He is like
-a criminal who sits shackled behind thorn hedged prison walls.
 
 
 
-<a name="30"></a>
+
 30. Li / The Clinging, Fire
 ---------------------------
 
@@ -2636,89 +1823,8 @@ more    deeply.
 
 
 
-THE LINES
-
-Nine at the beginning means:
-
-The footprints run crisscross.
-If one is seriously intent, no blame.
-
-It is early morning and work begins. The mind has been closed to the
-outside world in sleep; now its connections with the world begin again.
-The  traces of one's impressions run crisscross. Activity and haste prevail.
-It  is important then to preserve inner composure and not to allow oneself
-to  be swept along by the bustle of life. If one is serious and composed,
-he can acquire the clarity of mind needed for coming to terms with the
-innumerable     impressions that pour in. It is precisely at the beginning
-that serious   concentration  is important, because the beginning holds the
-seed of all  that is to follow.
-Six in the second place means:
-
-Yellow light. Supreme good fortune.
-
-Midday has come; the sun shines with a yellow light. Yellow is the
-color of measure and mean. Yellow light is therefore a symbol of the
-highest     culture and art, whose consummate harmony consists in holding
-to the mean.
-
-Nine in the third place means:
-
-In the light of the setting sun,
-Men either beat the pot and sing
-Or loudly bewail the approach of old age.
-Misfortune.
-
-Here the end of the day has come. The light of the setting sun calls
-to mind the fact that life is transitory and conditional. Caught in this
-external bondage, men are usually robbed of their inner freedom as well.
-The sense of the transitoriness of life impels them to uninhibited revelry
-in order to enjoy life while it lasts, or else they yield to melancholy
-and  spoil the precious time by lamenting the approach of old age. Both attitudes
-are wrong. To the superior man it makes no difference whether death comes
-early or late. He cultivates himself, awaits his allotted time, and in
-this   way secures his fate.
-
-Nine in the fourth place means:
-
-Its coming is sudden;
-It flames up, dies down, is thrown away.
-
-Clarity of mind has the same relation to life that fire has to wood.
-Fire clings to wood, but also consumes it. Clarity of mind is rooted
-in   life  but can also consume it. Everything depends upon how the clarity
-functions.     Here the image used is that of a meteor or a straw fire. A
-man who is excitable    and restless may rise quickly to prominence but produces
-no lasting effects.    Thus matters end badly when a man spends himself too
-rapidly and consumes    himself like a meteor.
-Six in the fifth place means:
-
-Tears in floods, sighing and lamenting.
-Good fortune. 
-
-Here the zenith of life has been reached. Were there no warning, one
-would at this point consume oneself like a flame. Instead, understanding
-the vanity of all things, one may put aside both hope and fear, and sigh
-and lament: if one is intent on retaining his clarity of mind, good fortune
-will come from this grief. For here we are dealing not with a passing mood,
-as in the nine in the third place, but with a real change of heart.
-
-Nine at the top means:
-
-The king used him to march forth and chastise.
-
-Then it is best to kill the leaders
-And take captive the followers. No blame.
-
-It is not the purpose of chastisement to impose punishment blindly
-but to create discipline. Evil must be cured at its roots. To eradicate
-evil  in political life, it is best to kill the ringleaders and spare the
-followers.  In educating oneself it is best to root out bad habits and
-tolerate   those  that are harmless. For asceticism that is too strict, like
-sentences   of undue  severity, fails in its purpose.
 
 
-
-<a name="31"></a>
 31. Hsien / Influence (Wooing)
 ------------------------------
 
@@ -2775,95 +1881,9 @@ kept   humble and free, so that it may remain receptive to good advice. People
 soon  give up counseling a man who thinks that he knows everything better
 than anyone else.
 
-THE LINES
-
-Six at the beginning means:
-
-The influence shows itself in the big toe.
-
-A movement, before it is actually carried out, shows itself first
-in the toes. The idea of an influence is already present, but is not immediately
-apparent to others. As long as the intention has no visible effect, it
-is   of no importance to the outside world and leads neither to good nor
-to evil.
-
-Six in the second place means:
-
-The influence shows itself in the calves of the legs.
-Misfortune.
-
-Tarrying brings good fortune.
-
-In movement, the calf of the leg follows the foot; by itself it can
-neither go forward nor stand still. Since the movement is not self-governed,
-it bodes ill. One should wait quietly until one is impelled to action
-by   a real influence. Then one remains uninjured.
-
-Nine in the third place means:
-
-The influence shows itself in the thighs.
-Holds to that which follows it.
-
-To continue is humiliating.
-
-
-Every mood of the heart influences us to movement. What the heart
-desires, the thighs run after without a moment's hesitation; they hold to
-the heart, which they follow. In the life of man, however, acting on the
-spur of every caprice is wrong and if continued leads to humiliation. Three
-considerations suggest themselves here. First, a man should not run precipitately
-after all the persons whom he would like to influence, but must be able to
-hold back under certain circumstances. As little should he yield immediately
-to every whim of those in whose service he stands. Finally, where the moods
-of his own heart are concerned, he should never ignore the possibility of
-inhibition, for this is the basis of human freedom.
-Nine in the fourth place means:
-
-Perseverance brings good fortune.
-Remorse disappears.
-If a man is agitated in mind,
-And his thoughts go hither and thither,
-Only those friends 
-On whom he fixes his conscious thoughts
-Will follow.
-
-Here the place of the heart is reached. The impulse that springs from
-this source is the most important of all. It is of particular concern
-that    this influence be constant and good; then, in spite of the danger
-arising    from the great susceptibility of the human heart, there will be
-no cause   for remorse. When the quiet power of a man's own character is
-at work, the   effects produced are right. All those who are receptive to
-the vibrations   of such a spirit will then be influenced. Influence over
-others should not   express itself as a conscious and willed effort to manipulate
-them. Through   practicing such conscious incitement, one becomes wrought
-up and is exhausted   by the eternal stress and strain. Moreover, the effects
-produced are then   limited to those on whom one's thoughts are consciously
-fixed.
-Nine in the fifth place means:
-
-The influence shows itself in the back of the neck.
-
-No remorse.
-
-The back of the neck is the most rigid part of the body. When the
-influence shows itself there, the will remains firm and the influence does
-not lead to confusion. Hence remorse does not enter into consideration here.
-What takes place in the depths of one's being, in the unconscious mind. It
-is true that if we cannot be influenced ourselves, we cannot influence the
-outside world.
-
-Six at the top means:
-
-The influence shows itself in the jaws, cheeks, and tongue.
-
-The most superficial way of trying to influence others is through
-talk that has nothing real behind it. The influence produced by such mere
-tongue wagging must necessarily remain insignificant. Hence no indication
-is added regarding good or bad fortune.
 
 
 
-<a name="32"></a>
 32. Hêng / Duration
 -------------------
 
@@ -2918,74 +1938,9 @@ and  immobility  of character. He always keeps abreast of the time and changes
 with it. What  endures is the unswerving directive, the inner law of his
 being, which determines  all his actions.
 
-THE LINES
-
-Six at the beginning means:
-
-Seeking duration too hastily brings misfortune persistently.
-
-Nothing that would further.
-
-Whatever endures can be created only gradually by long-continued work
-and careful reflection. In the same sense Lao-tse says: "If we wish to
-compress   something, we must first let it fully expand." He who demands
-too much at   once is acting precipitately, and because he attempts too much,
-he ends by  succeeding in nothing.
-Nine in the second place means:
-
-Remorse disappears.
-The situation is abnormal. A man's force of character is greater
-than   the available material power. Thus he might be afraid of allowing
-himself   to attempt something beyond his strength. However, since it is
-the time of  DURATION, it is possible for him to control his inner strength
-and so to avoid excess. Cause for remorse then disappears.
-
-Nine in the third place means:
-
-He who does not give duration to his character
-Meets with disgrace.
-Persistent humiliation.
-
-If a man remains at the mercy of moods of hope or fear aroused by
-the outer world, he loses his inner consistency of character. Such inconsistency
-invariably leads to distressing experiences. These humiliations often
-come    from an unforeseen quarter. Such experiences are not merely effects
-produced    by the external world, but logical consequences evoked by his
-own nature.
-
-Nine in the fourth place means:
-
-No game in the field.
-
-If we are in pursuit of game and want to get a shot at a quarry, we
-must set about it in the right way. A man who persists in stalking game
-in  a place where there is none may wait forever without finding any. Persistence
-in search is not enough. What is not sought in the right way is not found.
-
-Six in the fifth place means:
-
-Giving duration to one's character through perseverance.
-
-This is good fortune for a woman, misfortune for a man.
-
-A woman should follow a man her whole life long, but a man should
-at all times hold to what is his duty at the given moment. Should he persistently
-seek to conform to the woman, it would be a mistake for him. Accordingly
-it is altogether right for a woman to hold conservatively to tradition,
-but  a  man must always be flexible and adaptable and allow himself to be
-guided   solely by what his duty requires of him at the moment.
-
-Six at the top means:
-
-Restlessness as an enduring condition brings misfortune.
-
-There are people who live in a state of perpetual hurry without ever
-attaininginner composure. Restlessness not only prevents all thoroughness
-but actuallybecomes a danger if it is dominant in places of authority.
 
 
 
-<a name="33"></a>
 33. TUN / Retreat
 -----------------
 
@@ -3035,85 +1990,9 @@ a  form of subjective involvement by which we are bound to the hated object.
 The superior man shows strength (heaven) in that he brings the inferior
 man  to a standstill (mountain) by his dignified reserve.
 
-THE LINES
-
-Six at the beginning means:
-
-At the tail in retreat. This is dangerous.
-One must not wish to undertake anything.
-
-Since the hexagram is the picture of something that is retreating,
-the lowest line represents the tail and the top line the head. In a retreat
-it is advantageous to be at the front. Here one is at the back, in immediate
-contact with the pursuing enemy. This is dangerous, and under such circumstances
-it is not advisable to undertake anything. Keeping still is the easiest
-way  of escaping from the threatening danger.
-
-Six in the second place means:
-
-he holds him fast with yellow oxhide.
-
-No one can tear him loose.
-
-Yellow is the color of the middle. It indicates that which is correct
-and in line with duty. Oxhide is strong and not to be torn.  While the
-superior   men retreat and the inferior press after them, the inferior man
-represented   here holds on so firmly and tightly to the superior man that
-the latter cannot  shake him off. And because he is in quest of what is
-right  an so strong in  purpose, he reaches his goal. Thus the line confirms
-what  is said in the Judgment: "In what is small" --here equivalent to "in
-the inferior man" -- "perseverance furthers."
-
-Nine in the third place means:
-
-A halted retreat 
-Is nerve-wracking and dangerous.
-
-To retain people as men- and maidservants
-Brings good fortune.
-
-When it is time to retreat it is both unpleasant and dangerous to
-be held back, because then one no longer has freedom of action. In such a
-case the only expedient is to take into one's service, so to speak, those
-who refuse to let one go, so that one may at least keep one's initiative
-and not fall helplessly under their domination. But even with this expedient
-the situation is far from satisfactory--for what can one hope to accomplish
-with such servants?
-
-Nine in the fourth place means:
-
-Voluntary retreat brings good fortune to the superior man
-And downfall to the inferior man.
-
-In retreating the superior man is intent on taking his departure willingly
-and in all friendliness. He easily adjusts his mind to retreat, because
-in  retreating he does not have to do violence to his convictions. The
-only   one  who suffers is the inferior man from whom he retreats, who will
-degenerate     when deprived of the guidance of the superior man.
-Nine in the fifth place means:
-
-Friendly retreat. Perseverance brings good fortune.
-
-It is the business of the superior man to recognize in time that the
-moment for retreat has come. If the right moment is chosen, the retreat
-can  be carried out within the forms of perfect friendliness, without the
-necessity  of disagreeable discussions. Yet, for all the observance of
-amenities,   absolute  firmness of decision is necessary if one is not to
-be led astray   by irrelevant  considerations.
-
-Nine at the top means:
-
-Cheerful retreat. Everything serves to further.
-
-The situation is unequivocal. Inner detachment has become an established
-fact, and we are at liberty to depart. When one sees the way ahead thus
-clearly,  free of all doubt, a cheerful mood sets in, and one chooses what
-is right  without further thought. Such a clear path ahead always leads
-to  the good.
 
 
 
-<a name="34"></a>
 34. Ta Chuang / The Power of the Great
 --------------------------------------
 
@@ -3160,91 +2039,11 @@ However,     true greatness depends on being in harmony with what is right.
 Therefore    in times of great power the superior man avoids doing anything
 that is not   in harmony with the established order.
 
-THE LINES
-
-Nine at the beginning means:
-
-Power in the toes.
-Continuing brings misfortune.
-
-This is certainly true.
-
-The toes are in the lowest place and are ready to advance. So likewise
-great power in lowly station is inclined to effect advance by force.
-This,     if carried further, would certainly lead to misfortune, and therefore
-by   way of advice a warning is added.
-
-Nine in the second place means:
-
-Perseverance brings good fortune.
-
-The premise here is that the gates to success are beginning to open.
-Resistance gives way and we forge ahead. This is the point at which,
-only     too easily, we become the prey of exuberant self-confidence. This
-is why    the oracle says that perseverance (i.e., perseverance in inner
-equilibrium,    without excessive use of power) brings good fortune.
-
-Nine in the third place means:
-
-The inferior man works through power.
-
-The superior man does not act thus.
-
-To continue is dangerous.
-A goat butts against a hedge
-And gets its horns entangled.
-
-Making a boast of power leads to entanglements, just as a goat entangles
-its horns when it butts against a hedge. Whereas an inferior man revels
-in  power when he comes into possession of it, the superior man never makes
-this  mistake. He is conscious at all times of the danger of pushing ahead
-regardless  of circumstances, and therefore renounces in good time the
-empty   display of force.
-Nine in the fourth place means:
-
-Perseverance brings good fortune.
-Remorse disappears.
-
-The hedge opens; there is no entanglement.
-Power depends upon the axle of a big cart.
-
-If a man goes on quietly and perseveringly working at the removal
-of resistances, success comes in the end. The obstructions give way and all
-occasion for remorse arising from excessive use of power disappears.
-
-Such a man's power does not show externally, yet it can move heavy
-loads, like a big cart whose real strength lies in its axle. The less
-that    power is applied outwardly, the greater its effect.
-
-Six in the fifth place means:
-
-Loses the goat with ease.
-
-No remorse.
-
-The goat is noted for hardness outwardly and weakness within. Now
-the situation is such that everything is easy; there is no more resistance.
-One can give up a belligerent, stubborn way of acting and will not have to
-regret it.
-
-Six at the top means:
-
-A goat butts against a hedge.
-It cannot go backward, it cannot go forward.
-
-Nothing serves to further.
-If one notes the difficulty, this brings good fortune.
-
-If we venture too far we come to a deadlock, unable either to advance
-or to retreat and whatever we do merely serves to complicate thing further.
-Such obstinacy leads to insuperable difficulties. But if, realizing the
-situation,  we compose ourselves and decide not to continue, everything
-will  right itself  in time.
 
 
 
-<a name="35"></a>
 35. Chin / Progress
+-------------------
 
 above  LI  THE CLINGING, FIRE
 below  K'UN  THE RECEPTIVE, EARTH
@@ -3289,98 +2088,11 @@ of man is likewise originally good, but it becomes clouded by contact with
 earthly things and therefore needs purification before it can shine forth
 in its native clarity.
 
-THE LINES
-
-Six at the beginning means:
-
-Progressing, but turned back.
-Perseverance brings good fortune.
-If one meets with no confidence, one should remain calm.
-
-No mistake.
-
-At a time when all elements are pressing for progress, we are still
-uncertain whether in the course of advance we may not meet with a rebuff.
-Then the thing to do is simply continue in what is right; in the end
-this     will bring good fortune. It may be that we meet with no confidence.
-In  this   case we ought not to try to win confidence regardless of the situation,
-but  should remain calm and cheerful and refuse to be roused to anger.
-Thus   we  remain free of mistakes.
-
-Six in the second place means:
-
-Progressing, but in sorrow.
-Perseverance brings good fortune.
-
-Then one obtains great happiness from one's ancestress.
-
-Progress is halted; an individual is kept from getting in touch with
-the man in authority with whom he has a connection. When this happens,
-he   must remain persevering, although he is grieved; then with a maternal
-gentleness   the man in question will bestow great happiness upon him. This
-happiness  comes to him-and is well deserved-because in this case mutual
-attraction does not rest on selfish or partisan motives but on firm and correct
-principles.
-
-Six in the third place means:
-
-All are in accord. Remorse disappears.
-
-A man strives onward, in association with others whose backing encourages
-him. This dispels any cause for regret over the fact that he does not
-have    enough independence to triumph unaided over every hostile turn of
-fate.
-
-Nine in the fourth place means:
-
-Progress like a hamster.
-Perseverance brings danger.
-
-In times of progress it is easy for strong men in the wrong places
-to amass great possessions. But such conduct shuns the light. And since
-times  of progress are inevitably brought to the light, perseverance in
-such  action  always leads to danger.
-Six in the fifth place means:
-
-Remorse disappears.
-
-Take not gain and loss to heart.
-Undertakings bring good fortune.
-Everything serves to further.
-
-The situation described here is that of one who, finding himself in
-an influential position in a time of progress, remains gentle and reserved.
-He might reproach himself for lack of energy in making the most of the
-propitiousness   of the time and obtaining all possible advantage. However,
-this regret passes   away. He must not take either loss or gain to heart;
-they are minor considerations.   What matters much more is the fact that
-in this way he has assured himself   of opportunities for successful and
-beneficent influence.   
-
-Nine at the top means:
-
-Making progress with the horns is permissible
-Only for the purpose of punishing one's own city.
-
-To be conscious of danger brings good fortune.
-
-No blame. 
-Perseverance brings humiliation.
-
-Making progress with lowered horns-i.e., acting on the offensive-is
-permissible, in times like those referred to here, only in dealing with
-the  mistakes of one's own people. Even then we must bear in mind that
-proceeding     on the offensive may always be dangerous. In this way we avoid
-the mistakes     that otherwise threaten, and succeed in what we set out
-to do. On the other    hand, perseverance in such over energetic behavior,
-especially toward persons    with whom there is no close connection, will
-lead to humiliation.
 
 
 
-<a name="36"></a>
 36. Ming I / Darkening of the light
-
+-----------------------------------
 
 
 above  K'UN  THE RECEPTIVE, EARTH
@@ -3426,94 +2138,11 @@ others; neither    should one drag them censoriously into the light.  In
 social intercourse   one should not try to be all-knowing. One should let
 many things pass, without    being duped.
 
-THE LINES
-
-Nine at the beginning means:
-
-Darkening of the light during flight.
-He lowers his wings.
-
-The superior man does not eat for three days
-On his wanderings.
-But he has somewhere to go.
-
-The host has occasion to gossip about him.
-
-With grandiose resolve a man endeavors to soar above all obstacles,
-but thus encounters a hostile fate. He retreats and evades the issue.
-The    time is difficult. Without rest, he must hurry along, with no permanent
-abiding  place. If he does not want to make compromises within himself,
-but  insists  on remaining true to his principles, he suffers deprivation.
-Never  the less  he has a fixed goal to strive for even though the people
-with whom  he lives  do not understand him and speak ill of him.
-Six in the second place means:
-
-Darkening of the light injures him in the left thigh.
-He gives aid with the strength of a horse.
-Good fortune.
-
-Here the Lord of Light is in a subordinate place and is wounded by
-the Lord of Darkness. But the injury is not fatal; it is only a hindrance.
-Rescue is still possible. The wounded man gives no thought to himself;
-he   thinks only of saving the others who are also in danger. Therefore
-he  tries   with all his strength to save all that can be saved. There is
-good  fortune   in thus acting according to duty.
-
-Nine in the third place means:
-
-Darkening of the light during the hunt in the south.
-
-Their great leader is captured.
-One must not expect perseverance too soon.
-
-It seems as if chance were at work. While the strong, loyal man is
-striving eagerly and in good faith to create order, he meets the ringleader
-of the disorder, as if by accident, and seizes him. Thus victory is achieved.
-But in abolishing abuses one must not be too hasty.  This would turn
-out    badly because the abuses have been in existence so long.
-
-Six in the fourth place means:
-
-He penetrates the left side of the belly.
-One gets at the very heart of the darkening of the light.
-
-We find ourselves close to the commander of darkness and so discover
-his mot secret thoughts. In this way we realize that there is no longer
-any  hope of improvement, and thus we are enabled to leave the scene of
-disaster    before the storm breaks.
-Six in the fifth place means:
-
-Darkening of the light as with Prince Chi.
-Perseverance furthers.
-
-Prince Chi lived at the court of the evil tyrant Chou Hsin, who, although
-not mentioned by name, furnished the historical example on which this
-whole    situation is based. Prince Chi was a relative of the tyrant and
-could not    withdraw from the court; therefore he concealed his true sentiments
-and  feigned  insanity. Although he was held a slave, he did not allow external
-misery to deflect him from his convictions.  This provides a teaching for
-those who cannot leave their posts in times of darkness. In order to escape
-danger,  they need invincible perseverance of spirit and redoubled caution
-in their  dealings with the world.
-
-Six at the top means:
-
-Not light but darkness.
-First he climbed up to heaven,
-
-Then plunged into the depths of the earth.
-
-Here the climax of the darkening is reached. The dark power at first
-held so high a place that it could wound all who were on the side of
-good     and of the light. But in the end it perishes of its own darkness,
-for evil    must itself fall at the very moment when it has wholly overcome
-the good,    and thus consumed the energy to which it owed its duration.
 
 
 
-
-<a name="37"></a>
 37. Chia Jên / The Family [The Clan]
+------------------------------------
 
 above  SUN  THE GENTLE, WIND
 below  LI  THE CLINGING, FIRE
@@ -3583,93 +2212,12 @@ one's   entire conduct, just as the wind is made effective by am impression
 on others   that they can adapt and conform to it. If words and conduct are
 not in accord   and consistent, they will have no effect.
 
-THE LINES
-
-Nine at the beginning means:
-
-Firm seclusion within the family.
-Remorse disappears.
-
-The family must form a well-defined unit within which each member
-knows his place. From the beginning each child must be accustomed to firmly
-established rules of order, before ever its will is directed to other things.
-If we begin too late to enforce order, when the will of the child has already
-been overindulged, the whims and passions, grown stronger with the years,
-offer resistance and give cause for remorse. If we insist on order from the
-outset, occasions for remorse may arise-in general social life these are
-unavoidable-but the remorse always disappears again, and everything rights
-itself. For there is nothing easily avoided and more difficult to carry through
-than "breaking a child's will."
-Six in the second place means:
-
-She should not follow her whims.
-
-She must attend within to the food.
-Perseverance brings good fortune.
-
-The wife must always be guided by the will of the master of the house,
-be he father, husband, or grown son. There, without having to look for
-them,   she has great and important duties.  She must attend to the nourishment
-of  her family and to the food for the sacrifice. IN this way she becomes
-the  center of the social and religious life of the family, and her perseverance
-in this position brings good fortune to the whole house.   In relation
-to   general conditions, the counsel here is to seek nothing by means of
-force,   but quietly to confine oneself to the duties at hand.
-
-Nine in the third place means:
-
-When tempers flare up in the family,
-
-Too great severity brings remorse.
-Good fortune nonetheless.
-When woman and chile dally and laugh
-It leads in the end to humiliation.
-
-In the family the proper mean between severity and indulgence ought
-to prevail. Too great severity toward one's own flesh and blood leads
-to   remorse. The wise thing is to build strong dikes within which complete
-freedom   of movement is allowed each individual. But in doubtful instances
-too great   severity, despite occasional mistakes, is preferable, because
-it preserves   discipline in the family, whereas too great weakness leads
-to disgrace.
-
-Six in the fourth place means:
-
-She is the treasure of the house.
-Great good fortune.
-
-It is upon the woman of the house that the well-being of the family
-depends. Well-being prevails when expenditures and income are soundly
-balanced.    This leads to great good fortune. In the sphere of public life,
-this line    refers to the faithful steward whose measures further the general
-welfare.
-Nine in the fifth place means:
-
-As a king he approaches his family.
-Fear not.
-Good fortune.
-
-A king is the symbol of a fatherly man who is richly endowed in mind.
-He does nothing to make himself feared; on the contrary, the whole family
-can trust him, because love governs their intercourse. His character
-of   itself  exercises the right influence.
-
-Nine at the top means:
-
-His work commands respect.'
-In the end good fortune comes.
-
-In the last analysis, order within the family depends on the character
-of the master of the house. If he cultivates his personality so that
-it   works  impressively through the force of inner truth, all goes well
-with  the family.  In a ruling position one must of his own accord assume
-responsibility.
 
 
 
-<a name="38"></a>
+
 38. K'uei / Opposition
-
+----------------------
 above  LI  THE CLINGING, FLAME
 below  TUI  THE JOYOUS, LAKE
 
@@ -3714,106 +2262,12 @@ or  vulgarity through intercourse or community of interests with persons
 of another  sort; regardless of all commingling, he will always preserve
 his individuality.
 
-THE LINES
-
-Nine at the beginning means:
-
-Remorse disappears.
-If you lose your horse, do not run after it;
-It will come back of its own accord.
-When you see evil people,
-Guard yourself against mistakes.
-
-Even in times when oppositions prevail, mistakes can be avoided, so
-that remorse disappears. When opposition begins to manifest itself, a
-man    must not try to bring about unity by force, for by so doing he would
-only    achieve the contrary, just as a horse goes farther and farther away
-if one   runs after it. It it is one's won horse, one can safely let it go;
-it will   come back of its own accord. So too when someone who belongs with
-us is momentarily  estranged because of a misunderstanding, he will return
-of his own accord  if we leave matters to him. One the other hand, it is
-well to be cautious  when evil men who do not belong with us force themselves
-upon us, again as  the result of a misunderstanding. Here the important thing
-is to avoid mistakes.  We must not try to shake off these evil men by force;
-this would give rise  to real hostility. We must simply endure them. They
-will eventually withdraw  of their own accord.
-Nine in the second place means:
-
-One meets his lord in a narrow street.
-
-No blame.
-
-As a result of misunderstandings, it has become impossible for people
-who by nature belong together to meet in the correct way. This being
-so,    an accidental meeting under informal circumstances may serve the purpose,
-provided there is an inner affinity between them.
-
-Six in the third place means:
-
-One sees the wagon dragged back,
-
-The oxen halted,
-A man's hair and nose cut off.
-
-Not a good beginning, but a good end.
-
-Often it seems tot a man as though everything were conspiring against
-him. He sees himself checked and hindered in his progress, insulted and
-dishonored.  However, he must not let himself be misled; despite this opposition,
-he must  cleave to the man with whom he knows he belongs. Thus, notwithstanding
-the  bad beginning, the matter will end well.
-
-Nine in the fourth place means:
-
-Isolated through opposition,
-One meets a like-minded man
-With whom one can associate in good faith.
-Despite the danger, no blame.
-
-If a man finds himself in a company of people from whom he is separated
-by an inner opposition, he becomes isolated. But if in such a situation
-a  man meets someone who fundamentally by the very law of his being, is
-kin   to him, and whom he can trust completely, he overcomes all the dangers
-of   isolation. His will achieves its aim, and he becomes free of faults.
-Six in the fifth place means:
-
-Remorse disappears.
-
-The companion bits his way through the wrappings.
-If one goes to him,
-How could it be a mistake?
-
-Coming upon a sincere man, one fails to recognize him at first because
-of the general estrangement. However, he bites his way through the wrappings
-that are causing the separation. When such a companion thus reveals himself
-in his true character, it is one's duty to go to meet him and to work
-with    him.
-
-Nine at the top means:
-
-Isolated through opposition,
-One sees one's companion as a pig covered with dirt,
-As a wagon full of devils.
-First one draws a bow against him,
-
-Then one lays the bow aside.
-He is not a robber; he will woo at the right time.
-As one goes, rain falls; then good fortune comes.
-
-Here the isolation is due to misunderstanding; it is brought about
-not by outer circumstances but by inner conditions. A man misjudges his
-best  friends, taking them to be as unclean as a dirty pig in and as dangerous
-as a wagon full of devils. He adopts an attitude of defense. But in the
-end,   realizing his mistake, he lays aside the bow, perceiving that the
-other is  approaching with the best intentions for the purpose of close union.
-Thus  the tension is relieved. The union resolves the tension, just as falling
-rain relieves the sultriness preceding a thunderstorm. All goes well,
-for    just when opposition reaches its climax it changes over to its antithesis.
 
 
 
-<a name="39"></a>
+
 39. Chien / Obstruction
+-----------------------
 
 above  K'AN  THE ABYSMAL, WATER
 below  KêN  KEEPING STILL, MOUNTAIN
@@ -3861,92 +2315,12 @@ fate,  the superior man seeks the error within himself, and through this
 introspection  the external obstacle becomes for him an occasion for inner
 enrichment and  education.
 
-THE LINES
-
-Six at the beginning means:
-
-Going leads to obstructions,
-Coming meets with praise.
-
-When one encounters an obstruction, the important thing is to reflect
-on how best to deal with it. When threatened with danger, one should
-not    strive blindly to go ahead, for this only leads to complications.
-The correct    thing is, on the contrary, to retreat for the time being,
-not in order to   give up the struggle but to await the right moment for
-action.
-
-Six in the second place means:
-
-The King's servant is beset by obstruction upon obstruction,
-But it is not his own fault.
-
-Ordinarily it is best to go around an obstacle and try to overcome
-it along the line of least resistance. But there is one instance in which
-a man must go out to meet the trouble, even though difficulty piles upon
-difficulty: this is when the path of duty leads directly to it-in other
-words,  when he cannot act of his own volition but is duty bound to go and
-seek out  danger in the service of a higher cause. Then he may do it without
-compunction,  because it is not through any fault of his that he is putting
-himself in this difficult situation.
-
-Nine in the third place means:
-
-Going leads to obstructions;
-Hence he comes back.
-
-While the preceding line shows the official compelled by duty to follow
-the way of danger, this line shows the man who must act as father of
-a  family   or as head of his kin. If he were to plunge recklessly in to
-danger,  it would  be a useless act, because those entrusted to his care
-cannot get  along by  themselves. But if he withdraws and turns back to his
-own, they  welcome him  with great joy.
-
-Six in the fourth place means:
-
-Going leads to obstructions,
-Coming leads to union.
-
-This too describes a situation that cannot be managed single-handed.
-In such a case the direct way is not the shortest. If a person were to
-forge   ahead on his own strength and without the necessary preparations,
-he would   not find the support he needs and would realize too late that
-he has been   mistaken in his calculations, inasmuch as the conditions on
-which he hoped   he could rely would prove to be inadequate. In this case
-it is better, therefore,   to hold back for the time being and to gather
-together trustworthy companions   who can be counted upon for help in overcoming
-the obstructions.
-Nine in the fifth place means:
-
-In the midst of the greatest obstructions,
-Friends come.
-
-Here we see a man who is called to help in an emergency. He should
-not seek to evade the obstructions, no matter how dangerously they pile
-up  before him. But because he is really called to the task, the power
-of   his  spirit is strong enough to attract helpers whom he can effectively
-organize,    so that through the well-directed co-operation of all participants
-the obstruction   is overcome.
-
-Six at the top means:
-
-Going leads to obstructions,
-Coming leads to great good fortune.
-It furthers one to see the great man.
-
-This refers to a man who has already left the world and its tumult
-behind him. When the time of obstructions arrives, it might seem that
-the    simplest thing for him to do would be to turn his back upon the world
-and    take refuge in the beyond. But this road is barred to him. He must
-not seek   his own salvation and abandon the world to its adversity. Duty
-calls him  back once more into the turmoil of life. Precisely because of
-his experience   and inner freedom, he is able to create something both great
-and complete   that brings good fortune. And it is favorable to see the great
-man in alliance    with whom one can achieve the work of rescue.
 
 
 
-<a name="40"></a>
+
 40. Hsieh / Deliverance
+-----------------------
 
 above  CHêN  THE AROUSING, THUNDER
 below  K'AN  THE ABYSMAL, WATER
@@ -3994,101 +2368,12 @@ passes   over mistakes, the unintentional transgressions, just as thunder
 dies away.   He forgives misdeeds, the intentional transgressions, just as
 water washes   everything clean.
 
-THE LINES
-
-Six at the beginning means:
-
-Without blame.
-
-In keeping with the situation, few words are needed. The hindrance
-is past, deliverance has come. One recuperates in peace and keeps still.
-This is the right thing to do in times when difficulties have been overcome.
-Nine in the second place means:
-
-One kills three foxes in the field
-And receives a yellow arrow.
-Perseverance brings good fortune.
-
-The image is taken from the hunt. The hunter catches three cunning
-foxes and receives a yellow arrow as a reward. The obstacles in public
-life   are the designing foxes who try to influence the ruler through flattery.
-They must be removed before there can be any deliverance. But the struggle
-must not be carried on with the wrong weapons. The yellow color points
-to   measure and mean in proceeding against the enemy; the arrow signifies
-the   straight course. If one devotes himself wholeheartedly to the task
-of deliverance,    he develops so much inner strength from his rectitude
-that it acts as a  weapon  against all that is false and low.
-
-Six in the third place means:
-
-If a man carries a burden on his back
-And nonetheless rides in a carriage,
-He thereby encourages robbers to draw near.
-Perseverance leads to humiliation.
-
-This refers to a man who has come out of needy circumstances in to
-comfort and freedom from want. If now, in the manner of an upstart, he
-tries   to take his ease in comfortable surroundings that do not suit his
-nature,   he thereby attracts robbers. If he goes on thus he is sure to
-bring  disgrace   upon himself. Confucius says about this line:
-
-Carrying a burden on the back is the business of common man; a carriage
-is the appurtenance of a man of rank. Now, when a common man uses the
-appurtenance    of man of rank, robbers plot to take it away from him. If
-a man is insolent    toward those above him and hard toward those below him,
-robbers plot to  attack  him. Carelessness in guarding things tempts thieves
-to steal. Sumptuous  ornaments  worn by a maiden are an enticement to rob
-her of her virtue.
-
-Nine in the fourth place means:
-
-Deliver yourself from your great toe.
-
-Then the companion comes,
-And him you can trust.
-
-In times of standstill it will happen that inferior people attach
-themselves to a superior man, and through force of daily habit they may grow
-very close to him and become indispensable, just as the big toe is indispensable
-to the foot because it makes walking easier. But when the time of deliverance
-draws near, with its call to deeds, a man must free himself from such
-chance    acquaintances with whim he has no inner connection. For otherwise
-the friends    who share his views, on whom he could really rely and together
-with whom   he could accomplish something, mistrust him and stay away.
-Six in the fifth place means:
-
-If only the superior man can deliver himself,
-It brings good fortune.
-
-Thus he proves to inferior men that he is in earnest.
-
-Times of deliverance demand inner resolve. Inferior people cannot
-be driven off by prohibitions or any external means. If one desires to be
-rid of them, he must first break completely with them in his own mind; they
-will see for themselves that he is in earnest and will withdraw.
-
-Six at the top means:
-
-The prince shoots at a hawk on a high wall.
-He kills it. Everything serves to further.
-
-The hawk on a high wall is the symbol of a powerful inferior in a
-high position who is hindering the deliverance. He withstands the force of
-inner influences, because he is hardened in his wickedness. He must be forcibly
-removed, and this requires appropriate means. Confucius says about this
-line:
-
-The hawk is the object of the hunt; bow and arrow are the tools and
-means. The marksman is man (who must make proper use of the means to
-his    end). The superior man contains the means in his own person. He bides
-his    time and then acts. Why then should not everything go well? He acts
-and  is  free. Therefore all he has to do is to go forth, and he takes his
-quarry.    This is how a man fares who acts after he has made ready the means.
 
 
 
-<a name="41"></a>
+
 41. Sun / Decrease
+------------------
 
 above  KêN  KEEPING STILL, MOUNTAIN
 below  TUI  THE JOYOUS, LAKE
@@ -4146,97 +2431,12 @@ is necessary; anger  must be decreased by keeping still, the instincts must
 be curbed by restriction.  By this decrease of the lower powers of the psyche,
 the higher aspects of  the soul are enriched/
 
-THE LINES
-
-Nine at the beginning means:
-
-Going quickly when one's tasks are finished
-Is without blame.
-But one must reflect on how much one may decrease others.
-
-It is unselfish and good when a man, after completing his own urgent
-tasks, uses his strength in the service of others, and without bragging
-or  making much of it, helps quickly where help is needed. But the man
-in   a superior  position who is thus aided must weigh carefully how much
-he can   accept without  doing the helpful servant or friend real harm. Only
-where   such delicacy of  feeling exists can one give oneself unconditionally
-and   without hesitation.
-
-Nine in the second place means:
-
-Perseverance furthers.
-
-To undertake something brings misfortune.
-Without decreasing oneself,
-One is able to bring increase to others.
-
-A high-minded self-awareness and a consistent seriousness with no
-forfeit of dignity are necessary if a man wants to be of service to others.
-He who throw himself away in order to do the bidding of a superior diminishes
-his own position without thereby giving lasting benefit to the other. This
-is wrong. To render true service of lasting value to another, one must serve
-him without relinquishing oneself.
-
-Six in the third place means:
-
-When three people journey together,
-
-Their number increases by one.
-When one man journeys alone,
-He finds a companion.
-
-When there are three people together, jealousy arises. One of them
-will have to go. Avery close bond is possible only between two people.
-But   when one man is lonely, he is certain to find a companion who complements
-him.
-
-Six in the fourth place means:
-
-If a man deceases his faults,
-It makes the other hasten to come and rejoice.
-
-No blame.
-
-A man's faults often prevent even well-disposed people from coming
-closer to him. His faults are sometimes reinforced by the environment
-in   which he lives. But if in humility he can bring himself to the point
-of giving  them up, he frees his well-disposed friends from an inner pressure
-and causes  them to approach the more quickly, and there is mutual joy.
-Six in the fifth place means:
-
-Someone does indeed increase him.
-
-Ten pairs of tortoises cannot oppose it.
-
-Supreme good fortune.
-
-
-If someone is marked out by fate for good fortune, it comes without
-fail. All oracles-as for instance those that are read from the shells
-of   tortoises-are bound to concur in giving him favorable signs. He need
-fear   nothing, because his luck is ordained from on high.
-
-Nine at the top means:
-
-If one is increased without depriving other,
-
-There is no blame.
-Perseverance brings good fortune.
-It furthers one to undertake something.
-One obtains servants
-But no longer has a separate home.
-
-There are people who dispense blessings to the whole world. Every
-increase in power that comes to them benefits the whole of mankind and therefore
-does not bring decrease to others. Through perseverance and zealous work
-a man wins success and finds helpers as they are needed. But what he accomplishes
-is not a limited private advantage; it is a public good and available
-to   everyone.
 
 
 
-<a name="42"></a>
+
 42. I / Increase
+----------------------------------------------------------------------------
 
 above  SUN  THE GENTLE, WIND
 below CHêN  THE AROUSING, THUNDER
@@ -4282,109 +2482,12 @@ on earth his own. If he perceives something bad in himself, let him rid himself
 of it. In this way he becomes free of evil. This ethical change represents
 the most important increase of personality.
 
-THE LINES
-
-Nine at the beginning means:
-
-It furthers one to accomplish great deeds.
-
-Supreme good fortune. No blame.
-
-If great help comes to a man from on high, this increased strength
-must be used to achieve something great for which he might otherwise
-never     have found energy, or readiness to take responsibility. Great good
-fortune     is produced by selflessness, and in bringing about great good
-fortune,  he   remains free of reproach.
-Six in the second place means:
-
-Someone does indeed increase him; 
-
-Ten pairs of tortoises cannot oppose it.
-Constant perseverance brings good fortune.
-
-The king presents him before God.
-Good fortune.
-
-A man brings about real increase by producing in himself the conditions
-for it, that it, through receptivity to and love of the good. Thus the
-thing   for which he strives comes of itself, with the inevitability of
-natural   law.  Where increase is thus in harmony with the highest laws of
-the universe,    it cannot be prevented by any constellation of accidents.
-But everything   depends on his not letting unexpected good fortune make
-him heedless; he  must make it his own through inner strength an steadfastness.
-Then he acquires   meaning before God and man, and can accomplish something
-for the good of  the world.
-
-Six in the third place means:
-
-One is enriched through unfortunate events.
-
-No blame, if you are sincere
-And walk in the middle,
-And report with a seal to the prince.
-
-A time of blessing and enrichment has such powerful effects that even
-events ordinarily unfortunate must turn out to the advantage of those
-affected    by them. These persons become free of error, and by acting in
-harmony with    truth they gain such inner authority that they exert influence
-as if sanctioned    by the letter and seal.
-
-Six in the fourth place means:
-
-If you walk in the middle 
-And report the prince,
-He will follow.
-It furthers one to be used
-In the removal of the capital.
-
-It is important that there should be men who mediate between leaders
-and followers. These should be disinterested people, especially in times
-of increase, since the benefit is to spread from the leader to the people.
-Nothing of this benefit should be held back in a selfish way; it should
-really  reach those for whom it is intended. This sort of intermediary,
-who  also exercises a good influence on the leader, is especially important
-in  times when it is a matter of great undertakings, decisive for the future
-and requiring the inner assent of all concerned.
-Nine in the fifth place means:
-
-If in truth you have a kind heart, ask not.
-
-Supreme good fortune.
-
-Truly, kindness will be recognized as your virtue. 
-
-True kindness does not count upon nor ask about merit and gratitude
-but acts from inner necessity. And such a truly kind heart finds itself
-rewarded  in being recognized, and thus the beneficent influence will spread
-unhindered.
-
-Nine at the top means:
-
-He brings increase to no one.
-Indeed, someone even strikes him.
-He does not keep his heart constantly steady.
-Misfortune.
-
-The meaning here is that through renunciation those in high place
-should bring increase to those below. By neglecting this duty and helping
-no one, they in turn lose the furhtering influence of others and soon find
-themselves alone. In this way they invite attacks. An attitude not permanently
-in harmony with the demands of the time will necessarily bring misfortune
-with it. Confucius says about this line:
-
-The superior man sets his person at rest before he moves; he composes
-his mind before he speaks; he makes his relations firm before he asks
-for    something. By attending to these three matters, the superior man gains
-complete   security. But if a man is brusque in his movements, others will
-not cooperate.   If he is agitated in his word, they awaken no echo in others.
-If he asks  for something without having fist established relations, it
-will  not be given   to him. If no one is with him, those who would harm
-him draw  near.
 
 
 
-<a name="43"></a>
+
 43. Kuai / Break-through (Resoluteness)
+----------------------------------------------------------------------------
 
 above  TUI  THE JOYOUS, LAKE
 below  CH'IEN  THE CREATIVE, HEAVEN
@@ -4446,113 +2549,12 @@ while he is accumulating.   In the same way, in developing his character
 he takes care not to become  hardened in obstinacy but to remain receptive
 to impressions by help of strict  and continuous self-examination.
 
-THE LINES
-
-Nine at the beginning means:
-
-Mighty in the forward-striding toes.
-When one goes and is not equal to the task,
-One makes a mistake.
-
-In times of resolute advance, the beginning is especially difficult.
-We feel inspired to press forward but resistance is still strong; therefore
-we ought to gauge our own strength and venture only so far as we can
-go   with  certainty of success. To plunge blindly ahead is wrong, because
-it  is precisely  at the beginning that an unexpected setback can have the
-most  disastrous results.
-
-Nine in the second place means:
-
-A cry of alarm. Arms at evening and at night.
-Fear nothing.
-
-Readiness is everything. Resolution is indissolubly bound up with
-caution. If an individual is careful and keeps his wits about him, he need
-not become excited or alarmed. If he is watchful at all times, even before
-danger is present, he is armed when danger approaches and need not be afraid.
-The superior man is on his guard against what is not yet in sight and on
-the alert for what is not yet within hearing; therefore he dwells in the
-midst of difficulties as thought hey did not exist. If a man develops his
-character, people submit to him of their own accord. If reason triumphs,
-the passions withdraw of themselves. To be circumspect and not to forget
-one's armor is the right way to security.
-
-Nine in the third place means:
-
-To be powerful in the cheekbones 
-Brings misfortune.
-
-The superior man is firmly resolved.
-He walks alone and is caught in the rain.
-He is bespattered,
-And people murmur against him.
-
-No blame.
-
-Here we have a man in an ambiguous situation. While all others are
-engaged in a resolute fight against all that is inferior, he alone has
-a  certain relationship with an inferior man. If he were to show strength
-outwardly  and turn against this man before the time is ripe, he would only
-endanger  the entire situation, because the inferior man would too quickly
-have recourse   to countermeasures. The task of the superior man becomes
-extremely difficult   here. He must be firmly resolved within himself and,
-while maintaining association   with the inferior man, avoid any participation
-in his evilness. He will of  course be misjudged. It will be thought that
-he belong to the party of the  inferior man. He will be lonely because no
-one will understand him. His relations  with the inferior man will sully
-him in the eyes of the multitude,  and they  will turn against him, grumbling.
-But he can endure this lack of  appreciation  and makes no mistake, because
-he remains true to himself.
-
-Nine in the fourth place means:
-
-There is no skin on his thighs,
-And walking comes hard.
-If a man were to let himself be led like a sheep,
-Remorse would disappear.
-But if these words are heard
-
-They will not be believed.
-
-Here a man is suffering from inner restlessness and cannot abide in
-his place. He would like to push forward under any circumstances, but
-encounters    insuperable obstacles. Thus his situation entails an inner
-conflict. This    is due to the obstinacy with which he seeks to enforce
-his will.  If he  would  desist from this obstinacy, everything would go
-well. But this advice,  like  so much other good counsel, will be ignored.
-For obstinacy makes a man unable  to hear, for all that he has ears.
-Nine in the fifth place means:
-
-In dealing with weeds,
-Firm resolution is necessary.
-Walking in the middle
-Remains free of blame.
-
-Weeds always grow back again and are difficult to exterminate. So
-too the struggle against an inferior man in a high position demands firm
-resolution. One has certain relations with him, hence there is danger that
-one may give up the struggle as hopeless. But this must not be. One must
-go on resolutely and not allow himself to be deflected from him course. Only
-in this way does one remain free of blame.
-
-Six at the top means:
-
-No cry.
-In the end misfortune comes.
-
-Victory seems to have been achieved. There remains merely a remnant
-of the evil resolutely to be eradicated as the time demands. Everything
-looks  easy. Just there, however, lies the danger. If we are not on guard,
-evil will succeed in escaping by means of concealment, and when it has
-eluded   us new misfortunes will develop from the remaining seeds, for evil
-does not  die easily. So too in dealing with the evil in own's own character,
-one must  go to work with thoroughness. If out of carelessness anything were
-to be overlooked, new evil would arise from it.
 
 
 
-<a name="44"></a>
+
 44. Kou / Coming to Meet
+----------------------------------------------------------------------------
 
 above  CH'IEN  THE CREATIVE, HEAVEN
 below  SUN  THE GENTLE, WIND
@@ -4605,88 +2607,12 @@ the ruler   through his commands. Heaven is far from the things of earth,
 but it sets   them in motion by means of the wind. The ruler is far form
 his people, but   he sets them in motion by means of his commands and decrees.
 
-THE LINES
-
-Six at the beginning means:
-
-It must be checked with a brake of bronze.
-Perseverance brings good fortune.
-If one lets it take its course, one experiences misfortune.
-Even a lean pig has it in him to rage around.
-
-If an inferior element has wormed its way in, it must be energetically
-checked at once. By consistently checking it, bad effects can be avoided.
-If it is allowed to take its course, misfortune is bound to result; the
-insignificance  of that which creeps in should not be a temptation to underrate
-it. A pig  that is still young and lean cannot rage around much, but after
-it has eaten  its fill and become strong, its true nature comes out if
-it   has not previously  been curbed.
-Nine in the second place means:
-
-There is a fish in the tank. No blame.
-Does not further guests.
-
-The inferior element is not overcome by violence but is kept under
-gentle control. Then nothing evil is to be feared. But care must be taken
-not to let it come in contact with those further away, because once free
-it would unfold its evil aspects unchecked.
-
-Nine in the third place means: There is no skin on his thighs,
-And walking comes hard.
-If one is mindful of the danger,
-
-No great mistake is made.
-
-There is a temptation to fall in with the evil element offering itself-a
-very dangerous situation. Fortunately circumstances prevent this; one
-would    like to do it, but cannot. This leads to painful indecision in behavior.
-But if we gain clear insight into the danger of the situation, we shall
-at  least avoid more serious mistakes.
-
-Nine in the fourth place means:
-
-No fish in the tank.
-
-This leads to misfortune.
-
-Insignificant people must be tolerated in order to keep them well
-disposed. Then we can make use of them if we should need them. If we become
-alienated from them and do not meet them halfway, they turn their backs on
-us and are not at our disposal when we need them. But this is our own fault.
-Nine in the fifth place means:
-
-A melon covered with willow leaves.
-Hidden lines.
-
-Then it drops down to one from heave.
-
-The melon, like the fish, is a symbol of the principle of darkness.
-It is sweet but spoils easily and for this reason is protected with a
-cover    of willow leaves. This is a situation in which a strong, superior,
-well-poised    man tolerates and protects the inferiors in his charge.  He
-has the firm   lines of order an beauty within himself but he does not lay
-stress upon them.  He does not bother his subordinates with outward show
-or tiresome admonitions   but leaves them quite free, putting his trust in
-the transforming power of  a strong and upright personality. And behold!
-Fate is favorable. His inferiors  respond to his influence and fall to his
-disposition like ripe fruit.
-
-Nine at the top means:
-
-He comes to meet with his horns.
-Humiliation. No blame.
-
-When a man has withdrawn from the world, its tumult often becomes
-unbearable to him. There are many people who in a noble pride hold themselves
-aloof from all that is low and rebuff it brusquely wherever it comes to meet
-them. Such persons are reproached for being proud and distant, but since
-active duties no longer hold them to the world, this does not greatly matter.
-They know how to bear the dislike of the masses with composure.
 
 
 
-<a name="45"></a>
+
 45.  Ts'ui / Gathering Together [Massing]
+----------------------------------------------------------------------------
 
 above  TUI  THE JOYOUS, LAKE
 below  K'UN  THE RECEPTIVE, EARTH
@@ -4747,101 +2673,12 @@ Thus  in the time of GATHERING TOGETHER we must arm promptly to ward off
 the unexpected.   Human woes usually come as a result of unexpected events
 against which we   are not forearmed. If we are prepared, they can be prevented.
 
-THE LINES
-
-Six at the beginning means:
-
-If you are sincere, but not to the end,
-
-There will sometimes be confusion, sometimes gathering together.
-If you call out, 
-
-Then after one grasp of the hand you can laugh again.
-Regret not. Going is without blame.
-
-The situation is this:  People desire to gather around a leader to
-whom they look up. But they are in a large group, by which they allow
-themselves    to be influenced, so that they waver in their decision. Thus
-they lack a  firm center around which to gather. But if expression is given
-to this need,  and if they call for help, one grasp of the hand from the
-leader is enough  to turn away all distress. Therefore they must not allow
-themselves to be  led astray. It is undoubtedly right that they should attach
-themselves to  this leader.
-
-Six in the second place means:
-
-Letting oneself be drawn
-Brings good fortune and remains blameless.
-If one is sincere,
-It furthers one to bring even a small offering.
-
-In the time of GATHERING TOGETHER, we should make no arbitrary choice
-of the way. There are secret forces at work, leading together those who
-belong  together. We must yield to this attraction; then we make no mistakes.
-Where  inner relationships exist, no great preparations and formalities
-are  necessary.  People understand one another forthwith, just as the Divinity
-graciously accepts a small offering if it comes from the heart.
-
-Six in the third place means:
-
-Gathering together amid sighs.
-
-Nothing that would further.
-Going is without blame.
-
-Slight humiliation.
-
-Often a man feels an urge to unite with others, but the individuals
-around him have already formed themselves into a group, so that he remains
-isolated. The whole situation proves untenable. Then he ought to choose
-the  way of progress, resolutely allying himself with a man who stands
-nearer    to the center of the group, and can help him to gain admission
-to the closed     circle. This is not a mistake, even though at first his
-position as an  outsider   is somewhat humiliating.
-Nine in the fourth place means:
-
-Great good fortune. No blame.
-
-This describes a man who gathers people around him in the name of
-his ruler. Since he is not striving for any special advantages for himself
-but is working unselfishly to bring about general unity, his work is crowned
-with success, and everything becomes as it should be.
-Nine in the fifth place means:
-
-If in gathering together one has position,
-
-This brings no blame.
-If there are some who are not yet sincerely in the work,
-
-Sublime and enduring perseverance is needed.
-
-Then remorse disappears.
-
-When people spontaneously gather around a man, it is only a good.
-It gives him a certain influence that can be altogether useful.. But of course
-there is also the possibility that many may gather around him not because
-of a feeling of confidence but merely because of his influential position.
-This is certainly to be regretted. The only means of dealing with such
-people   is to gain their confidence through steadfastness an intensified,
-unswerving   devotion to duty. In this way secret mistrust will gradually
-be overcome,   and there will be no occasion for regret.
-
-Six at the top means:
-
-Lamenting and sighing, floods of tears.
-
-No blame.
-
-It may happen that an individual would like to ally himself with another,
-but his good intentions are misunderstood. Then he becomes sad and laments.
-But this is the right course. For it may cause the other person to come
-to  his senses, so that the alliance that has been sought and so painfully
-missed  is after all achieved.
 
 
 
-<a name="46"></a>
+
 46.  Shêng / Pushing Upward
+----------------------------------------------------------------------------
 
 above K'UN  THE RECEPTIVE, EARTH
 below SUN  THE GENTLE, WIND, WOOD
@@ -4887,89 +2724,12 @@ Adapting itself to obstacles and bending around them, wood in the
 earth grows upward without haste and without rest. Thus too the superior
 man is devoted in character and never pauses in his progress.
 
-THE LINES
-
-Six at the beginning means:
-
-Pushing upward that meets with confidence
-Brings great good fortune.
-
-This situation at the beginning of ascent. Just as wood draws strength
-for its upward push from the root, which in itself is in the lowest place,
-so the power to rise comes from this low and obscure station. But there
-is  a spiritual affinity with the rulers above, and this solidarity creates
-the  confidence needed to accomplish something.
-
-Nine in the second place means:
-
-If one is sincere,
-It furthers one to bring even a small offering.
-
-No blame.
-
-Here a strong man is presupposed. It is true that he does not fit
-in with his environment, inasmuch as he is too brusque and pays too little
-attention to form. But as he is upright in character, he meets with response,
-and his lack of outward form does no harm. Here uprightness is the outcome
-of sound qualities of character, whereas in the corresponding line of the
-preceding hexagram it is the result of innate humility.
-
-Nine in the third place means:
-
-One pushes upward into an empty city.
-
-
-All obstructions that generally block progress fall away here. Things
-proceed with remarkable ease. Unhesitatingly one follows this road, in
-order   to profit by one's success. Seen from without, everything seems
-to  be in  the best of order. However, no promise of good fortune is added.
-It is a  question how long such unobstructed success can last. But it is
-wise not to yield to such misgivings, because they only inhibit one's power.
-Instead,  the point is to profit by the propitiousness of time.
-
-Six in the fourth place means:
-
-The king offers him Mount Ch'i.
-Good fortune. No blame.
-
-Mount Ch'i is in the western China, the homeland of King Wên,
-whose son, the Duke of Chou, added the words to the individual lines.
-The    pronouncement takes us back to a time when the Chou dynasty was coming
-into   power. At that time King Wên introduced his illustrious helpers
-to  the god of his native mountain, and they received their places in the
-halls  of the ancestors by the side of the ruler. This indicates a stage
-in which  pushing upward attains its goal. One acquires fame in the sight
-of gods and  men, is received into the circle of those who foster the spiritual
-life of  the nation, and thereby attains a significance that endures beyond
-time.
-Six in the fifth place means:
-
-Perseverance brings good fortune.
-One pushes upward by steps.
-
-When a man is advancing farther and farther, it is important for him
-not to become intoxicated by success. Precisely when he experiences great
-success it is necessary to remain sober and not to try to skip any stages;
-he must go on slowly, step by step, as though hesitant. Only such calm,
-steady  progress, overleaping nothing, leads to the goal.
-
-Six at the top means:
-
-Pushing upward in darkness.
-It furthers one
-
-To be unremittingly persevering.
-
-He who pushes upward blindly deludes himself. He knows only advance,
-not retreat. But this means exhaustion. In such a case it is important
-to   be constantly mindful that one must be conscientious and consistent
-and must  remain so. Only thus does one become free of blind impulse, which
-is always  harmful.
 
 
 
-<a name="47"></a>
+
 47. K'un / Oppression (Exhaustion)
+----------------------------------------------------------------------------
 
 above  TUI  THE JOYOUS, LAKE
 below  K'AN  THE ABYSMAL, WATER
@@ -5018,111 +2778,14 @@ In  such times there is nothing a man can do but acquiesce in his fate
 and   remain  true to himself. This concerns the deepest stratum of his being,
 for this  alone is superior to all external fate.
 
-THE LINES
-
-Six at the beginning means:
-
-One sits oppressed under a bare tree
-And strays into a gloomy valley.
-For three years one sees nothing.
-
-When adversity befalls a man, it is important above all things for
-him to be strong and to overcome the trouble inwardly. If he is weak,
-the    trouble overwhelms him. Instead of proceeding on his way, he remains
-sitting    under a bare tree and falls ever more deeply into gloom and melancholy.
-This  makes the situation only more and more hopeless. Such an attitude
-comes  from  an inner delusion that he must by all means overcome.
-Nine in the second place means:
-
-One is oppressed while at meat and drink.
-
-The man with the scarlet knee bands is just coming.
-It furthers one to offer sacrifice.
-
-To set forth brings misfortune.
-
-No blame.
-
-This pictures a state of inner oppression. Externally, all is well,
-one has meat and drink. But one is exhausted by the commonplaces of life,
-and there seems to be no way of escape. Then help comes from a high place.
-A prince-in ancient China princes wore scarlet knee bands- is in search
-of  able helpers. But there are still obstructions to be overcome. Therefore
-it is important to meet these obstructions in the visible realm by offerings
-and prayer. To set forth without being prepared would be disastrous,
-though     not morally wrong. Here a disagreeable situation must be overcome
-by patience     of spirit.
-
-Six in the third place means:
-
-A man permits himself to be oppressed by stone,
-And leans on thorns and thistles.
-He enters the house and does not see his wife.
-Misfortune.
-
-This shows a man who is restless and indecisive in times of adversity.
-At first he wants to push ahead, then he encounters obstructions that,
-it   is true, mean oppression only when recklessly dealt with. He butts
-his  head   against a wall and in consequence feels himself oppressed by
-the wall.  Then   he leans on things that have in themselves no stability
-and that are  merely   a hazard for him who leans on them.  Thereupon he
-turns back irresolutely     and retires into his house, only to find, as
-a fresh disappointment, that     his wife is not there. Confucius says about
-this line: 
-
-If a man permits himself to be oppressed by something that ought not
-to oppress him, his name will certainly be disgraced. If he leans on
-things     upon which one cannot lean, his life will certainly be endangered.
-For  him   who is in disgrace and danger, the hour of death draws near; how
-can  he then  still see his wife?
-
-Nine in the fourth place means:
-
-He comes very quietly, oppressed in a golden carriage.
-Humiliation, but the end is reached.
-
-A well-to-do man sees the need of the lower classes and would like
-very much to be of help. But instead of proceeding with speed and energy
-where their is need, he begins in a hesitant and measured way. Then he
-encounters    obstructions. Powerful and wealthy acquaintances draw him into
-their circle;    he has to do as they do and cannot withdraw from them. Hence
-he finds himself    in great embarrassment. But the trouble is transitory.
-The original strength    of his nature offsets the mistake he has made, and
-the goal is reached.
-Nine in the fifth place means:
-
-His nose and feet are cut off.
-Oppression at the hands of the man with the purple knee bands.
-Joy comes softly.
-It furthers one to make offerings and libations.
-
-An individual who has the good of mankind at heart is oppressed from
-above and below (this is the meaning of the cutting off of nose an defeat).
-He finds no help among the people whose duty it would be to aid in the
-work   of rescue (ministers wore purple knee bands). But little by little,
-things   take a turn for the better. Until that time, he should turn to
-God,  firm  in his inner composure, and pray and offer sacrifice for the
-general  well-being.
-
-Six at the top means:
-
-He is oppressed by creeping vines.
-He moves uncertainly and says, "Movement brings remorse."
-If one feels remorse over this and makes a start,
-Good fortune comes.
-
-A man is oppressed by bonds that can easily be broken.  The distress
-is drawing to an end. But he is still irresolute; he is still influenced
-by the previous condition and fears that he may have cause for regret
-if   he makes a move. But as soon as he grasps the situation, changes this
-mental     attitude, and makes a firm decision, he masters the oppression.
 
 
 
-<a name="48"></a>
+
 48. Ching / The Well
+----------------------------------------------------------------------------
 
-above K'AN  THE ABYSMAL, WATER
+above K'AN  THE ABYSMAL, WATER 
 below SUN  THE GENTLE, WIND, WOOD
 
 Wood is below, water above. The wood goes down into the earth to bring
@@ -5183,92 +2846,14 @@ action    of the well, which benefits all parts of the plant, the superior
 man organizes    human society, so that, as in a plant organism, its parts
 co-operate for   the benefit of the whole.
 
-THE LINES
-
-Six at the beginning means:
-
-One does not drink the mud of the well.
-
-No animals come to an old well.
-
-If a man wanders around in swampy lowlands, his life is submerged
-in mud. Such a man loses all significance for mankind. He who throws himself
-away is no longer sought out by others. In the end no one troubles about
-him any more.
-
-Nine in the second place means:
-
-At the well hole one shoots fishes.
-
-The jug is broken and leaks.
-
-The water itself is clear, but it is not being used. Thus the well
-is a place where only fish will stay, and whoever comes to it, comes
-only     to catch fish. But the jug is broken, so that the fish cannot be
-kept in   it.  This describes the situation of a person who possesses good
-qualities    but neglects them. No one bothers about him. As a result he
-deteriorates   in mind. He associates with inferior men and can no longer
-accomplish anything    worth while.
-
-Nine in the third place means:
-
-The well is cleaned, but no one drinks from it.
-
-This is my heart's sorrow,
-For one might draw from it.
-If the king were clear-minded,
-Good fortune might be enjoyed in common.
-
-An able man is available. He is like a purified well whose water is
-drinkable. But no use is made of him. This is the sorrow of those who
-know    him. One wishes that the prince might learn about it; this would
-be good   fortune for all concerned.
-
-Six in the fourth place means:
-
-The well is being lined. No blame.
-
-True, if a well is being lined with sone, it cannot be used while
-the work is going on. But the work is not in vain; the result is that the
-water stays clear. In life also there are times when a man must put himself
-in order. During such a time he can do nothing for others, but his work is
-nonetheless valuable, because by enhancing his powers and abilities through
-inner development, he can accomplish all the more later on.
-Nine in the fifth place means:
-
-In the well there is a clear, cold spring
-From which one can drink.
-
-A well that is fed by a spring of living water is a good well. A man
-who has virtues like a well of this sort is born to be a leader and savior
-of men, for he has the water of life. Nevertheless, the character for
-"good    fortune" is left out here. The all-important thing about a well
-is that  its  water be drawn. The best water is only a potentiality for refreshment
-as long as it is not brought up. So too with leaders of mankind: it is
-all-important     that one should drink from the spring of their words and
-translate them   into  life.
-
-Six at the top means:
-
-One draws from the well
-Without hindrance.
-It is dependable.
-
-Supreme good fortune.
-
-The well is there fore all. No one is forbidden to take water from
-it. No matter how many come, all find what they need, for the well is
-dependable.    It has a spring and never runs dry. Therefore it is a great
-blessing to  the  whole land. The same is true of the really great man, whose
-inner wealth   is inexhaustible; the more that people draw from him, the
-greater his wealth    becomes.
 
 
 
-<a name="49"></a>
+
 49. Ko / Revolution (Molting)
+----------------------------------------------------------------------------
 
-above  TUI  THE JOYOUS, LAKE
+above  TUI  THE JOYOUS, LAKE 
 below  LI  THE CLINGING, FIRE
 
 The Chinese character for this hexagram means in its original sense
@@ -5321,101 +2906,14 @@ light     and the forces of darkness, eventuating in the revolution of the
 seasons,     and man is able to adjust himself in advance to the demands
 of the different     times.
 
-THE LINES
-
-Nine at the beginning means:
-
-Wrapped in the hide of a yellow cow.
-
-Changes ought to be undertaken only when there is nothing else to
-be done. Therefore at first the utmost restraint is necessary. One must becomes
-firm in one's mind, control oneself-yellow is the color of the means,
-and    the cow is the symbol of docility-and refrain from doing anything
-for the    time being, because any premature offensive will bring evil results.
-
-Six in the second place means:
-
-When one's own day comes, one may create revolution.
-
-Starting brings good fortune. No blame.
-
-When we have tried in every other way to bring about reforms, but
-without success, revolution becomes necessary. But such a thoroughgoing upheaval
-must be carefully prepared. There must be available a man who has the requisite
-abilities and who possesses public confidence. To such a man we may well
-turn. This brings good fortune and is not a mistake. The first thing to
-be  considered is our inner attitude toward the new condition that will
-inevitably    come. We have to go out to meet it, as it were. Only in this
-way can it  be  prepared for.
-
-Nine in the third place means:
-
-Starting brings misfortune.
-Perseverance brings danger.
-When talk of revolution has gone the rounds three times,
-One may commit himself,
-And men will believe him.
-
-When change is necessary, there are two mistakes to be avoided. One
-lies in excessive haste and ruthlessness, which bring disaster. The other
-lies in excessive hesitation and conservatism, which are also dangerous.
-Not every demand for change in the existing order should be heeded. On
-the   other hand, repeated and well-founded complaints should not fail of
-a hearing.   When talk of change has come to one's ears three times, and
-has been pondered   well, he may believe and acquiesce in it. Then he will
-meet with belief and  will accomplish something.
-
-Nine in the fourth place means:
-
-Remorse disappears. Men believe him.
-Changing the form of government brings good fortune.
-
-Radical changes require adequate authority. A man must have inner
-strength as well as influential position. What he does must correspond with
-a higher truth and must not spring from arbitrary or petty motives; then
-it brings great good fortune. If a revolution is not founded on such inner
-truth, the results are bad, and it has no success. For in the end men will
-support only those undertakings which they feel instinctively to be just.
-Nine in the fifth place means:
-
-The great man changes like a tiger.
-Even before he questions the oracle
-He is believed.
-
-A tigerskin, with its highly visible black stripes on a yellow ground,
-shows its distinct pattern from afar. It is the same with a revolution
-brought   about by a great man: large, clear guiding lines become visible,
-understandable   to everyone. Therefore he need not first consult the oracle,
-for he wins  the spontaneous support of the people.
-
-Six at the top means:
-
-The superior man changes like a panther.
-
-The inferior man molts in the face.
-
-Starting brings misfortune.
-
-To remain persevering brings good fortune.
-
-After the large and fundamental problems are settled, certain minor
-reforms, and elaborations of these, are necessary. These detailed reforms
-may be likened to the equally distinct but relatively small marks of
-the    panther's coat. As a consequence, a change also takes place among
-the inferior    people. In conformity with the new order, they likewise "molt."
-This molting,    it is true, does not go very deep, but that is not to be
-expected. We must    be satisfied with the attainable. If we should go too
-far and try to achieve     too much, it would lead to unrest and misfortune.
-For the object of a great    revolution is the attainment of clarified, secure
-conditions ensuring a  general  stabilization on the basis of what is possible
-at the moment.
 
 
 
-<a name="50"></a>
+
 50. Ting / The Caldron
+----------------------------------------------------------------------------
 
-above  LI  THE CLINGING, FIRE
+above  LI  THE CLINGING, FIRE 
 below  SUN  THE GENTLE, WIND, WOOD
 
 The six lines construct the image of Ting, THE CALDRON; at the bottom
@@ -5473,103 +2971,10 @@ right place to life and to fate, thus bringing the two into harmony, he puts
 his fate on a firm footing. These words contain hints about fostering of
 life as handed on by oral tradition in the secret teachings of Chinese yoga.
 
-THE LINES
-
-Six at the beginning means:
-
-A ting with legs upturned.
-Furthers removal of stagnating stuff.
-One takes a concubine for the sake of her son.
-
-No blame.
-
-If a ting is turned upside down before being used, no harm is done-on
-the contrary, this clears it of refuse. A concubine's position is lowly,
-but because she has a son she comes to be honored.  These two metaphors
-express   the idea that in a highly developed civilization, such as that
-indicated  by this hexagram, every person of good will can in some way or
-other succeed.   No matter how lowly he may be, provided he is ready to purify
-himself, he   is accepted. He attains a station in which he can prove himself
-fruitful  in accomplishment, and as a result he gains recognition.
-
-Nine in the second place means:
-
-There is food in the ting.
-My comrades are envious,
-But they cannot harm me.
-Good fortune.
-
-In a period of advanced culture, it is of the greatest importance
-that one should achieve something significant. If a man concentrates on such
-real undertakings, he may indeed experience envy and disfavor, but that is
-not dangerous. The more he limits himself to his actual achievements, the
-less harm the envious inflict on him.
-
-Nine in the third place means:
-
-The handle of the ting is altered.
-One is impeded in his way of life.
-
-The fat of the pheasant is not eaten.
-Once rain falls, remorse is spent.
-Good fortune comes in the end.
-
-The handle is the means for lifting up the ting. If the handle is
-altered, the ting cannot be lifted up and used, and, sad to say, the delicious
-food in it, such as pheasant fat, cannot be eaten by anyone.  This describes
-a man who, in a highly evolved civilization, finds himself in a place where
-no one notices or recognizes him. This is a severe block to his effectiveness.
-All of his good qualities and gifts of mind thus needlessly go to waste.
-But if he will only see to it that he is possessed of something truly
-spiritual,     the time is bound to come, sooner or later, when the difficulties
-will  be   resolved and all will go well. The fall of rain symbolizes here,
-as in other   instances, release of tension.
-
-Nine in the fourth place means:
-
-The legs of the ting are broken.
-
-The prince's meal is spilled
-And his person is soiled.
-Misfortune.
-
-A man has a difficult and responsible task to which he is not adequate.
-Moreover, he does not devote himself to it with all his strength but
-goes     about with inferior people; therefore the execution of the work
-fails.  In   this way he also incurs personal opprobrium.  Confucius says
-about this   line:   "Weak character coupled with honored place, meager knowledge
-with   large plans, limited powers with heavy responsibility, will seldom
-escape   disaster."
-Six in the fifth place means:
-
-The ting has yellow handles, golden carrying rings.
-Perseverance furthers.
-
-Here we have, in a ruling position, a man who is approachable and
-modest in nature. As a result of this attitude he succeeds in finding strong
-and able helpers who complement and aid him in his work. Having achieved
-this attitude, which requires constant self-abnegation, it is important for
-him to hold to it and not to let himself be led astray.
-Nine at the top means:
-
-The ting has rings of jade.
-Great good fortune.
-
-Nothing that would not act to further.
-
-In the preceding line the carrying rings are described as golden,
-to denote their strength; here they are said to be of jade. Jade is notable
-for its combination of hardness with soft luster. This counsel, in relation
-to the man who is open to it, works greatly t his advantage. Here the counsel
-is described in relation to the sage who imparts it. In imparting it,
-he   will be mild and pure, like precious jade. Thus the work finds favor
-in the  eyes of the Deity, who dispenses great good fortune, and becomes
-pleasing   to men, wherefore all goes well. 
 
 
-
-<a name="51"></a>
 51. Chên / The Arousing (Shock, Thunder)
+----------------------------------------------------------------------------
 
 above  CHêN  THE AROUSING, THUNDER
 below  CHêN  THE AROUSING, THUNDER
@@ -5614,100 +3019,12 @@ man is always filled with reverence at the manifestation of God; he sets
 his life in order and searches his heart, lest it harbor any secret opposition
 to the will of God. Thus reverence is the foundation of true culture.
 
-THE LINES
-
-Nine at the beginning means:
-
-Shock comes-oh, oh!
-
-Then follow laughing words-ha, ha!
-Good fortune.
-
-The fear and trembling engendered by shock come to an individual at
-first in such a way that he sees himself placed at a disadvantage as
-against     others. But this is only transitory. When the ordeal is over,
-he experiences     relief, and thus the very terror he had to endure at the
-outset brings  good   fortune in the long run.
-
-Six in the second place means:
-
-Shock comes bringing danger.
-A hundred thousand times
-You lose your treasures
-And must climb the nine hills.
-Do not go in pursuit of them.
-After seven days you will get them back again.
-
-This pictures a situation in which a shock endangers a man and he
-suffers great losses. Resistance would be contrary to the movement of the
-time and for this reason unsuccessful. Therefore he must simply retreat to
-heights inaccessible to the threatening forces of danger. He must accept
-his loss of property without worrying too much about it. When the time of
-shock and upheaval that has robbed him of his possessions has passed, he
-will get them back again without going in pursuit of them.
-
-Six in the third place means:
-
-Shock comes and makes one distraught.
-If shock spurs to action
-One remains free of misfortune.
 
 
-There are three kinds of shock-the shock of heaven, which is thunder,
-the shock of fate, and, finally, the shock of the heart. The present
-hexagram     refers less to inner shock than to the shock of fate. In such
-times of  shock,   presence of mind is all too easily lost: the individual
-overlooks  all opportunities   for action and mutely lets fate take its course.
-But if he allows the shocks   of fate to induce movement within his mind,
-he will overcome these external   blows with little effort.
-
-Nine in the fourth place means:
-
-Shock is mired.
-
-Movement within the mind depends for its success partly on circumstances.
-If there is neither a resistance that might be vigorously combated, nor
-yet  a yielding that permits of victory-if, instead, everything is tough
-and inert  like mire-movement is crippled.
-
-Six in the fifth place means:
-
-Shock goes hither and thither.
-Danger.
-However, nothing at all is lost.
-Yet there are things to be done.
-
-This is a case not of a single shock but of repeated shocks with no
-breathing space between. Nonetheless, the shock causes no loss, because
-one  takes care to stay in the center of movement and in this way to be
-spared    the fate of being helplessly tossed hither and thither.
-
-Six at the top means:
-
-Shock brings ruin and terrified gazing around.
-Going ahead brings misfortune.
-If it has not yet touched one's own body
-But has reached one's neighbor first,
-
-There is no blame.
-One's comrades have something to talk about.
-
-When inner shock is at its height, it robs a man of reflection and
-clarity of vision. In such a state of shock it is of course impossible
-to   act with presence of mind. Then the right thing is to keep still until
-composure   and clarity are restored. But this a man can do only when he
-himself is not  yet infected by the agitation, although its disastrous effects
-are already   visible in those around him. If he withdraws from the affair
-in time, he  remains free of mistakes and injury. But his comrades, who no
-longer heed  any warning, will in their excitement certainly be displeased
-with him. However,  he must not take this into account.
-
-
-
-<a name="52"></a>
 52. Kên / Keeping Still, Mountain
+----------------------------------------------------------------------------
 
-above  KêN  KEEPING STILL, MOUNTAIN
+above  KêN  KEEPING STILL, MOUNTAIN 
 below  KêN  KEEPING STILL, MOUNTAIN
 
 The image of this hexagram is the mountain, the youngest son of heaven
@@ -5759,96 +3076,11 @@ of the heart-that is, a man's thoughts-should restrict themselves to
 the    immediate situation. All thinking that goes beyond this only makes
 the heart   sore.
 
-THE LINES
 
-Six at the beginning means:
-
-Keeping his toes still.
-
-No blame.
-Continued perseverance furthers.
-
-Keeping the toes still means halting before one has even begun to
-move. The beginning is the time of few mistakes. At that time one is still
-in harmony with primal innocence. Not yet influenced by obscuring interests
-and desires, one sees things intuitively as they really are. A man who halts
-at the beginning, so long as he has not yet abandoned the truth, finds the
-right way. But persisting firmness is needed to keep one from drifting irresolutely.
-
-Six in e second place means:
-
-Keeping his calves still.
-He cannot rescue him whom he follows.
-His heart is not glad.
-
-The leg cannot move independently; it depends on the movement of the
-body. If a leg is suddenly stopped while the whole body is in vigorous
-motion,   the continuing body movement will make one fall.  The same is
-true  of a man  who serves a master stronger than himself. He is swept along,
-and  even though  he may himself halt on the path of wrongdoing, he can no
-longer  check the  other in his powerful movement. Where the master presses
-forward,  the servant,  no matter how good his intentions, cannot save him.
-
-Nine in the third place means:
-
-Keeping his hips still.
-Making his sacrum stiff.
-Dangerous. The heart suffocates.
-
-This refers to enforced quiet. The restless heart is to be subdued
-by forcible means. But fire when it is smothered changes into acrid smoke
-that suffocates as it spreads.  Therefore, in exercises in meditation
-and    concentration, one ought not to try to force results. Rather, calmness
-must   develop naturally out of a state of inner composure. If one tries
-to induce   calmness by means of artificial rigidity, meditation will lead
-to very unwholesome   results.
-
-Six in the fourth place means:
-
-Keeping his trunk still.
-
-No blame.
-
-As has been pointed out above in the comment on the Judgment, keeping
-the back at rest means forgetting the ego. This is the highest stage
-of   rest.  Here this stage has not yet been reached: the individual in this
-instance,    though able to keep the ego, with its thoughts and impulses,
-in a state  of  rest, is not yet quite liberated from its dominance. Nonetheless,
-keeping    the heart at rest is an important function, leading in the end
-to the complete    elimination of egotistic drives. Even though at this point
-one does not  yet  remain free from all the dangers of doubt and unrest,
-this frame of mind is not a mistake, as it leads ultimately to that other,
-higher level.
-
-Six in the fifth place means:
-
-Keeping his jaws still.
-
-The words have order.
-Remorse disappears.
-
-A man in a dangerous situation, especially when he is not adequate
-to it, is inclined to be very free with talk and presumptuous jokes.
-But    injudicious speech easily leads to situations that subsequently give
-much    cause for regret. However, if a man is reserved in speech, his words
-take    ever more definite form, and every occasion for regret vanishes.
-Nine at the top means:
-
-Noblehearted keeping still.
-Good fortune.
-
-This marks the consummation of the effort to attain tranquillity.
-One is at rest, not merely in a small, circumscribed way in regard to matters
-of detail, but one has also a general resignation in regard to life as
-a  whole, and this confers peace and good fortune in relation to every individual
-matter.
-
-
-
-<a name="53"></a>
 53. Chien / Development (Gradual Progress)
+----------------------------------------------------------------------------
 
-above  SUN  THE GENTLE, WIND, WOOD
+above  SUN  THE GENTLE, WIND, WOOD 
 below  KêN  KEEPING STILL, MOUNTAIN
 
 This hexagram is made up of Sun (wood, penetration) above, i.e., without,
@@ -5901,108 +3133,14 @@ in public opinion and in the mores of the people, it is necessary for
 the    personality to acquire influence and weight. This comes about through
 careful    and constant work on one's own moral development.
 
-THE LINES
-
-Six at the beginning means:
-
-The wild goose gradually draws near the shore. 
-
-The young son is in danger.
-
-There is talk. No blame.
-
-All the individual lines in this hexagram symbolize the gradual flight
-of the wild goose. The wild goose is the symbol of conjugal fidelity,
-because    it is believed that this bird never takes another mate after the
-death of   the first.  The initial line suggests the first resting place
-in the flight   of water birds from the water to the heights. The shore is
-reached. The situation  is that of a lonely young man who is just starting
-out to make his way in  life. Since no one comes to help him, his first steps
-are slow and hesitant,  and he is surrounded by danger. Naturally he is subjected
-to much criticism.  But these very difficulties keep him from being too
-hasty,   and his progress  is successful.
-Six in the second place means:
-
-The wild goose gradually draws near the cliff.
-Eating and drinking in peace and concord.
-Good fortune.
-
-The cliff is a safe place on shore. The development has gone a step
-further. The initial insecurity has been overcome, and a safe position
-in   life has been found, giving one enough to live on. This first success,
-opening   up a path to activity, brings a certain joyousness of mood, and
-one goes  to meet the future reassured.  It is said of the wild goose that
-it calls  to its comrades whenever it finds food; this is the symbol of
-peace  and concord   in good fortune. A man does not want to keep his good
-luck for himself only,   but is ready to share it with others.
-
-Nine in the third place means:
-
-The wild goose gradually draws near the plateau.
-
-The man goes forth and does not return.
-
-The woman carries a child but does not bring it forth.
-Misfortune. 
-It furthers one to fight off robbers.
-
-The high plateau is dry and unsuitable for the wild goose. If it goes
-there, it has lost its way and gone too far. This is contrary to the
-law    of development.  It is the same in human life. If we do not let things
-develop    quietly but plunge of our own choice too rashly into a struggle,
-misfortune    results. A man jeopardizes his own life, and his family perishes
-thereby.    However, this is not all necessary; it is only the result of
-transgressing    the law of natural development. If one does not willfully
-provoke a conflict,    but confines himself to vigorously maintaining his
-own position and to warding   off unjustified attacks, all goes well.
-
-Six in the fourth place means:
-
-The wild goose goes gradually draws near the tree.
-Perhaps it will find a flat branch. No blame.
-
-A tree is not a suitable place for a wild goose. But if it is clever,
-it will find a flat branch on which it can get a footing. A man's life
-too,   in the course of its development, often brings him into inappropriate
-situations,   in which he finds it difficult to hold his own without danger.
-Then it is   important to be sensible and yielding. This enables him to
-discover  a safe   place in which life can go on, although he may be surrounded
-by danger.
-Nine in the fifth place means:
-
-The wild goose gradually draws near the summit.
-For three years the woman has no child.
-In the end nothing can hinder her.
-Good fortune.
-
-The summit is a high place. In a high position one easily becomes
-isolated. One is misjudged by the very person on whom one is dependent-the
-woman by her husband, the official by his superior. This is the work of deceitful
-persons who have wormed their way in. The result is that relationships remain
-sterile, and nothing is accomplished. But in the course of further development,
-such misunderstandings are cleared away, and reconciliation is achieved after
-all.
-
-Nine at the top means:
-
-The wild goose gradually draws near the clouds heights.
-Its feathers can be used for the sacred dance.
-Good fortune.
-
-Here life comes to its end. A man's work stands completed. The path
-rises high toward heaven, like the flight of wild geese when they have
-left   the earth far behind. There they fly, keeping to the order of their
-flight   in strict formation. And if their feathers fall, they can serve
-as ornaments   in the sacred dance pantomimes performed in the temples. Thus
-the life of   a man who has perfected himself is a bright light for the
-people  of earth,   who look up to him as an example.
 
 
 
-<a name="54"></a>
+
 54. Kuei Mei / The Marrying Maiden
+----------------------------------------------------------------------------
 
-above  CHêN  THE AROUSING, THUNDER
+above  CHêN  THE AROUSING, THUNDER 
 below  TUI  THE JOYOUS, LAKE
 
 Above we have Chên, the eldest son, and below, Tui, the youngest
@@ -6059,111 +3197,15 @@ as the day may determine.   If on the other hand a man fixes his mind on
 an end that endures, he will   succeed in avoiding the reefs that confront
 the closer relationships of people.
 
-THE LINES
-
-Nine at the beginning means:
-
-The marrying maiden as a concubine.
-A lame man who is able to tread.
-Undertakings bring good fortune.
-
-The princess of ancient China maintained a fixed order of rank among
-the court ladies, who were subordinated to the queen as are younger sisters
-to the eldest. Frequently they came from the family of the queen, who
-herself    led them to her husband.  The meaning is that a girl entering
-a family with   the consent of the wife will not rank outwardly as the equal
-of the latter   but will withdraw modestly into the background. However,
-if she understands   how to fit herself into the pattern of things, her position
-will be entirely   satisfactory, and she will feel sheltered in the love
-of the husband to whom  she bears children.  The same meaning is brought
-out in the relationships   between officials. A man may enjoy the personal
-friendship of a prince and   be taken into his confidence. Outwardly this
-man must keep tactfully in the  background behind the official ministers
-of state, but, although he is hampered  by this status, as if he were lame,
-he can nevertheless accomplish something  through the kindliness of his nature.
-
-Nine in the second place means:
-
-A one-eyed man who is able to see.
-
-The perseverance of a solitary man furthers.
-
-Here the situation is that of a girl married to a man who has disappointed
-her. Man and wife ought to work together like a pair of eyes. Here the
-girl   is left behind in loneliness; the man of her choice either has become
-unfaithful   or has died. But she does not lost the inner light of loyalty.
-Thought the   other eye is gone, she maintains her loyalty even in loneliness.
-
-Six in the third place means:
-
-The marrying maiden as a slave.
-
-She marries as a concubine.
-
-A girl who is in a lowly position and finds no husband may, in some
-circumstances, still win shelter as a concubine.  This pictures the situation
-of a person who longs too much for joys that cannot be obtained in the
-usual   way. He enters upon a situation not altogether compatible with self-esteem.
-Neither judgment nor warning is added to this line; it merely lays bare
-the  actual situation, so that everyone may draw a lesson from it.
-
-Nine in the fourth place means:
-
-The marrying maiden draws out the allotted time.
-A late marriage comes in due course.
-
-The girl is virtuous. She does not wish to throw herself away, and
-allows the customary time for marriage to slip by. However, there is
-no   harm  in this; she is rewarded for her purity and, even though belatedly,
-finds  the husband intended for her.
-
-
-Six in the fifth place means:
-
-The sovereign I gave his daughter in marriage.
-
-The embroidered garments of the princess
-Were not as gorgeous
-As those of the serving maid.
-
-The moon that is nearly full
-Brings good fortune.
-
-The sovereign I is T'ang the Completer. This ruler decreed that the
-imperial princesses should be subordinated to their husbands in the same
-manner as other women (cf. Hexagram 
-
-<a href="http://www2.unipr.it/~deyoung/I_Ching_Wilhelm_Translation.html#11">11</a>, six in the fifth place). The emperor does not
-wait for a suitor to woo his daughter but gives her in marriage when
-he   sees  fit. Therefore it is in accord with custom for the girl's family
-to   take the initiative here.  We see here a girl of aristocratic birth
-who marries   a man of modest circumstances and understands how to adapt
-herself with grace   to the new situation. She is free of all vanity of outer
-adornment,  and forgetting  her rank in her marriage, takes a place below
-that of her  husband, just as  the moon, before it is quite full, does not
-directly face  the sun.
-
-Six at the top means:
-
-The woman holds the basket, but there are no fruits in it.
-
-The man stabs the sheep, but no blood flows.
-
-Nothing that acts to further.
-
-At the sacrifice to the ancestors, the woman had to present harvest
-offerings in a basket, while the man slaughtered the sacrificial animal
-with  his own hand. Here the ritual is only superficially fulfilled; the
-woman takes an empty basket and the man stabs a sheep slaughtered beforehand-solely
-to preserve the forms. This impious, irreverent attitude bodes no good
-for   a marriage.
 
 
 
-<a name="55"></a>
+
+
 55. Fêng / Abundance [Fullness]
+----------------------------------------------------------------------------
 
-above  CHêN  THE AROUSING, THUNDER
+above  CHêN  THE AROUSING, THUNDER 
 below  LI  THE CLINGING, FIRE
 
 Chên is movement; Li is flame, whose attribute is clarity. Clarity
@@ -6206,103 +3248,14 @@ down;     here they are applied and enforced. Clarity [Li] within makes it
 possible     to investigate the facts exactly, and shock [Chên] without
 ensures    a strict and precise carrying out of punishments.
 
-THE LINES
-
-Nine at the beginning means:
-
-When a man meets his destined ruler,
-
-They can be together ten days,
-And it is not a mistake.
-Going meets with recognition.
-
-To bring about a time of abundance, a union of clarity with energetic
-movement is needed. Two individuals possessed of these two attributes
-are    suited to each other, and even if they spend an entire cycle of time
-together    during the period of abundance, it will not be too long, nor
-is it a mistake.    Therefore one may go forth, in order to make one's influence
-felt; it will    meet with recognition.
-
-Six in the second place means:
-
-The curtain is of such fullness
-
-That the polestars can be seen at noon.
-
-Through going one meets with mistrust and hate.
-If one rouses him through truth,
-Good fortune comes.
-
-It often happens that plots and party intrigues, which have the darkening
-effect of an eclipse of the sun, come between a ruler intent on great
-achievement    and the man who could effect great undertakings. Then, instead
-of the sun,    we see the northern stars in the sky. The ruler is overshadowed
-by a party    that has usurped power. If a man at such a time were to try
-to take energetic    measures, he would encounter only mistrust and envy,
-which would prohibit    all movement. The essential thing then is to hold
-inwardly to the power  of  truth, which in the end is so strong that it exerts
-an invisible influence    on the ruler, so that all goes well.
-
-Nine in the third place means:
-
-The underbrush is of such abundance
-
-That the small stars can be seen at noon.
-He breaks his right arm . No blame.
-
-The image is that of a progressive covering over of the sun.  Here
-the eclipse reaches totality, therefore even the small stars can be seen
-at noon.  In the sphere of social relationships, this means that the prince
-is now so eclipsed that even the most insignificant persons can push themselves
-into the foreground. This makes it impossible for an able man, though
-he   might be the right hand of the ruler, to undertake anything. It is as
-though   his arm were broken, but he is not to blame for being thus hindered
-in action.
-
-Nine in the fourth place means:
-
-The curtain is of such fullness
-
-That the polestars can be seen at noon.
-He meets his ruler, who is of like kind.
-Good fortune.
-
-Here the darkness is already decreasing, therefore interrelated elements
-come together. Here too the complement must be found-the necessary wisdom
-to complement joy of action. Then everything will go well. The complementary
-factor postulated here is the reverse of the one in the first line. In
-the   latter, wisdom is to be complemented by energy, while here energy
-is  complemented   by wisdom.
-Six in the fifth place means:
-
-Lines are coming,
-Blessing and fame draw near.
-Good fortune.
-
-The ruler is modest and therefore open to the counsel of able men.
-Thus he is surrounded by men who suggest to him the lines of action.
-This     brings blessing, fame, and good fortune to him and all the people.
-
-Six at the top means:
-
-His house is in a state of abundance.
-He screens off his family.
-He peers through the gate
-And no longer perceives anyone.
-For three years he sees nothing.
-Misfortune.
-
-This describes a man who because of his arrogance and obstinacy attains
-the opposite of what he strives for. He seeks abundance and splendor
-for    his dwelling. He wishes at all odds to be master in his house, which
-so  alienates   his family that in the end he finds himself completely isolated.
 
 
 
-<a name="56"></a>
+
 56. Lü / The Wanderer
+----------------------------------------------------------------------------
 
-above  LI  THE CLINGING, FIRE
+above  LI  THE CLINGING, FIRE 
 below  KêN  KEEPING STILL, MOUNTAIN
 
 the mountain, Kên, stands still; above it fire, Li, flames up
@@ -6335,96 +3288,14 @@ should   be like. They should be a quickly passing matter, and must not be
 dragged   out indefinitely. Prisons ought to be places where people are lodged
 only   temporarily, as guests are. They must not become dwelling places.
 
-THE LINES
-
-Six at the beginning means:
-
-If the wanderer busies himself with trivial things, 
-He draws down misfortune upon himself.
-
-A wanderer should not demean himself or busy himself with inferior
-things he meets with along the way. The humbler and more defenseless
-his    outward position, the more should he preserve his inner dignity. For
-a stranger   is mistaken if he hopes to find a friendly reception through
-lending himself    to jokes and buffoonery. The result will be only contempt
-and insulting  treatment.
-
-Six in the second place means:
-
-The wanderer comes to an inn.
-He has his property with him.
-He wins the steadfastness of a young servant.
-
-
-The wanderer her described is modest and reserved. He does not lose
-touch with his inner being, hence he finds a resting place. In the outside
-world he does not lose the liking of other people, hence all persons
-further     him, so that he can acquire property. Moreover, he wins the allegiance
-of   a faithful and trustworthy servant-a thing of inestimable value to
-a  wanderer.
-
-Nine in the third place means:
-
-The wanderer's inn burns down.
-He loses the steadfastness of his young servant.
-Danger.
-
-A truculent stranger does not know how to behave properly. He meddles
-in affairs and controversies that do not concern him; thus he loses his
-resting  place. He treats his servant with aloofness and arrogance; thus
-he loses the man's loyalty. When a stranger in a strange land has no one
-left on whom he can rely, the situation becomes very dangerous.
-
-Nine in the fourth place means:
-
-The wanderer rests in a shelter.
-He obtains his property and an ax.
-My heart is not glad.
-
-This describes a wanderer who knows how to limit his desires outwardly,
-though he is inwardly strong and aspiring. Therefore he finds at least
-a  place of shelter in which he can stay. He also succeeds in acquiring
-property,    but even with this he is not secure. He must be always on guard,
-ready to   defend himself with arms. Hence he is not at ease. He is persistently
-conscious   of being a stranger in a strange land.
-Six in the fifth place means:
-
-He shoots a pheasant.
-It drops with the first arrow.
-In the end this brings both praise and office.
-
-Traveling statesman were in the habit of introducing themselves to
-local princes with the gift of a pheasant, killing it at the first shot.
-Thus he finds friends who praise and recommend him, and in the end the
-prince   accepts him and confers an office upon him.  Circumstances often
-cause a  man to seek a home in foreign parts. If he knows how to meet the
-situation  and how to introduce himself in the right way, he may find a circle
-of friends   and a sphere of activity even in a strange country.
-
-Nine at the top means:
-
-The bird's nest burns up.
-
-The wanderer laughs at first,
-
-Then must needs lament and weep.
-
-Through carelessness he loses his cow.
-Misfortune.
-
-The picture of a bird whose nest burns up indicates loss of one's
-resting place. This misfortune may overtake the bird if it is heedless and
-imprudent when building its nest. It is the same with a wanderer. If he lets
-himself go, laughing and jesting, and forgets that he is a wanderer, he will
-later have cause to weep and lament. For if through carelessness a man loses
-his cow-i.e., his modesty and adaptability-evil will result.
 
 
 
-<a name="57"></a>
+
 57. Sun / The Gentle (The Penetrating, Wind)
+----------------------------------------------------------------------------
 
-above  SUN  THE GENTLE, WIND, WOOD
+above  SUN  THE GENTLE, WIND, WOOD 
 below  SUN  THE GENTLE, WIND, WOOD
 
 Sun is one of the eight doubled trigrams. It is the eldest daughter
@@ -6472,101 +3343,14 @@ Only when   the command has been assimilated by the people is action in
 accordance  with   it possible. Action without preparation of the ground
 only frightens  and  repels.
 
-THE LINES
-
-Six at the beginning means:
-
-In advancing and in retreating,
-
-The perseverance of a warrior furthers.
-
-In born gentleness is often carried to the point of indecisiveness.
-One does not feel strong enough to advance resolutely. A thousand doubts
-crop up; one is, however, not minded to withdraw but drifts indecisively
-to and fro. In such a situation, a military decisiveness is the proper
-thing,    so that one resolutely does what order demands. Resolute discipline
-is far   better than irresolute license.
-
-Nine in the second place means:
-
-Penetration under the bed.
-Priests and magicians are used in great number.
-Good fortune. No blame.
-
-At times one has to deal with hidden enemies, intangible influences
-that slink into dark corners and from this hiding affect people by suggestion.
-In instances like this, it is necessary to trace these things back to
-the    most secret recesses, in order to determine the nature of the influences
-to be dealt with. This is the task of the priests; removing the influences
-is the task of the magicians. The very anonymity of such plotting requires
-an especially vigorous and indefatigable effort, but this is well worth
-while.   For when such elusive influences are brought into the light and
-branded,  they lose their power over people.
-
-Nine in the third place means:
-
-Repeated penetration. Humiliation.
-
-Penetrating reflection must not be pushed too far, lest it cripple
-the power of decision. After a matter has been thoroughly pondered, it
-is   essential to form a decision and to act. Repeated deliberation brings
-fresh   doubts and scruples, and thereby humiliation, because one shows
-oneself   unable  to act.
-
-Six in the fourth place means:
-
-Remorse vanishes.
-During the hunt
-
-Three kinds of game are caught.
-
-When a responsible position and accumulated experience lead one to
-combine innate modesty with energetic action, great success is assured.
-The  three kinds of animals referred to served for offerings to the gods,
-for feasting guests, and for everyday consumption. When the catch answered
-all three purposes, the hunt was considered especially successful.
-Nine in the fifth place means:
-
-Perseverance brings good fortune.
-Remorse vanishes.
-
-Nothing that does not further.
-
-No beginning, but an end.
-Before the change, three days.
-After the change, three days.
-Good fortune.
-
-In the situation described in Ku, WORK ON WHAT HAS BEEN SPOILED 
-
-<a href="http://www2.unipr.it/~deyoung/I_Ching_Wilhelm_Translation.html#18">18</a>, an entirely new point of departure must be set
-up, whereas here it is only a question of reforms. The beginning has
-not    been good, but the moment has been reached when a new direction can
-be taken.   Change and improvement are called for. Such steps must be undertaken
-with   steadfastness, that is, with a firm and correct attitude of mind;
-then they   will succeed, and remorse will disappear. But it must be remembered
-that  such improvements require careful consideration. Before a change is
-made,  it must be pondered over again and again. After the change is made,
-it is  necessary to note carefully for some time after how the improvements
-bear  the test of actuality. Such careful work is accompanied by good fortune.
-
-Nine at the top means:
-
-Penetration under the bed.
-He loses his property and his ax.
-Perseverance brings misfortune.
-
-A man's understanding is sufficiently penetrating. He follows up injurious
-influences into the most secret corners. But he no longer has the strength
-to combat them decisively. In this case any attempt to penetrate into
-the    personal domain of darkness would only bring harm.
 
 
 
-<a name="58"></a>
+
 58. Tui / The Joyous, Lake
+----------------------------------------------------------------------------
 
-above TUI  THE JOYOUS, LAKE
+above TUI  THE JOYOUS, LAKE 
 below TUI  THE JOYOUS, LAKE
 
 This hexagram, like sun, is one of the eight formed by doubling of
@@ -6612,80 +3396,14 @@ application    of the truths of life. In this way learning becomes many-sided
 and takes   on a cheerful lightness, whereas there is always something ponderous
 and  one-sided about the learning of the self-taught.
 
-THE LINES
-
-Nine at the beginning means:
-
-Contented joyousness. Good fortune.
-
-A quiet, wordless, self-contained joy, desiring nothing from without
-and resting content with everything, remains free of all egotistic likes
-and dislikes. In this freedom lies good fortune, because it harbors the
-quiet   security of a heart fortified within itself.
-Nine in the second place means:
-
-Sincere joyousness. Good fortune.
-Remorse disappears.
-
-We often find ourselves associating with inferior people in whose
-company we are tempted by pleasures that are inappropriate for the superior
-man. To participate in such pleasures would certainly bring remorse, for
-a superior man can find no real satisfaction in low pleasures. When, recognizing
-this, a man does not permit his will to swerve, so that he does not find
-such ways agreeable, not even dubious companions will venture to proffer
-any base pleasures, because he would not enjoy them. Thus every cause for
-regret is removed.
-
-Six in the third place means:
-
-Coming joyousness. Misfortune.
-
-True joy must spring from within. But if one is empty within and wholly
-given over to the world, idle pleasures come streaming in from without.
-This  is what many people welcome as diversion. Those who lack inner stability
-and therefore need amusement, will always find opportunity of indulgence.
-They attract external pleasures by the emptiness of their natures. Thus
-they  lose themselves more and more, which of course has bad results.
-
-Nine in the fourth place means:
-
-Joyousness that is weighed is not at peace.
-After ridding himself of mistakes a man has joy.
-
-Often a man finds himself weighing the choice between various kinds
-of pleasures, and so long as he has not decided which kind he will choose,
-the higher or the lower, he has no inner peace. Only when he clearly
-recognizes     that passion brings suffering, can he make up his mind to
-turn away from    the lower pleasures and to strive for the higher. Once
-this decision is  sealed,   he finds true joy and peace, and inner conflict
-is overcome.
-Nine in the fifth place means:
-
-Sincerity toward disintegrating influences is dangerous.
-
-Dangerous elements approach even the far best of men. If a man permits
-himself to have anything to do with them, their disintegrating influence
-acts slowly but surely, and inevitable brings dangers in its train. But
-if  he recognizes the situation and can comprehend the danger, he knows
-how  to  protect himself and remains unharmed.
-
-Six at the top means:
-
-Seductive joyousness.
-
-A vain nature invites diverting pleasures and must suffer accordingly
-(cf. the six in the third place). If a man is unstable within, the pleasures
-of the world that he does not shun have so powerful an influence that
-he   is swept along by them. Here it is no longer a question of danger, of
-good   fortune or misfortune. He has given up direction of his own life,
-and what   becomes of him depends upon chance and external influences.
 
 
 
-<a name="59"></a>
+
 59. Huan / Dispersion [Dissolution]
+----------------------------------------------------------------------------
 
-above SUN  THE GENTLE, WIND
+above SUN  THE GENTLE, WIND 
 below K'AN  THE ABYSMAL, WATER
 
 Wind blowing over water disperses it, dissolving it into foam and
@@ -6743,91 +3461,14 @@ emotion.  They must be shaken by a religious awe in face of eternity-stirred
 with an  intuition of the One Creator of all living beings, and united through
 the  strong feeling of fellowship experienced in the ritual of divine worship.
 
-THE LINES
-
-Six at the beginning means:
-
-He brings help with the strength of a horse.
-Good fortune.
-
-It is important that disunion should be overcome at the outset, before
-it has become complete-that the clouds should be dispersed before they
-have   brought storm and rain. At such times when hidden divergences in
-temper   make  themselves felt and lead to mutual misunderstandings we must
-take quick  and  vigorous action to dissolve the misunderstandings and mutual
-distrust.
-
-Nine in the second place means:
-
-At the dissolution
-He hurries to that which supports him.
-Remorse disappears.
-
-When an individual discovers within himself the beginnings of alienation
-from others, of misanthropy and ill humor, he must set about dissolving
-these  obstructions. He must rouse himself inwardly, hasten to that which
-supports  him. Such support is never found in hatred, but always in a moderate
-and just judgment of men, linked with good will. If he regains this unobstructed
-outlook on humanity, while at the same time all saturnine ill humor is
-dissolved,    all occasion for remorse disappears.
-
-Six in the third place means:
-
-He dissolves his self. No remorse.
-
-Under certain circumstances, a man's work may become so difficult
-that he can no longer think of himself. He must set aside all personal desires
-and disperse whatever the self gathers about it to serve as a barrier
-against    others. Only on the basis of great renunciation can he obtain
-the strength    for great achievements. By setting his goal in a great task
-outside himself,    he can attain this standpoint.
-
-Six in the fourth place means:
-
-He dissolves his bond with his group.
-
-Supreme good fortune.
-Dispersion leads in turn to accumulation.
-
-This is something that ordinary men do not think of.
-
-When we are working at a task that affects the general welfare, we
-must leave all private friendships out of account. Only by rising above
-party  interests can we achieve something decisive. He who has the courage
-thus to forego what is near wins what is afar. But in order to comprehend
-this standpoint, one must have a wide view of the interrelationships of
-life,  such as only unusual men attain.
-Nine in the fifth place means:
-
-His loud cries are as dissolving as sweat.
-Dissolution! A king abides without blame.
-
-In times of general dispersion and separation, a great idea provides
-a focal point for the organization of recovery. Just as an illness reaches
-its crisis in a dissolving sweat, so a great stimulating idea is a true
-salvation  in times of general deadlock. It gives the people a rallying
-point-a  man in a ruling position who can dispel misunderstandings.
-
-Nine at the top means:
-
-He dissolves his blood.
-Departing, keeping at a distance, going out,
-Is without blame.
-
-The idea of the dissolving of a man's blood means the dispersion of
-that which might lead to bloodshed and wounds, i.e., avoidance of danger.
-But here the thought is not that a man avoids difficulties for himself
-alone,   but rather that he rescues his kin-helps them to get away before
-danger comes,  or to keep at a distance from an existing danger, or to find
-a way out of  a danger that is already upon them. In this way he does what
-is right.
 
 
 
-<a name="60"></a>
+
 60. Chieh / Limitation
+----------------------------------------------------------------------------
 
-above K'AN  THE ABYSMAL, WATER
+above K'AN  THE ABYSMAL, WATER 
 below TUI  THE JOYOUS, LAKE
 
 A lake occupies a limited space. When more water comes into it, it
@@ -6876,100 +3517,14 @@ voluntarily accepted. The  individual attains significance as a free spirit
 only by surrounding himself  with these limitations and by determining for
 himself what his duty is.
 
-THE LINES
-
-Nine at the beginning means:
-
-Not going out of the door and the courtyard
-Is without blame.
-
-Often a man who would like to undertake something finds himself confronted
-by insurmountable limitations. Then he must know where to stop. If he
-rightly    understands this and does not go beyond the limits set for him,
-he accumulates    an energy that enables him, when the proper time comes,
-to act with great    force. Discretion is of prime importance in preparing
-the way for momentous    things. Concerning this, Confucius says:
-
-Where disorder develops, words are the first steps. If the prince
-is not discreet, he loses his servant. If the servant is not discreet he
-loses his life. If germinating things are not handled with discretion, the
-perfecting of them is impeded. Therefore the superior man is careful to maintain
-silence and does not go forth.
-
-Nine in the second place means:
-
-Not going out of the gate and the courtyard
-Brings misfortune.
-
-When the time for action has come, the moment must be quickly seized.
-Just as water first collects in a lake without flowing out, yet is certain
-to find an outlet when the lake is full, so it is in the life of man.
-It   is a good thing to hesitate so long as the time for action has not come,
-but no longer. Once the obstacles to action have been removed, anxious
-hesitation     is a mistake that is bound to bring disaster, because one
-misses one's  opportunity.
-
-Six in the third place means:
-
-He who knows limitation
-Will have cause to lament.
-
-No blame.
-
-If an individual is bent only on pleasures and enjoyment, it is easy
-for him to lose his sense of the limits that are necessary. If he gives
-himself  over to extravagance, he will have to suffer the consequences,
-with  accompanying  regret. He must not seek to lay the blame on others.
-Only when  we realize  that our mistakes are of our own making will such
-disagreeable  experiences  free us of errors.
-
-Six in the fourth place means:
-
-Contented limitation. Success.
-
-Every limitation has its value, but a limitation that requires persistent
-effort entails a cost of too much energy. When, however, the limitation
-is  a natural one (as for example, the limitation by which water flows
-only   downhill),  it necessarily leads to success, for then it means a saving
-of  energy. The  energy that otherwise would be consumed in a vain struggle
-with  the object,  is applied wholly to the benefit of the matter in hand,
-and success is assured.
-Nine in the fifth place means:
-
-Sweet limitation brings good fortune.
-Going brings esteem.
-
-
-The limitation must be carried out in the right way if it is to be
-effective. If we seek to impose restrictions on others only, while evading
-them ourselves, these restrictions will always be resented and will provoke
-resistance. If, however, a man in a leading position applies the limitation
-first to himself, demanding little from those associated with him, and
-with   modest means manages to achieve something, good fortune is the result.
-Where   such an example occurs, it meets with emulation, so that whatever
-is undertaken   must succeed.
-
-Six at the top means:
-
-Galling limitation.
-Perseverance brings misfortune.
-Remorse disappears.
-
-If one is too severe in setting up restrictions, people will not endure
-them. The more consistent such severity, the worse it is, for in the
-long     run a reaction is unavoidable. In the same way, the tormented body
-will   rebel  against excessive asceticism. On the other hand, although ruthless
-severity  is not to be applied persistently and systematically, there may
-be times when it si the only means of safeguarding against guilt and remorse.
-In such situations ruthlessness toward oneself is the only means of saving
-one's soul, which otherwise would succumb to irresolution and temptation.
 
 
 
-<a name="61"></a>
+
 61. Chung Fu / Inner Truth
+----------------------------------------------------------------------------
 
-above SUN  THE GENTLE, WIND
+above SUN  THE GENTLE, WIND 
 below TUI  THE JOYOUS, LAKE
 
 The wind blows over the lake and stirs the surface of the water. Thus
@@ -7032,117 +3587,15 @@ its aim was to   make so strong a moral impression that there was no reason
 to fear abuse  of such mildness. For it sprang not from weakness but from
 a superior clarity.
 
-THE LINES
-
-Nine at the beginning means:
-
-Being prepared brings good fortune.
-If there are secret designs, it is disquieting.
-
-The force of inner truth depends chiefly on inner stability and preparedness.
-From this state of mind springs the correct attitude toward the outer
-world.    But if a man should try to cultivate secret relationships of a
-special sort,   it would deprive him of his inner independence. The more
-reliance he places   on the support of others, the more uneasy and anxious
-he will become as to  whether these secret ties are really tenable. In this
-way inner peace and  the force of inner truth are lost.
-
-Nine in the second place means:
-
-A crane calling in the shade.
-Its young answers it.
-I have a good goblet.
-I will share it with you.
-
-This refers to the involuntary influence of a man's inner being upon
-persons of kindred spirit. The crane need not show itself on a high hill.
-It may be quite hidden when it sounds its call; yet its young will hear
-its  not, will recognize it and give answer. Where there is a joyous mood,
-there  a comrade will appear to share a glass of wine.  This is the echo
-awakened  in men through spiritual attraction. Whenever a feeling is voiced
-with truth  and frankness, whenever a deed is the clear expression of sentiment,
-a mysterious  and far-reaching influence is exerted. At first it acts on
-those who are inwardly receptive. But the circle grows larger and larger.
-The root of all influence lies in one's own inner being: given true and vigorous
-expression in word and deed, its effect is great. The effect is but the reflection
-of something that emanates from one's own heart. Any deliberate intention
-of an effect would only destroy the possibility of producing it. Confucius
-says about this line:
-
-The superior man abides in his room. If his words are well spoken,
-he meets with assent at a distance of more than a thousand miles. How
-much    more then from near by! If the superior man abides in his room and
-his words   are not well spoken, he meets with contradiction at a distance
-of more than   a thousand miles. How much more then from near by! Words go
-forth from one's   own person and exert their influence on men. Deeds are
-born close at hand   and become visible far away. Words and deeds are the
-hinge and bowspring  of the superior man. As hinge and bowspring move, they
-bring honor or disgrace.   Through words and deeds the superior man moves
-heaven and earth . Must one   not, then, be cautious?
-
-Six in the third place means:
-
-He finds a comrade.
-
-Now he beats the drum, now he stops.
-
-Now he sobs, now he sings.
-
-Here the source of a man's strength lies not in himself but in his
-relation to other people. No matter how close to them he may be, if his
-center  of gravity depends on them, he is inevitably tossed to and fro
-between   joy  and sorrow. Rejoicing to high heaven, then sad unto death-this
-is the   fate  of those who depend upon an inner accord with other persons
-whom they   love.  Here we have only the statement of the law that this is
-so. Whether   this condition is felt to be an affliction of the supreme happiness
-of love,   is left to the subjective verdict of the person concerned.
-
-Six in the fourth place means:
-
-The moon nearly at the full.
-
-The team horse goes astray.
-
-No blame.
-
-To intensify the power of inner truth, a man must always turn to his
-superior, from whom he can receive enlightenment as the moon receives
-light    form the sun. However, this requires a certain humility, like that
-of the    moon when it is not yet quite full. At the moment when the moon
-becomes  full  and stands directly opposite the sun, it begins to wane. Just
-as on  the one  hand we must be humble and reverent when face to face with
-the source   of enlightenment, so likewise must we on the other renounce
-factionalism  among men. Only be pursuing one's course like a horse that
-goes straight ahead without looking sidewise at its mate, can one retain
-the inner freedom that helps one onward.
-Nine in the fifth place means:
-
-He possesses truth, which links together.
-
-No blame.
-
-This describes the ruler who holds all elements together by the power
-of his personality. Only when the strength of his character is so ample
-that  he can influence all who are subject to him, is he as he needs to
-be.  The  power of suggestion must emanate from the ruler. It will firmly
-knit  together  and unite all his adherents. Without this central force,
-all external  unity  is only deception and breaks down at the decisive moment.
-
-Nine at the top means:
-
-Cockcrow penetrating to heaven.
-Perseverance brings misfortune.
-
-The cock is dependable. It crows at dawn. But it cannot itself fly
-to heaven. It just crows. A man may count on mere words to awaken faith.
-This may succeed now and then, but if persisted in, it will have bad consequences.
 
 
 
-<a name="62"></a>
+
+
 62. Hsiao Kuo / Preponderance of the Small
+----------------------------------------------------------------------------
 
-above CHêN  THE AROUSING, THUNDER
+above CHêN  THE AROUSING, THUNDER 
 below KêN  KEEPING STILL, MOUNTAIN
 
 While in the hexagram Ta Kuo, PREPONDERANCE OF THE GREAT 
@@ -7216,111 +3669,14 @@ the masses, all this makes him stand out as   exceptional. But the essential
 significance of his attitude lies in the fact  that in external matters he
 is on the side of the lowly.
 
-THE LINES
-
-Six at the beginning means:
-
-The bird meets with misfortune through flying.
-
-A bird ought to remain in the nest until it is fledged. If it tries
-to fly before this, it invites misfortune. Extraordinary measures should
-be resorted to only when all else fails. At first we ought to put up with
-traditional ways as long as possible; otherwise we exhaust ourselves and
-our energy and still achieve nothing.
-Six in the second place means:
-
-She passes by her ancestor
-And meets her ancestress.
-He does not reach his prince
-And meets the official.
-
-No blame.
-
-Two exceptional situations are instanced here. In the temple of ancestors,
-where alternation of generations prevails, the grandson stands on the
-same    side as the grandfather. Hence his closest relations are with the
-grandfather.    The present line designates the grandson's wife, who during
-the sacrifice    passes by the ancestor and goes toward the ancestress. This
-unusual behavior    is, however, an expression of her modesty. She ventures
-rather to approach    the ancestress, for she feels related to her by their
-common sex. Hence  here  deviation from the rule is not a mistake.  Another
-image is that of  the official  who, in compliance with regulation, first
-seeks an audience  with his prince.  If he is not successful in this, he
-does not try to force  anything but goes  about conscientious fulfillment
-of his duty, taking his  place among the other  officials. This extraordinary
-restraint is likewise  not a mistake in exceptional  times. (The rule is
-that every official should  first have an audience with  the prince by whom
-he is appointed. Here the  appointment is made by the minister.)
-
-Nine in the third place means:
-
-If one is not extremely careful,
-
-Somebody may come up from behind and strike him.
-Misfortune.
-
-At certain times extraordinary caution is absolutely necessary. But
-it is just in such life situations that we find upright and strong personalities
-who, conscious of being in the right, disdain to hold themselves on guard,
-because they consider it petty. Instead, they go their way proud and
-unconcerned.     But this self-confidence deludes them. There are dangers
-lurking for which     they are unprepared. Yet such danger is not unavoidable;
-one can escape   it  if he understands that the time demands that he pay
-especial attention   to  small and insignificant thing.
-
-Nine in the fourth place means:
-
-No blame. He meets him without passing by.
-Going brings danger. One must be on guard.
-Do not act. Be constantly persevering.
-
-Hardness of character is tempered by yielding position so that no
-mistakes are made. The situation here calls for extreme caution; one must
-make no attempt of one's own initiative to reach the desired end. And if
-one were to go on, endeavoring one must be on guard and not act but continue
-inwardly to persevere.
-Six in the fifth place means:
-
-Dense clouds,
-
-No rain from our western territory.
-
-The prince shoots and hits him who is in the cave.
-
-As a high place is pictured here, the image of a flying bird has become
-that of flying clouds. But dense as the clouds are, they race across
-the    sky and give no rain. Similarly, in exceptional times there may be
-a born    ruler who is qualified to set the world in order, but who cannot
-achieve   anything or confer blessing on the people because he stands alone
-and has   no helpers. Is such times a man must seek out helpers with whose
-aid he can  carry out the task. But these helpers must be modestly sought
-out in the retirement to which they have withdrawn. It is not in the fame
-nor their great names but their genuine achievements that are important.
-Through such modesty the right man is found, and the exceptional task is
-carried out in spite of all difficulties.
-
-Six at the top means:
-
-He passes him by, not meeting him.
-
-The flying bird leaves him.
-Misfortune.
-
-This means bad luck and injury.
-
-If one overshoots the goal, one cannot hit it. If a bird will not
-come to its nest but flies higher and higher, it eventually falls into the
-hunter's net. He who in times of extraordinary salience of small things does
-not know how to call a halt, but restlessly seeks to press on and on, draws
-upon himself misfortune at the hands of gods and men, because he deviates
-from the order of nature.
 
 
 
-<a name="63"></a>
+
 63. Chi Chi / After Completion
+----------------------------------------------------------------------------
 
-above  K'AN  THE ABYSMAL, WATER
+above  K'AN  THE ABYSMAL, WATER 
 below  LI THE  CLINGING, FIRE
 
 This hexagram is the evolution of T'ai PEACE 
@@ -7340,10 +3696,10 @@ of a time of climax, which necessitate the utmost caution.
 
 THE JUDGMENT
 
-AFTER COMPLETION. Success in small matters.
-Perseverance furthers.
-At the beginning good fortune.
-At the end disorder.
+AFTER COMPLETION. Success in small matters. 
+Perseverance furthers. 
+At the beginning good fortune. 
+At the end disorder. 
 
 The transition from the old to the new time is already accomplished.
 In principle, everything stands systematized, and it si only in regard
@@ -7377,115 +3733,12 @@ in balance and  work in harmony, so that everything seems to be in the best
 of order. In such times only the sage recognizes the moments that bode danger
 and knows how to banish it by means of timely precautions.
 
-THE LINES
-
-Nine at the beginning means:
-
-He breaks his wheels.
-He gets his tail in the water.
-
-No blame.
-
-In times following a great transition, everything is pressing forward,
-striving in the direction of development and progress. But this pressing
-forward at the beginning is not good; it overshoots the mark and leads
-with   certainty to loss and collapse. Therefore a man of strong character
-does  not allow himself to be infected by the general intoxication but checks
-his  course in time. He may indeed not remain altogether untouched by the
-disastrous  consequences of the general pressure, but he is hit only from
-behind like  a fox that, having crossed the water, at the last minute gets
-its tail wet.  He will not suffer any real harm, because his behavior has
-been correct.
-Six in the second place means:
-
-The woman loses the curtain of her carriage.
-Do not run after it;
-On the seventh day you will get it.
-
-When a woman drove out in her carriage, she had a curtain that hid
-her from the glances of the curious. It was regarded as a breach of propriety
-to drive on if this curtain was lost.  Applied to public life, this means
-that a man who wants to achieve something is not receiving that confidence
-of the authorities which he needs, so to speak, for his personal protection.
-Especially in times "after completion" it may happen that those who have
-come to power grow arrogant and conceited and no longer trouble themselves
-about fostering new talent.  This as a rule results in office seeking.
-If   a man's superiors withhold their trust from him, he will seek ways and
-means   of getting it and of drawing attention to himself. We are warned
-against  such an unworthy procedure: "Do not seek it." Do not throw yourself
-away on the world, but wait tranquilly and develop your personal worth by
-your own efforts. Times change. When the six stages of the hexagram have
-passed, the new era dawns. That which is a man's own cannot be permanently
-lost. It comes to him of its own accord. He need only be able to wait.
-
-Nine in the third place means:
-
-The Illustrious Ancestor
-Disciplines the Devil's Country.
-After three years he conquers it.
-Inferior people must not be employed.
-
-"Illustrious Ancestor" is the dynastic title of the Emperor Wu Ting
-of the Yin dynasty. After putting his realm in order with a strong hand,
-he waged long colonial wars for the subjection of the Huns who occupied
-the  northern borderland with constant threat of incursions.  The situation
-described  is as follows. After times of completion, when a new power has
-arisen and  everything within the country has been set in order, a period
-of colonial  expansion almost inevitably follows. Then as a rule long-drawn-out
-struggles  must be reckoned with. For this reason, a correct colonial policy
-is especially  important. The territory won at such bitter cost must not
-be regarded as an almshouse for people who in one way or another have hade
-themselves impossible  at home, but who are thought to be quite good enough
-for the colonies. Such  a policy ruins at the outset any chance of success.
-This holds true in small  as well as large matters, because it is not only
-rising states that carry  on a colonial policy; the urge to expand, with
-its accompanying dangers, is part and parcel of every ambitious undertaking.
-
-Six in the fourth place means:
-
-The finest clothes turn to rags.
-Be careful all day long.
-
-In a time of flowering culture, an occasional convulsion is bound
-to occur, uncovering a hidden evil within society and at first causing a
-great sensation. But since the situation is favorable on the whole, such
-evils can easily be glossed over and concealed from the public. Then everything
-is forgotten and peace apparently reigns complacently once more. However,
-to the thoughtful man, such occurrences are grave omens that he does
-not    neglect. This is the only way of averting evil consequences.
-
-Nine in the fifth place means:
-
-The neighbor in the east who slaughters an ox
-Does not attain as much real happiness
-As the neighbor in the west
-With his small offering.
-
-Religious attitudes are likewise influenced by the spiritual atmosphere
-prevailing in times after completion. In divine worship the simple old
-forms   are replaced by an ever more elaborate ritual and an ever greater
-outward   display. But inner seriousness is lacking in this show of magnificence;
-human  caprice takes the place of conscientious obedience to the divine
-will.  However,  while man sees what is before his eyes, God looks into the
-heart.  Therefore  a simple sacrifice offered with real piety holds a greater
-blessing  than an impressive service without warmth.
-
-Six at the top means:
-
-He gets his head in the water. Danger.
-
-Here in conclusion another warning is added. After crossing a stream,
-a man's head can get into the water only if he is so imprudent as to
-turn     back. As long as he goes forward and does not look back, he escapes
-this    danger. But there is a fascination in standing still and looking
-back on   a peril overcome. However, such vain self-admiration brings misfortune.
-It  leads only to danger, and unless one finally resolves to go forward without
-pausing, one falls a victim to this danger.
 
 
 
-<a name="64"></a>
+
 64. Wei Chi / Before Completion
+----------------------------------------------------------------------------
 
 above LI  THE CLINGING, FLAME
 below K'AN  THE ABYSMAL, WATER
@@ -7539,90 +3792,3 @@ If we   can bring these forces to bear in the right place, they will have
 the desired    effect and completion will be achieved. But in order to handle
 external  forces  properly, we must above all arrive at the correct standpoint
 ourselves,  for  only from this vantage can we work correctly.
-
-THE LINES
-
-Six at the beginning means:
-
-He gets his tail in the water.
-Humiliating.
-
-In times of disorder there is a temptation to advance oneself as rapidly
-as possible in order to accomplish something tangible. But this enthusiasm
-leads only to failure and humiliation if the time for achievement has
-not    yet arrived. In such time it is wise to spare ourselves the opprobrium
-of   failure by holding back.
-
-Nine in the second place means:
-
-He brakes his wheels.
-Perseverance brings good fortune.
-
-Here again the time to act has not yet come. But the patience needed
-is not that of idle waiting without thought of the morrow. Kept up indefinitely,
-this would not lead to any success. Instead, an individual must develop
-in  himself the strength that will enable him to go forward. He must have
-a vehicle,  as it were, to effect the crossing. But he must for the time
-being use the  brakes. Patience in the highest sense means putting brakes
-on strength. Therefore  he must not fall asleep and lose sight of the goal.
-If he remains strong and steadfast in his resolve, all goes well in the
-end.
-
-Six in the third place means:
-
-Before completion, attack brings misfortune.
-It furthers one to cross the great water.
-
-The time of transition has arrived, but one lacks the strength to
-complete the transition. If one should attempt to force it, disaster would
-result, because collapse would then be unavoidable. What is to be done? A
-new situation must be created; one must engage the energies of able helpers
-and in this fellowship take the decisive step-cross the great water. Then
-completion will become possible.
-
-Nine in the fourth place means:
-
-Perseverance brings good fortune.
-Remorse disappears.
-
-Shock, thus to discipline the Devil's Country.
-For three years, great realms are rewarded.
-
-Now it is the time of struggle. The transition must be completed.
-We must make ourselves strong in resolution; this brings good fortune. All
-misgivings that might arise in such grave times of struggle must be silenced.
-It is a question of a fierce battle to break and to discipline the Devil's
-Country, the forces of decadence. But the struggle also has its reward. Now
-is the time to lay the foundations of power and mastery for the future.
-Six in the fifth place means:
-
-Perseverance brings good fortune.
-
-No remorse.
-
-The light of the superior man is true.
-Good fortune.
-
-The victory has been won. The power of steadfastness has not been
-routed. Everything has gone well. All misgivings have been overcome. Success
-has justified the deed. The light of a superior personality shines forth
-anew and makes its influence felt among men who have faith in it and rally
-around it. The new time has arrived, and with it good fortune. And just as
-the sun shines forth in redoubled beauty after rain, or as a forest grows
-more freshly green from charred ruins after a fire, so the new era appears
-all the more glorious by contrast with the misery of the old.
-
-Nine at the top means:
-
-There is drinking of wine
-In genuine confidence. No blame.
-But if one wets his head,
-He loses it, in truth.
-
-Before completion, at the dawning of the new time, friends foregather
-in an atmosphere of mutual trust, and the time of waiting is passed in
-conviviality.   Since the new era is hard on the threshold, there is no
-blame  in this. But   one must be careful in all this to keep within proper
-bounds.  If in his exuberance  a man gets drunk, he forfeits the favorableness
-of the situation through his intemperance.
-
