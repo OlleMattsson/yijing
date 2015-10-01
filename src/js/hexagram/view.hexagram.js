@@ -7,7 +7,7 @@ define([
 ], function(Backbone, Handlebars, HexagramModel, templateHTML, HexagramData ){
 
 	var view = Backbone.View.extend({
-		el : '#hexagram',
+		el : '#mainView',
 		template: Handlebars.compile( templateHTML ),
 		tagName: 'div', 
 		

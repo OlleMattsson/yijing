@@ -7,7 +7,7 @@ define([
 	], 
 	function(Backbone, Handlebars, ModelBinder, DivinationModel, Template){
 		var view = Backbone.View.extend({
-			el : '#divine',
+			el : '#mainView',
 			model : DivinationModel,
 			template: Handlebars.compile( Template ),
 			modelBinder: new Backbone.ModelBinder(),  	

@@ -5,29 +5,40 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>QuJing </title>
+
+        <!-- inject:css -->
+        <!-- endinject -->
         
         <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.css">
         <link rel="stylesheet" href="style.css">
     </head>
     <body>
-    <div class="container-fluid">
-        <div id="header" class="row">
-            <div class="col-xs-10 col-xs-offset-1">
-                <h1>QuJing</h1>
-                <h2 style="float:right">
-                    <a 
-                        style=" 
-text-decoration: none;
-    color: rgb(200,200,200);
-    margin-top: -30px;
-    display: block;
-    font-size: 3em;
+    <div class="container-fluid">    
+        
+        <nav id="appMenu" class="navbar navbar-default col-xs-10 col-xs-offset-1">
+          <div class="container-fluid ">
+            <div class="navbar-header">
+              <a class="navbar-brand" href="#">QuJing</a>
+            </div>
+              <ul class="nav navbar-nav navbar-right">
+                <li><a href="#oracle">Oracle</a></li>
+                <li><a href="#yijing">Yi Jing</a></li>
+                <li><a href="#about">About</a></li>
+              </ul>
+          </div>
+        </nav>
 
-                    ">&#9775;</a></h2>
-                <h2 style="float:left;">The Quantum Yì Jīng</h2>
-                <h2 style="float:right; clear: both;">量子随机性易经</h2>
+        <div id="header" class="row">
+            <div class="col-xs-10 col-xs-offset-1">                
+                <!--
+                <h2 style="float:right"><a class="menuButton">&#9775;</a></h2>
+                -->
+
+                <h2 style="float:left; margin-top: -10px;">The Quantum Yì Jīng</h2>
+                <h2 style="float:left; clear: both; margin-top: 5px;">量子随机性易经</h2>
             </div>
         </div>
+
         <div id="spinner" class="row">
             <div class="sk-double-bounce">
               <div class="sk-child sk-double-bounce1"></div>
@@ -35,13 +46,20 @@ text-decoration: none;
             </div>
             <span >Querying the Universe...</span>
         </div>
-        <div id="divine" class="row "></div>
-        <div id="hexagram" class="row "></div>
+
+
+        <div class="row">
+            <div id="mainView" class="col-xs-10 col-xs-offset-1"></div>
+        </div>
+
+
+        
         <div id="footer" class="footer">
             <span style="float:right;"><a href="http://www.ollemattsson.com" target="_blank"style="text-decoration:none; color:rgb(200,200,200)">&#9775;</a></span>
         </div>
     </div>
 
+        <scipt src="bower_components/bootstrap/dist/js/boostrap.min.js"> 
     <!-- requireJS is our main entry point and will handle all JS loading -->
 		<script data-main="index" src="bower_components/requirejs/require.js"></script>
 

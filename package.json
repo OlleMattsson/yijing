@@ -9,6 +9,7 @@
   "author": "Olle Mattsson (olle.mattsson@codemate.com)",
   "license": "ISC",
   "devDependencies": {
-    "gulp": "^3.9.0"
+    "gulp": "^3.9.0",
+    "gulp-inject": "^3.0.0"
   }
 }
