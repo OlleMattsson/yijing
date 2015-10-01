@@ -1,14 +1,26 @@
-
-
-
-
 <span class="hexagram">{{{html}}}</span>
 
 <div style="" class="titlerow">
-<span class="number">{{id}}. </span> <span class="name"> {{nameMan}} - {{nameEng}}</span>
+<span id="numberField" class="number" contentEditable="true">{{id}}</span>. <span class="name"> {{nameMan}} - {{nameEng}}</span>
 </div>
 
-<div name="description">{{{description}}}</div>	
+<div style="margin-top:20px;">
+	<span style=" font-size: 1em; color:#8A8888">Above:</span>
+	<span style="font-size: 2em;">{{{above.html}}}</span>
+	<span style="font-size: 2em;">{{above.nameMan}}</span> 
+	<span style="color:#8A8888">({{above.nameEng}}) </span>
+</div>
+<div>
+	<span style=" font-size: 1em; color:#8A8888">Below:</span>
+	<span style="font-size: 2em; ">{{{below.html}}}</span>
+	<span style="font-size: 2em;">{{below.nameMan}}</span> 
+	<span style="color:#8A8888">({{below.nameEng}}) </span>
+</div>
+<div style="margin-top:30px; color:#8A8888">
+	Fu Xi (binary): {{fuxi}} 
+</div>
+
+<div name="description" style="margin-top:10px;">{{{description}}}</div>	
 
 <h2>The Judgement</h2>
 <div name="judgement">{{{judgement}}}</div>	

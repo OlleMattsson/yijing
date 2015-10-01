@@ -11,21 +11,24 @@ define([
   return Backbone.Router.extend({
     routes: {
       'yijing/:kingWen': function(kingWen){
-        $('#spinner').hide();
-
+        $('#spinner').show();
+      
         var hexagram = new HexagramModel({id : kingWen});    
         hexagram.on("change", function (model) {
           new HexagramView({ model: hexagram }).render()
+          $('#spinner').hide();
         });
       },
       'yijing' : function(){
-        $('#spinner').hide();
+        $('#spinner').show();
         var hexagram = new HexagramModel({id : 1});
         hexagram.on("change", function (model) {
           new HexagramView({ model: hexagram }).render()
+          $('#spinner').hide();
         });
       },      
       'oracle' : function() {
+        $('#spinner').show();
         //var view = DivinationView;
             DivinationView.render();
 
@@ -40,7 +43,9 @@ define([
         
       },
       'about' : function() {
+        $('#spinner').hide();
         About.render()
+
       },
       // Default
       '*actions': 'defaultAction', // <- emit defaultAction event
@@ -53,9 +58,8 @@ define([
         $('#spinner').hide();
       });
 
-      this.on('route:change', function(actions){
-        App.start()
-        $('#spinner').show();
+      this.on('url-changed', function(actions){
+        console.log('route event')
       });
     }    
 

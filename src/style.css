@@ -49,7 +49,7 @@ li {
 
 
 #mainView .hexagram {
-  font-size:10em;
+  font-size:20em;
   text-align: center;
   display: block;
   line-height: 0.8em;
@@ -67,6 +67,7 @@ li {
 #mainView .number {
   color: #8A8888;
   font-size:2em; 
+  
 }
 
 #mainView h2 {
@@ -79,7 +80,7 @@ li {
 
 .monogram {
 	display:inline;
-	font-size:10em;
+	font-size:20em;
 	line-height:0px;
 	color:rgba(61, 61, 61, 1);
 }
@@ -89,7 +90,7 @@ li {
 } 
 
 .line {
-	height:20px;
+	height:40px;
 	text-align: center;
 }
 

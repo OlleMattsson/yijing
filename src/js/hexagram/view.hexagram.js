@@ -3,7 +3,6 @@ define([
 'handlebars',
 'HexagramModel',
 'text!templates/hexagram.html',
-'text!static/iching/1.html',
 ], function(Backbone, Handlebars, HexagramModel, templateHTML, HexagramData ){
 
 	var view = Backbone.View.extend({
