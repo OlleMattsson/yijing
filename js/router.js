@@ -2,23 +2,37 @@
 define([
   'backbone',
   'iChing',
-  'DivinationView'
-], function(Backbone, iChing, DivinationView){
+  'DivinationView',
+  'HexagramView',
+  'HexagramModel'
+], function(Backbone, iChing, DivinationView, HexagramView, HexagramModel){
   return Backbone.Router.extend({
     routes: {
-      'iChing': function(){
+      'iching': function(){
         var iching = new iChing("#modules");
       },
-      'divine' : function() {
-        var view = DivinationView;
-            view.render();
+      'hexagram/:kingWen': function(kingWen){
+        $('#spinner').hide();
 
-            view.model.makeHexagram();  
+        var hexagram = new HexagramModel({id : kingWen});
+        
+        
+        hexagram.on("change", function (model) {
+          new HexagramView({ model: hexagram }).render()
+        });
+
+
+      },
+      'divine' : function() {
+        //var view = DivinationView;
+            DivinationView.render();
+
+            DivinationView.model.makeHexagram();  
             
-            view.model.on('hexagramComplete', function(){
+            DivinationView.model.on('hexagramComplete', function(){
               $('#spinner').hide();
-              view.renderHexagram();
-              view.renderFutureHexagram();
+              DivinationView.renderHexagram();
+              DivinationView.renderFutureHexagram();
 
             });
         

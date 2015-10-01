@@ -2,19 +2,48 @@ li {
 	list-style-type: none;
 }
 
-h1 {
+#header h1 {
 	font-size: 2em;
 	border-bottom: 1px solid black;
 	padding-bottom: 5px;
 }
 
-h2 {
+#header h2 {
 	font-size:0.8em;
 	color:rgba(62, 62, 62, 1);
 	line-height: 0px;
 	margin-top: -2px;
 }
 
+
+#hexagram .hexagram {
+  font-size:10em;
+  text-align: center;
+  display: block;
+  line-height: 0.8em;
+}
+
+#hexagram .titlerow {
+  text-align: center;
+  line-height:4em;
+}
+
+#hexagram .name {
+  font-size:2em; 
+}
+
+#hexagram .number {
+  color: #8A8888;
+  font-size:2em; 
+}
+
+#hexagram h2 {
+  font-size:1.5em;
+}
+
+#hexagram h3 {
+  font-size:1em;
+}
 
 .monogram {
 	display:inline;

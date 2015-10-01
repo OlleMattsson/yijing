@@ -34,7 +34,7 @@ define([
       //$('body').html( appView.el )
 
       new Router();
-      Backbone.history.start();
+      Backbone.history.start(); // {pushState: true}
       console.log('app.js is running')
   }
 

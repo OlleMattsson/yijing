@@ -276,6 +276,7 @@ If he asks two or three times, it is importunity.
 If he importunes, I give him no information. 
 Perseverance furthers. 
 
+
 In the time of youth, folly is not an evil. One may succeed in spite
 of it, provided one finds an experienced teacher and has the right attitude
 toward him. This means, first of all, that the youth himself must be

@@ -3,25 +3,27 @@ define([
   'backbone', 
 ], function($, Backbone) {	
 	var Hexagram =	Backbone.Model.extend({
-			defaults: {
-				id : 0,
-				utf8 : "",
-				html : "",
-				sequence : [0,0,0,0,0,0],
-				name : "",
-				mandarinName : "",		// romanized mandarin
-				mandarinCharacter : '',	// mandarin utf-8 character
-				description : "", 		// text
-				upperTrigram : '',		// new Trigram()
-				lowerTrigram : '', 		// new Trigram()
-				judgement : '', 		// text
-				image : '',
-				lines : { line1 : '',	// text fields
-						  line2 : '',
-						  line3 : '',
-						  line4 : '',
-						  line5 : '',
-						  line6 : '',	}
+			url : '',		
+			//urlRoot : 'static/iching',	
+			parse : function(res) {
+				return res[0];
+			},
+			initialize : function() {				
+				var self = this;
+				this.url = 'static/iching/' + this.id + '.json';
+				this.fetch({
+					dataType: 'json', 	// very important!
+				    reset: true,		// triggers "reset" event when fetch is done
+					error : function(model, res, options) { console.log("HexagramCollection fetch() ERROR:", model, res)},
+					success : function(model, res, options) {
+					 },
+					complete : function(xhr, text) {
+						// we could use a custom event to trigger render() in the view
+						// self.trigger('onComplete') 	
+					}
+				});
+
+
 			}
 		});
 	return Hexagram;	
