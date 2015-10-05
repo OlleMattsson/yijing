@@ -1,0 +1,97 @@
+[
+{		"id" : "1",
+		"fuxi" : "1",
+		"html" : "&#9776;",
+		"name" : "Qián",
+		"nature" : "Heaven",
+		"season" : "Summer",
+		"personality" : "Creative",
+		"family" : "Father",
+		"direction" : "South",
+		"meaning" : "Expansive energy, the sky"
+	},
+	{
+		"id" : "2",
+		"fuxi" : "2",
+		"html" : "&#9780;",
+		"name" : "Xùn",
+		"nature" : "Wind",
+		"season" : "Summer",
+		"personality" : "Gentle",
+		"family" : "Eldest Daughter",
+		"direction" : "Southwest",
+		"meaning" : "Gentle penetration, flexibility."
+	},
+	{
+		"id" : "3",
+		"fuxi" : "3",
+		"html" : "&#9781;",
+		"name" : "Kǎn",
+		"nature" : "Water",
+		"season" : "Autumn",
+		"personality" : "Deep (Abysmal)",
+		"family" : "Middle Son",
+		"direction" : "West",
+		"meaning" : "Danger, rapid rivers, the abyss, the moon."
+	},
+	{
+		"id" : "4",
+		"fuxi" : "4",
+		"html" : "&#9782;",
+		"name" : "Gèn",
+		"nature" : "Mountain",
+		"season" : "Autumn",
+		"personality" : "Still",
+		"family" : "Youngest Son",
+		"direction" : "Northwest",
+		"meaning" : "Stillness, immovability."
+	},
+	{
+		"id" : "5",
+		"fuxi" : "5",
+		"html" : "&#9783;",
+		"name" : "Kūn",
+		"nature" : "Earth",
+		"season" : "Winter",
+		"personality" : "Receptive",
+		"family" : "Mother",
+		"direction" : "North",
+		"meaning" : "Receptive energy, that which yields."
+	},
+	{
+		"id" : "6",
+		"fuxi" : "6",
+		"html" : "&#9779;",
+		"name" : "Zhèn",
+		"nature" : "Thunder",
+		"season" : "Winter",
+		"personality" : "Arousing",
+		"family" : "Eldst Son",
+		"direction" : "Northeast",
+		"meaning" : "Excitation, revolution, division."
+	},
+	{
+		"id" : "7",
+		"fuxi" : "7",
+		"html" : "&#9778;",
+		"name" : "Lí",
+		"nature" : "Fire",
+		"season" : "Spring",
+		"personality" : "Clinging",
+		"family" : "Middle Daugther",
+		"direction" : "East",
+		"meaning" : "Rapid movement, radiance, the sun."
+	},
+	{
+		"id" : "8",
+		"fuxi" : "8",
+		"html" : "&#9777;",
+		"name" : "Duì",
+		"nature" : "Lake",
+		"season" : "Spring",
+		"personality" : "Joyous",
+		"family" : "Yongest Daugther",
+		"direction" : "Southeast",
+		"meaning" : "Joy, satisfaction, stagnation."
+	}
+]

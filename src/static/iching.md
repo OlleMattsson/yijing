@@ -274,151 +274,42 @@ is there retrogression.
 above K'AN THE ABYSMAL, WATER
 below CHêN THE AROUSING, THUNDER
 
-The name of the hexagram, Chun, really connotes a blade of grass pushing
-against an obstacle as it sprouts out of the earth--hence the meaning,
-"difficulty at the beginning." The hexagram indicates the way in which
-heaven and earth bring forth individual beings. It is their first meeting,
-which is beset with difficulties. The lower trigram Chên is the Arousing;
-its motion is upward and its image is thunder. The upper trigram K'an stands
-for the Abysmal, the dangerous. Its motion is downward and its image is
-rain. The situation points to teeming, chaotic profusion; thunder and rain
-fill the air. But the chaos clears up. While the Abysmal sinks, the upward
-movement eventually passes beyond the danger. A thunderstorm brings release
-from tension, and all things breathe freely again.
+The name of the hexagram, Chun, really connotes a blade of grass pushing against an obstacle as it sprouts out of the earth--hence the meaning, "difficulty at the beginning." The hexagram indicates the way in which heaven and earth bring forth individual beings. It is their first meeting, which is beset with difficulties. The lower trigram Chên is the Arousing; its motion is upward and its image is thunder. The upper trigram K'an stands for the Abysmal, the dangerous. Its motion is downward and its image is rain. The situation points to teeming, chaotic profusion; thunder and rain fill the air. But the chaos clears up. While the Abysmal sinks, the upward movement eventually passes beyond the danger. A thunderstorm brings release from tension, and all things breathe freely again. 
 
 THE JUDGMENT
 
-DIFFICULTY AT THE BEGINNING works supreme success,
-Furthering through perseverance.
-Nothing should be undertaken.
-It furthers one to appoint helpers.
-
-Times of growth are beset with difficulties. They resemble a first
-birth. But these difficulties arise from the very profusion of all that
-is struggling to attain form . Everything is in motion: therefore if one
-perseveres there is a prospect of great success, in spite of the existing
-danger. When it is a man's fate to undertake such new beginnings, everything
-is still unformed, dark. Hence he must hold back, because any premature
-move might bring disaster. Likewise, it is very important not to remain
-alone; in order to overcome the chaos he needs helpers. This is not to say,
-however, that he himself should look on passively at what is happening.
-He must lend his hand and participate with inspiration and guidance.
+DIFFICULTY AT THE BEGINNING works supreme success,\n Furthering through perseverance.\n Nothing should be undertaken.\n It furthers one to appoint helpers.\n \n Times of growth are beset with difficulties. They resemble a first birth. But these difficulties arise from the very profusion of all that is struggling to attain form . Everything is in motion: therefore if one perseveres there is a prospect of great success, in spite of the existing danger. When it is a man's fate to undertake such new beginnings, everything is still unformed, dark. Hence he must hold back, because any premature move might bring disaster. Likewise, it is very important not to remain alone; in order to overcome the chaos he needs helpers. This is not to say, however, that he himself should look on passively at what is happening. He must lend his hand and participate with inspiration and guidance.
 
 THE IMAGE
 
-Clouds and thunder:
-
-The image of DIFFICULTY AT THE BEGINNING.
-
-Thus the superior man
-Brings order out of confusion.
-
-Clouds and thunder are represented by definite decorative lines; this
-means that in the chaos of difficulty at the beginning, order is already
-implicit. So too the superior man has to arrange and organize the inchoate
-profusion of such times of beginning, just as one sorts out silk threads
-from a knotted tangle and binds them into skeins. In order to find one's
-place in the infinity of being, one must be able both to separate and to
-unite.
+Clouds and thunder:\n \n The image of DIFFICULTY AT THE BEGINNING.\n \n Thus the superior man\n Brings order out of confusion.\n  Clouds and thunder are represented by definite decorative lines; this means that in the chaos of difficulty at the beginning, order is already implicit. So too the superior man has to arrange and organize the inchoate profusion of such times of beginning, just as one sorts out silk threads from a knotted tangle and binds them into skeins. In order to find one's place in the infinity of being, one must be able both to separate and to unite.
 
 THE LINES
 
 Nine at the beginning means:
 
-Hesitation and hindrance.
-It furthers one to remain persevering.
-It furthers one to appoint helpers.
-
-If a person encounters a hindrance at the beginning of an enterprise,
-he must not try to force advance but must pause and take thought. However,
-nothing should put him off his course; he must persevere and constantly
-keep the goal in sight. It is important to seek out the right assistants,
-but he can find them only if he avoids arrogance and associated with his
-fellows in a spirit of humility. Only then will he attract those with whose
-help he can combat the difficulties.
+Hesitation and hindrance.\n It furthers one to remain persevering.\n It furthers one to appoint helpers.\n \n If a person encounters a hindrance at the beginning of an enterprise, he must not try to force advance but must pause and take thought. However, nothing should put him off his course; he must persevere and constantly keep the goal in sight. It is important to seek out the right assistants, but he can find them only if he avoids arrogance and associated with his fellows in a spirit of humility. Only then will he attract those with whose help he can combat the difficulties. 
 
 Six in the second place means:
 
-Difficulties pile up.
-Horse and wagon part.
-He is not a robber;
-He wants to woo when the time comes.
-The maiden is chaste,
-She does not pledge herself.
-Ten years--then she pledges herself.
-
-We find ourselves beset by difficulties and hindrances. Suddenly there
-is a turn of affairs, as if someone were coming up with a horse and wagon
-and unhitching them. This event comes so unexpectedly that we assume
-the newcomer to be a robber. Gradually it becomes clear that he has no
-evil intentions but seeks to be friendly and to offer help. But this offer
-is not to be accepted, because it does not come from the right quarter.
-We must wait until the time is fulfilled; ten years is a fulfilled cycle
-of time. Then normal conditions return of themselves, and we can join forces
-with the friend intended for us. Using the image of a betrothed girl who
-remains true to her lover in face of grave conflicts, the hexagram gives
-counsel for a special situation. When in times of difficulty a hindrance
-is encountered and unexpected relief is offered from a source unrelated
-to us, we must be careful and not take upon ourselves any obligations entailed
-by such help; otherwise our freedom of decision is impaired. If we bide
-our time, things will quiet down again, and we shall attain what we have
-hoped for.
+Difficulties pile up.\n Horse and wagon part.\n He is not a robber;\n He wants to woo when the time comes.\n The maiden is chaste,\n She does not pledge herself.\n Ten years--then she pledges herself.\n \n We find ourselves beset by difficulties and hindrances. Suddenly there is a turn of affairs, as if someone were coming up with a horse and wagon and unhitching them. This event comes so unexpectedly that we assume the newcomer to be a robber. Gradually it becomes clear that he has no evil intentions but seeks to be friendly and to offer help. But this offer is not to be accepted, because it does not come from the right quarter. We must wait until the time is fulfilled; ten years is a fulfilled cycle of time. Then normal conditions return of themselves, and we can join forces with the friend intended for us. Using the image of a betrothed girl who remains true to her lover in face of grave conflicts, the hexagram gives counsel for a special situation. When in times of difficulty a hindrance is encountered and unexpected relief is offered from a source unrelated to us, we must be careful and not take upon ourselves any obligations entailed by such help; otherwise our freedom of decision is impaired. If we bide our time, things will quiet down again, and we shall attain what we have hoped for.
 
 Six in the third place means:
 
-Whoever hunts deer without the forester
-Only loses his way in the forest.
-The superior man understands the signs of the time
-And prefers to desist.
-To go on brings humiliation.
-
-If a man tries to hunt in a strange forest and has no guide, he loses
-his way. When he finds himself in difficulties he must not try to steal
-out of them unthinkingly and without guidance. Fate cannot be duped; premature
-effort, without the necessary guidance, ends in failure and disgrace.
-Therefore the superior man, discerning the seeds of coming events, prefers
-to renounce a wish rather than to provoke failure and humiliation by trying
-to force its fulfillment.
+Whoever hunts deer without the forester\n Only loses his way in the forest.\n The superior man understands the signs of the time\n And prefers to desist.\n To go on brings humiliation.\n \n If a man tries to hunt in a strange forest and has no guide, he loses his way. When he finds himself in difficulties he must not try to steal out of them unthinkingly and without guidance. Fate cannot be duped; premature effort, without the necessary guidance, ends in failure and disgrace. Therefore the superior man, discerning the seeds of coming events, prefers to renounce a wish rather than to provoke failure and humiliation by trying to force its fulfillment.
 
 
 Six in the fourth place means:
 
-Horse and wagon part.
-Strive for union.
-To go brings good fortune.
-Everything acts to further.
+Horse and wagon part.\n Strive for union.\n To go brings good fortune.\n Everything acts to further.\n \n We are in a situation in which it is our duty to act, but we lack sufficient power. However, an opportunity to make connections offers itself. It must be seized. Neither false pride nor false reserve should deter us. Bringing oneself to take the first step, even when it involves a certain degree of self-abnegation, is a sign of inner clarity. To accept help in a difficult situation is not a disgrace. If the right helper is found, all goes well.
 
-We are in a situation in which it is our duty to act, but we lack
-sufficient power. However, an opportunity to make connections offers itself.
-It must be seized. Neither false pride nor false reserve should deter us.
-Bringing oneself to take the first step, even when it involves a certain
-degree of self-abnegation, is a sign of inner clarity. To accept help in
-a difficult situation is not a disgrace. If the right helper is found, all
-goes well.
 Nine in the fifth place means:
 
-Difficulties in blessing.
-A little perseverance brings good fortune.
-Great perseverance brings misfortune.
-
-An individual is in a position in which he cannot so express his good
-intentions that they will actually take shape and be understood. Other
-people interpose and distort everything he does. He should then be cautious
-and proceed step by step. He must not try to force the consummation of
-a great undertaking, because success is possible only when general confidence
-already prevails. It is only through faithful and conscientious work, unobtrusively
-carried on, that the situation gradually clears up and the hindrance disappears.
+Difficulties in blessing.\n A little perseverance brings good fortune.\n Great perseverance brings misfortune.\n \n An individual is in a position in which he cannot so express his good intentions that they will actually take shape and be understood. Other people interpose and distort everything he does. He should then be cautious and proceed step by step. He must not try to force the consummation of a great undertaking, because success is possible only when general confidence already prevails. It is only through faithful and conscientious work, unobtrusively carried on, that the situation gradually clears up and the hindrance disappears.
 
 Six at the top means:
 
-Horse and wagon part.
-Bloody tears flow.
-
-The difficulties at the beginning are too great for some persons.
-They get stuck and never find their way out; they fold their hands and give
-up the struggle. Such resignation is the saddest of all things. Therefore
-Confucius says of this line: "Bloody tears flow: one should not persist in
-this."
+Horse and wagon part.\n Bloody tears flow.\n \n The difficulties at the beginning are too great for some persons. They get stuck and never find their way out; they fold their hands and give up the struggle. Such resignation is the saddest of all things. Therefore Confucius says of this line: \\"Bloody tears flow: one should not persist in this.\\"
 
 
 
@@ -429,141 +320,42 @@ this."
 above KêN KEEPING STILL, MOUNTAIN 
 below K'AN THE ABYSMAL, WATER
 
-In this hexagram we are reminded of youth and folly in two different
-ways. The image of the upper trigram, Kên, is the mountain, that
-of the lower, K'an, is water; the spring rising at the foot of the mountain
-is the image of inexperienced youth. Keeping still is the attribute of
-the upper trigram; that of the lower is the abyss, danger. Stopping in
-perplexity on the brink of a dangerous abyss is a symbol of the folly of
-youth. However, the two trigrams also show the way of overcoming the follies
-of youth. Water is something that of necessity flows on. When the spring
-gushes forth, it does not know at first where it will go. But its steady
-flow fills up the deep place blocking its progress, and success is attained.
+In this hexagram we are reminded of youth and folly in two different ways. The image of the upper trigram, Kên, is the mountain, that of the lower, K'an, is water; the spring rising at the foot of the mountain is the image of inexperienced youth. Keeping still is the attribute of the upper trigram; that of the lower is the abyss, danger. Stopping in perplexity on the brink of a dangerous abyss is a symbol of the folly of youth. However, the two trigrams also show the way of overcoming the follies of youth. Water is something that of necessity flows on. When the spring gushes forth, it does not know at first where it will go. But its steady flow fills up the deep place blocking its progress, and success is attained.
 
 THE JUDGMENT
 
-YOUTHFUL FOLLY has success.
-It is not I who seek the young fool;
-The young fool seeks me.
-At the first oracle I inform him. 
-If he asks two or three times, it is importunity.
-If he importunes, I give him no information.
-Perseverance furthers.
-
-In the time of youth, folly is not an evil. One may succeed in spite
-of it, provided one finds an experienced teacher and has the right attitude
-toward him. This means, first of all, that the youth himself must be
-conscious of his lack of experience and must seek out the teacher. Without
-this modesty and this interest there is no guarantee that he has the necessary
-receptivity, which should express itself in respectful acceptance of the
-teacher. This is the reason why the teacher must wait to be sought out
-instead of offering himself. Only thus can the instruction take place
-at the right time and in the right way. A teacher's answer to the question
-of a pupil ought to be clear and definite like that expected from an oracle;
-thereupon it ought to be accepted as a key for resolution of doubts and
-a basis for decision. If mistrustful or unintelligent questioning is kept
-up, it serves only to annoy the teacher. He does well to ignore it in silence,
-just as the oracle gives one answer only and refuses to be tempted by questions
-implying doubt. Given addition a perseverance that never slackens until
-the points are mastered one by one, real success is sure to follow. Thus
-the hexagram counsels the teacher as well as the pupil.
+YOUTHFUL FOLLY has success.\n It is not I who seek the young fool;\n The young fool seeks me.\n At the first oracle I inform him. \n If he asks two or three times, it is importunity.\n If he importunes, I give him no information.\n Perseverance furthers.\n \n In the time of youth, folly is not an evil. One may succeed in spite of it, provided one finds an experienced teacher and has the right attitude toward him. This means, first of all, that the youth himself must be conscious of his lack of experience and must seek out the teacher. Without this modesty and this interest there is no guarantee that he has the necessary receptivity, which should express itself in respectful acceptance of the teacher. This is the reason why the teacher must wait to be sought out instead of offering himself. Only thus can the instruction take place at the right time and in the right way. A teacher's answer to the question of a pupil ought to be clear and definite like that expected from an oracle; thereupon it ought to be accepted as a key for resolution of doubts and a basis for decision. If mistrustful or unintelligent questioning is kept up, it serves only to annoy the teacher. He does well to ignore it in silence, just as the oracle gives one answer only and refuses to be tempted by questions implying doubt. Given addition a perseverance that never slackens until the points are mastered one by one, real success is sure to follow. Thus the hexagram counsels the teacher as well as the pupil.
 
 THE IMAGE
 
-A spring wells up at the foot of the mountain:
-The image of YOUTH.
-
-Thus the superior man fosters his character
-By thoroughness in all that he does.
-
-A spring succeeds in flowing on and escapes stagnation by filling
-up all the hollow places in its path. In the same way character is developed
-by thoroughness that skips nothing but, like water, gradually and steadily
-fills up all gaps and so flows onward.
+A spring wells up at the foot of the mountain:\n The image of YOUTH.\n \n Thus the superior man fosters his character\n By thoroughness in all that he does.\n \n A spring succeeds in flowing on and escapes stagnation by filling up all the hollow places in its path. In the same way character is developed by thoroughness that skips nothing but, like water, gradually and steadily fills up all gaps and so flows onward.
 
 THE LINES
 
 Six at the beginning means:
 
-To make a fool develop
-It furthers one to apply discipline.
-The fetters should be removed.
-To go on in this way bring humiliation.
-
-Law is the beginning of education. Youth in its inexperience is inclined
-at first to take everything carelessly and playfully. It must be shown
-the seriousness of life. A certain measure of taking oneself in hand,
-brought about by strict discipline, is a good thing. He who plays with
-life never amounts to anything. However, discipline should not degenerate
-into drill. Continuous drill has a humiliating effect and cripples a
-man's powers.
+To make a fool develop\n It furthers one to apply discipline.\n The fetters should be removed.\n To go on in this way bring humiliation.\n  Law is the beginning of education. Youth in its inexperience is inclined at first to take everything carelessly and playfully. It must be shown the seriousness of life. A certain measure of taking oneself in hand, brought about by strict discipline, is a good thing. He who plays with life never amounts to anything. However, discipline should not degenerate into drill. Continuous drill has a humiliating effect and cripples a man's powers.
 
 Nine in the second place means:
 
-To bear with fools in kindliness brings good fortune.
-To know how to take women
-Brings good fortune.
-The son is capable of taking charge of the household.
-
-These lines picture a man who has no external power, but who has enough
-strength of mind to bear his burden of responsibility. He has the inner
-superiority and that enable him to tolerate with kindliness the shortcomings
-of human folly. The same attitude is owed to women as the weaker sex.
-One must understand them and give them recognition in a spirit of chivalrous
-consideration. Only this combination of inner strength with outer reserve
-enables one to take on the responsibility of directing a larger social
-body with real success.
+To bear with fools in kindliness brings good fortune.\n To know how to take women\n Brings good fortune.\n The son is capable of taking charge of the household.\n \n These lines picture a man who has no external power, but who has enough strength of mind to bear his burden of responsibility. He has the inner superiority and that enable him to tolerate with kindliness the shortcomings of human folly. The same attitude is owed to women as the weaker sex. One must understand them and give them recognition in a spirit of chivalrous consideration. Only this combination of inner strength with outer reserve enables one to take on the responsibility of directing a larger social body with real success.
 
 Six in the third place means:
 
-Take not a maiden who. When she sees a man of bronze,
-Loses possession of herself.
-Nothing furthers.
-
-A weak, inexperienced man, struggling to rise, easily loses his own
-individuality when he slavishly imitates a strong personality of higher
-station. He is like a girl throwing herself away when she meets a strong
-man. Such a servile approach should not be encouraged, because it is bad
-both for the youth and the teacher. A girl owes it to her dignity to wait
-until she is wooed. In both cases it is undignified to offer oneself,
-and no good comes of accepting such an offer.
+Take not a maiden who. When she sees a man of bronze,\n Loses possession of herself.\n Nothing furthers.\n \n A weak, inexperienced man, struggling to rise, easily loses his own individuality when he slavishly imitates a strong personality of higher station. He is like a girl throwing herself away when she meets a strong man. Such a servile approach should not be encouraged, because it is bad both for the youth and the teacher. A girl owes it to her dignity to wait until she is wooed. In both cases it is undignified to offer oneself, and no good comes of accepting such an offer.
 
 Six in the fourth place means:
 
-Entangled folly bring humiliation.
+Entangled folly bring humiliation.\n \n  For youthful folly it is the most hopeless thing to entangle itself in empty imaginings. The more obstinately it clings to such unreal fantasies, the more certainly will humiliation overtake it. Often the teacher, when confronted with such entangled folly, has no other course but to leave the fool to himself for a time, not sparing him the humiliation that results. This is frequently the only means of rescue.
 
 
-For youthful folly it is the most hopeless thing to entangle itself
-in empty imaginings. The more obstinately it clings to such unreal fantasies,
-the more certainly will humiliation overtake it. Often the teacher, when
-confronted with such entangled folly, has no other course but to leave
-the fool to himself for a time, not sparing him the humiliation that results.
-This is frequently the only means of rescue.
 Six in the fifth place means:
 
-Childlike folly brings good fortune. 
-
-An inexperienced person who seeks instruction in a childlike and unassuming
-way is on the right path, for the man devoid of arrogance who subordinated
-himself to his teacher will certainly be helped.
+Childlike folly brings good fortune. \n \n An inexperienced person who seeks instruction in a childlike and unassuming way is on the right path, for the man devoid of arrogance who subordinated himself to his teacher will certainly be helped.
 
 Nine at the top means:
 
-In punishing folly
-It does not further one
-To commit transgressions.
-The only thing that furthers 
-Is to prevent transgressions.
-
-Sometimes an incorrigible fool must be punished. He who will not heed
-will be made to feel. This punishment is quite different from a preliminary
-shaking up. But the penalty should not be imposed in anger; it must be
-restricted to an objective guarding against unjustified excesses. Punishment
-is never an end in itself but serves merely to restore order. This applies
-not only in regard to education but also in regard to the measures taken
-by a government against a populace guilty of transgressions. Governmental
-interference should always be merely preventive and should have as its
-sole aim the establishment of public security and peace. 
+In punishing folly\n It does not further one\n To commit transgressions.\n The only thing that furthers \n Is to prevent transgressions.\n \n Sometimes an incorrigible fool must be punished. He who will not heed will be made to feel. This punishment is quite different from a preliminary shaking up. But the penalty should not be imposed in anger; it must be restricted to an objective guarding against unjustified excesses. Punishment is never an end in itself but serves merely to restore order. This applies not only in regard to education but also in regard to the measures taken by a government against a populace guilty of transgressions. Governmental interference should always be merely preventive and should have as its sole aim the establishment of public security and peace. 
 
 
 
@@ -574,137 +366,42 @@ sole aim the establishment of public security and peace.
 above K'AN THE ABYSMAL, WATER
 below CH'IEN THE CREATIVE, HEAVEN
 
-All beings have need of nourishment from above. But the gift of food
-comes in its own time, and for this one must wait. This hexagram shows
-the clouds in the heavens, giving rain to refresh all that grows and to
-provide mankind with food and drink. The rain will come in its own time.
-We cannot make it come; we have to wait for it. The idea of waiting is
-further suggested by the attributes of the two trigrams--strength within,
-danger in from. Strength in the face of danger does not plunge ahead but
-bides its time, whereas weakness in the face of danger grows agitated and
-has not the patience to wait.
+All beings have need of nourishment from above. But the gift of food comes in its own time, and for this one must wait. This hexagram shows the clouds in the heavens, giving rain to refresh all that grows and to provide mankind with food and drink. The rain will come in its own time. We cannot make it come; we have to wait for it. The idea of waiting is further suggested by the attributes of the two trigrams--strength within, danger in from. Strength in the face of danger does not plunge ahead but bides its time, whereas weakness in the face of danger grows agitated and has not the patience to wait.
 
 THE JUDGMENT
 
-WAITING. If you are sincere, 
-You have light and success.
-Perseverance brings good fortune.
-It furthers one to cross the great water.
-
-Waiting is not mere empty hoping. It has the inner certainty of reaching
-the goal. Such certainty alone gives that light which leads to success.
-This leads to the perseverance that brings good fortune and bestows power
-to cross the great water. One is faced with a danger that has to be overcome.
-Weakness and impatience can do nothing. Only a strong man can stand up
-to his fate, for his inner security enables him to endure to the end.
-This strength shows itself in uncompromising truthfulness [with himself].
-It is only when we have the courage to face things exactly as they are,
-without any sort of self-deception or illusion, that a light will develop
-out of events, by which the path to success may be recognized. This recognition
-must be followed by resolute and persevering action. For only the man who
-goes to meet his fate resolutely is equipped to deal with it adequately.
-Then he will be able to cross the great water--that is to say, he will be
-capable of making the necessary decision and of surmounting the danger.
+WAITING. If you are sincere,\n  You have light and success.\n Perseverance brings good fortune.\n It furthers one to cross the great water.\n \n Waiting is not mere empty hoping. It has the inner certainty of reaching the goal. Such certainty alone gives that light which leads to success. This leads to the perseverance that brings good fortune and bestows power to cross the great water. One is faced with a danger that has to be overcome. Weakness and impatience can do nothing. Only a strong man can stand up to his fate, for his inner security enables him to endure to the end. This strength shows itself in uncompromising truthfulness [with himself]. It is only when we have the courage to face things exactly as they are, without any sort of self-deception or illusion, that a light will develop out of events, by which the path to success may be recognized. This recognition must be followed by resolute and persevering action. For only the man who goes to meet his fate resolutely is equipped to deal with it adequately. Then he will be able to cross the great water--that is to say, he will be capable of making the necessary decision and of surmounting the danger.
 
 THE IMAGE
 
-Clouds rise up to heaven:
-The image of WAITING.
-Thus the superior man eats and drinks,
-Is joyous and of good cheer. 
-
-When clouds rise in the sky, it is a sign that it will rain. There
-is nothing to do but to wait until after the rain falls. It is the same
-in life when destiny is at work. We should not worry and seek to shape
-the future by interfering in things before the time is ripe. We should
-quietly fortify the body with food and drink and the mind with gladness
-and good cheer. Fate comes when it will, and thus we are ready.
+Clouds rise up to heaven:\n The image of WAITING.\n Thus the superior man eats and drinks,\n Is joyous and of good cheer. \n \n When clouds rise in the sky, it is a sign that it will rain. There is nothing to do but to wait until after the rain falls. It is the same in life when destiny is at work. We should not worry and seek to shape the future by interfering in things before the time is ripe. We should quietly fortify the body with food and drink and the mind with gladness and good cheer. Fate comes when it will, and thus we are ready.
 
 THE LINES
 
 Nine at the beginning means:
 
-Waiting in the meadow.
-IT furthers one to abide in what endures.
-No blame.
-
-The danger is not yet close. One is still waiting on the open plain.
-Conditions are still simple, yet there is a feeling of something impending.
-One must continue to lead a regular life as long as possible. Only in
-this way does one guard against a premature waste of strength, keep free
-of blame and error that would become a source of weakness later on.
+Waiting in the meadow.\n IT furthers one to abide in what endures.\n No blame.\n \n The danger is not yet close. One is still waiting on the open plain. Conditions are still simple, yet there is a feeling of something impending. One must continue to lead a regular life as long as possible. Only in this way does one guard against a premature waste of strength, keep free of blame and error that would become a source of weakness later on.
 
 Nine in the second place means:
 
-Waiting on the sand.
-There is some gossip.
-The end brings good fortune.
-
-The danger gradually comes closer. Sand is near the bank of the river,
-and the water means danger. Disagreements crop up. General unrest can
-easily develop in such times, and we lay the blame on one another. He
-who stays calm will succeed in making things go well in the end. Slander
-will be silenced if we do not gratify it with injured retorts.
+Waiting on the sand.\n There is some gossip.\n The end brings good fortune.\n \n The danger gradually comes closer. Sand is near the bank of the river, and the water means danger. Disagreements crop up. General unrest can easily develop in such times, and we lay the blame on one another. He who stays calm will succeed in making things go well in the end. Slander will be silenced if we do not gratify it with injured retorts. 
 
 Nine in the third place means:
 
-Waiting in the mud
-Brings about the arrival of the enemy.
-
-Mud is no place for waiting, since it is already being washed by the
-water of the stream. Instead of having gathered strength to cross the
-stream at one try, one has made a premature start that has got him no
-farther than the muddy bank. Such an unfavorable position invites enemies
-from without, who naturally take advantage of it. Caution and a sense of
-the seriousness of the situation are all that can keep one from injury.
+Waiting in the mud\n Brings about the arrival of the enemy.\n \n Mud is no place for waiting, since it is already being washed by the water of the stream. Instead of having gathered strength to cross the stream at one try, one has made a premature start that has got him no farther than the muddy bank. Such an unfavorable position invites enemies from without, who naturally take advantage of it. Caution and a sense of the seriousness of the situation are all that can keep one from injury.
 
 Six in the fourth place means:
 
-Waiting in blood.
-Get out of the pit.
+Waiting in blood.\n Get out of the pit.\n \n The situation is extremely dangerous. IT is of utmost gravity now--a matter of life and death. Bloodshed seems imminent. There is no going forward or backward; we are cut off as if in a pit. Now we must simply stand fast and let fate take its course. This composure, which keeps us from aggravating the trouble by anything we might do, is the only way of getting out of the dangerous pit.
 
-The situation is extremely dangerous. IT is of utmost gravity now--a
-matter of life and death. Bloodshed seems imminent. There is no going
-forward or backward; we are cut off as if in a pit. Now we must simply
-stand fast and let fate take its course. This composure, which keeps us
-from aggravating the trouble by anything we might do, is the only way
-of getting out of the dangerous pit.
+
 Nine in the fifth place means:
 
-Waiting at meat and drink.
-Perseverance brings good fortune.
-
-Even in the midst of danger there come intervals of peace when things
-go relatively well. If we possess enough inner strength, we shall take
-advantage of these intervals to fortify ourselves for renewed struggle.
-We must know how to enjoy the moment without being deflected from the
-goal, for perseverance is needed to remain victorious. This is true in
-public life as well; it is not possible to achieve everything all at once.
-The height of wisdom is to allow people enough recreation to quicken pleasure
-in their work until the task is completed. Herein lies the secret of the
-whole hexagram. It differs from Chin OBSTRUCTION 
-
-<a href="http://www2.unipr.it/~deyoung/I_Ching_Wilhelm_Translation.html#39">39</a>, in the fact that in this instance, while waiting,
-we are sure of our cause and therefore do not lose the serenity born
-of inner cheerfulness.
+Waiting at meat and drink.\n Perseverance brings good fortune.\n \n Even in the midst of danger there come intervals of peace when things go relatively well. If we possess enough inner strength, we shall take advantage of these intervals to fortify ourselves for renewed struggle. We must know how to enjoy the moment without being deflected from the goal, for perseverance is needed to remain victorious. This is true in public life as well; it is not possible to achieve everything all at once. The height of wisdom is to allow people enough recreation to quicken pleasure in their work until the task is completed. Herein lies the secret of the whole hexagram. It differs from Chin OBSTRUCTION <a href="http://www2.unipr.it/~deyoung/I_Ching_Wilhelm_Translation.html#39">39</a>, in the fact that in this instance, while waiting, we are sure of our cause and therefore do not lose the serenity born of inner cheerfulness.
 
 Six at the top means:
 
-One falls into the pit.
-Three uninvited guests arrive.
-Honor them, and in the end there will be good fortune.
-
-
-The waiting is over; the danger can no longer be averted. One falls
-into the pit and must yield to the inevitable. Everything seems to have
-been in vain. But precisely in this extremity things take an unforeseen
-turn. Without a move on one's own part, there is outside intervention.
-At first one cannot be sure of its meaning: is it rescue or is it destruction?
-A person in this situation must keep his mind alert and not withdraw into
-himself with a sulky gesture of refusal, but must greet the new turn with
-respect. Thus he ultimately escapes the danger, and all goes well. Even
-happy turns of fortune often come in a form that at first seems strange
-to us.
+One falls into the pit.\n Three uninvited guests arrive.\n Honor them, and in the end there will be good fortune.\n \n The waiting is over; the danger can no longer be averted. One falls into the pit and must yield to the inevitable. Everything seems to have been in vain. But precisely in this extremity things take an unforeseen turn. Without a move on one's own part, there is outside intervention. At first one cannot be sure of its meaning: is it rescue or is it destruction? A person in this situation must keep his mind alert and not withdraw into himself with a sulky gesture of refusal, but must greet the new turn with respect. Thus he ultimately escapes the danger, and all goes well. Even happy turns of fortune often come in a form that at first seems strange to us.
 
 
 
@@ -715,132 +412,41 @@ to us.
 above CH'IEN THE CREATIVE, HEAVEN
 below K'AN THE ABYSMAL, WATER
 
-The upper trigram, whose image is heaven, has an upward movement;
-the lower trigram, water, in accordance with its nature tends downward. Thus
-the two halves move away from each other, giving rise to the idea of conflict.
-The attribute of the Creative is strength, that of the Abysmal is danger,
-guile. Where cunning has force before it, there is conflict. A third
-indication of conflict, in terms of character, is presented by the combination
-of deep cunning within and fixed determination outwardly. A person of this
-character will certainly be quarrelsome.
+The upper trigram, whose image is heaven, has an upward movement; the lower trigram, water, in accordance with its nature tends downward. Thus the two halves move away from each other, giving rise to the idea of conflict. The attribute of the Creative is strength, that of the Abysmal is danger, guile. Where cunning has force before it, there is conflict. A third indication of conflict, in terms of character, is presented by the combination of deep cunning within and fixed determination outwardly. A person of this character will certainly be quarrelsome.
 
 THE JUDGMENT
 
-CONFLICT. You are sincere
-And are being obstructed.
-A cautious halt halfway brings good fortune.
-Going through to the end brings misfortune.
-It furthers one to see the great man.
-It does not further one to cross the great water.
-
-Conflict develops when one feels himself to be in the right and runs
-into opposition. If one is not convinced of being in the right, opposition
-leads to craftiness or high-handed encroachment but not to open conflict.
-If a man is entangled in a conflict, his only salvation lies in being
-so clear-headed and inwardly strong that he is always ready to come to
-terms by meeting the opponent halfway. To carry one the conflict to the
-bitter end has evil effects even when one is the right, because the enmity
-is then perpetuated. It is important to see the great man, that is, an impartial
-man whose authority is great enough to terminate the conflict amicably
-or assure a just decision. In times of strife, crossing the great water
-is to be avoided, that is, dangerous enterprises are not to be begun, because
-in order to be successful they require concerted unity of focus. Conflict
-within weakens the power to conquer danger without.
+CONFLICT. You are sincere\n And are being obstructed.\n A cautious halt halfway brings good fortune.\n Going through to the end brings misfortune.\n It furthers one to see the great man.\n It does not further one to cross the great water.\n \n Conflict develops when one feels himself to be in the right and runs into opposition. If one is not convinced of being in the right, opposition leads to craftiness or high-handed encroachment but not to open conflict. If a man is entangled in a conflict, his only salvation lies in being so clear-headed and inwardly strong that he is always ready to come to terms by meeting the opponent halfway. To carry one the conflict to the bitter end has evil effects even when one is the right, because the enmity is then perpetuated. It is important to see the great man, that is, an impartial man whose authority is great enough to terminate the conflict amicably or assure a just decision. In times of strife, crossing the great water is to be avoided, that is, dangerous enterprises are not to be begun, because in order to be successful they require concerted unity of focus. Conflict within weakens the power to conquer danger without.
 
 THE IMAGE
 
-Heaven and water go their opposite ways:
-The image of CONFLICT.
-Thus in all his transactions the superior man
-Carefully considers the beginning.
-
-The image indicates that the causes of conflict are latent in the
-opposing tendencies of the two trig rams. Once these opposing tendencies
-appear, conflict is inevitable. To avoid it, therefore, everything must be
-taken carefully into consideration in the very beginning. If rights and duties
-are exactly defined, or if, in a group, the spiritual trends of the individuals
-harmonize, the cause of conflict is removed in advance.
+Heaven and water go their opposite ways:\n The image of CONFLICT.\n Thus in all his transactions the superior man\n Carefully considers the beginning.\n \n The image indicates that the causes of conflict are latent in the opposing tendencies of the two trig rams. Once these opposing tendencies appear, conflict is inevitable. To avoid it, therefore, everything must be taken carefully into consideration in the very beginning. If rights and duties are exactly defined, or if, in a group, the spiritual trends of the individuals harmonize, the cause of conflict is removed in advance.
 
 THE LINES
 
 Six at the beginning means:
 
-If one does not perpetuate the affair,
-There is a little gossip.
-In the end, good fortune comes.
-
-While a conflict is in the incipient stage, the best thing To do is
-to drop the issue. Especially when the adversary is stronger, it is not
-advisable to risk pushing the conflict to a decision. It may come to a
-slight dispute, but in the end all goes well.
+If one does not perpetuate the affair,\n There is a little gossip.\n In the end, good fortune comes.\n  While a conflict is in the incipient stage, the best thing To do is to drop the issue. Especially when the adversary is stronger, it is not advisable to risk pushing the conflict to a decision. It may come to a slight dispute, but in the end all goes well. 
 
 Nine in the second place means:
 
-One cannot engage in conflict;
-One returns home, gives way.
-The people of his town,
-Three hundred households, 
-Remain free of guilt.
-
-In a struggle with an enemy of superior strength, retreat is no disgrace.
-Timely withdrawal prevents bad consequences. If, out of a false sense
-of honor, a man allowed himself to be tempted into an unequal conflict,
-he would be drawing down disaster upon himself. In such a case a wise and
-conciliatory attitude benefits the whole community, which will then not
-be drawn into the conflict.
+One cannot engage in conflict;\n One returns home, gives way.\n The people of his town,\n Three hundred households, \n Remain free of guilt.\n \n In a struggle with an enemy of superior strength, retreat is no disgrace. Timely withdrawal prevents bad consequences. If, out of a false sense of honor, a man allowed himself to be tempted into an unequal conflict, he would be drawing down disaster upon himself. In such a case a wise and conciliatory attitude benefits the whole community, which will then not be drawn into the conflict.
 
 Six in the third place means:
 
-To nourish oneself on ancient virtue induces perseverance.
-Danger. In the end, good fortune comes.
-If by chance you are in the service of a king,
-Seek not works.
-
-This is a warning of the danger that goes with an expansive disposition.
-Only that which has been honestly acquired through merit remains a permanent
-possession. It can happen that such a possession may be contested, but
-since it is really one's own, one cannot be robbed of it. Whatever a man
-possesses through the strength of his own nature cannot be lost. If one
-enters the service of a superior, one can avoid conflict only by not seeking
-works for the sake of prestige. It is enough if the work is done: let the
-honor go to the other.
+To nourish oneself on ancient virtue induces perseverance.\n Danger. In the end, good fortune comes.\n If by chance you are in the service of a king,\n Seek not works.\n \n This is a warning of the danger that goes with an expansive disposition. Only that which has been honestly acquired through merit remains a permanent possession. It can happen that such a possession may be contested, but since it is really one's own, one cannot be robbed of it. Whatever a man possesses through the strength of his own nature cannot be lost. If one enters the service of a superior, one can avoid conflict only by not seeking works for the sake of prestige. It is enough if the work is done: let the honor go to the other.
 
 Nine in the fourth place means:
 
-One cannot engage in conflict.
-One turns back and submits to fate,
-Changes one's attitude, 
-And finds peace in perseverance.
-Good fortune.
+One cannot engage in conflict.\n One turns back and submits to fate,\n Changes one's attitude, \n And finds peace in perseverance.\n Good fortune.\n \n This refers to a person whose inner attitude at first lacks peace. He does not feel content with his situation and would like to improve it through conflict. In contrast tot the situation of the nine in the second place, he is dealing with a weaker opponent and might therefore succeed. But he cannot carry on the fight, because, since right is not on his side, he cannot justify the conflict to his conscience. Therefore he turns back and accepts his fate. He changes his mind and finds lasting peace in being at one with eternal law. This brings good fortune.
 
-This refers to a person whose inner attitude at first lacks peace.
-He does not feel content with his situation and would like to improve
-it through conflict. In contrast tot the situation of the nine in the second
-place, he is dealing with a weaker opponent and might therefore succeed.
-But he cannot carry on the fight, because, since right is not on his side,
-he cannot justify the conflict to his conscience. Therefore he turns back
-and accepts his fate. He changes his mind and finds lasting peace in being
-at one with eternal law. This brings good fortune.
 Nine in the fifth place means:
 
-To contend before him
-Brings supreme good fortune.
-
-This refers to an arbiter in a conflict who is powerful and just,
-and strong enough to lend weight to the right side. A dispute can be turned
-over to him with confidence. If one is in the right, one attains great good
-fortune.
+To contend before him\n Brings supreme good fortune.\n \n This refers to an arbiter in a conflict who is powerful and just, and strong enough to lend weight to the right side. A dispute can be turned over to him with confidence. If one is in the right, one attains great good fortune.
 
 Nine at the top means:
 
-Even if by chance a leather belt is bestowed on one,'
-By the end of a morning
-It will have been snatched away three times.
-
-Here we have someone who has carried a conflict to the bitter end
-and has triumphed. He is granted a decoration, but his happiness does not
-last. He is attacked again and again, and the result is conflict without
-end.
+Even if by chance a leather belt is bestowed on one,\n By the end of a morning\n It will have been snatched away three times.\n \n Here we have someone who has carried a conflict to the bitter end and has triumphed. He is granted a decoration, but his happiness does not last. He is attacked again and again, and the result is conflict without end.
 
 
 
@@ -851,139 +457,41 @@ end.
 above K'UN THE RECEPTIVE, EARTH
 below K'AN THE ABYSMAL, WATER
 
-This hexagram is made up of the trigrams K'an, water, and K'un, earth,
-and thus it symbolizes the ground water stored up in the earth. In the
-same way military strength is stored up in the mass of the people--invisible
-in times of peace but always ready for use as a source of power. The attributes
-of the two trig rams are danger inside and obedience must prevail outside.
-Of the individual lines, the one that controls the hexagram is the strong
-nine in the second place, to which the other lines, all yielding, are
-subordinate. This line indicates a commander, because it stands in the
-middle of one of the two trigrams. But since it is in the lower rather
-than the upper trigram, it represents not the ruler but the efficient general,
-who maintains obedience in the army by his authority.
+This hexagram is made up of the trigrams K'an, water, and K'un, earth, and thus it symbolizes the ground water stored up in the earth. In the same way military strength is stored up in the mass of the people--invisible in times of peace but always ready for use as a source of power. The attributes of the two trig rams are danger inside and obedience must prevail outside. Of the individual lines, the one that controls the hexagram is the strong nine in the second place, to which the other lines, all yielding, are subordinate. This line indicates a commander, because it stands in the middle of one of the two trigrams. But since it is in the lower rather than the upper trigram, it represents not the ruler but the efficient general, who maintains obedience in the army by his authority.
 
 THE JUDGMENT
 
-THE ARMY. The army needs perseverance
-And a strong man.
-Good fortune without blame.
-
-An army is a mass that needs organization in order to become a fighting
-force.
-Without strict discipline nothing can be accomplished, but this
-discipline must not be achieved by force. It requires a strong man who
-captures the hearts of the people and awakens their enthusiasm. In order
-that he may develop his abilities he needs the complete confidence of his
-ruler, who must entrust him with full responsibility as long as the war
-lasts. But war is always a dangerous thing and brings with it destruction
-and devastation. Therefore it should not be resorted to rashly but, like
-a poisonous drug, should be used as a last recourse.
+THE ARMY. The army needs perseverance\n And a strong man.\n Good fortune without blame.\n  An army is a mass that needs organization in order to become a fighting force. Without strict discipline nothing can be accomplished, but this discipline must not be achieved by force. It requires a strong man who captures the hearts of the people and awakens their enthusiasm. In order that he may develop his abilities he needs the complete confidence of his ruler, who must entrust him with full responsibility as long as the war lasts. But war is always a dangerous thing and brings with it destruction and devastation. Therefore it should not be resorted to rashly but, like a poisonous drug, should be used as a last recourse.
 
 THE IMAGE
 
-In the middle of the earth is water:
-The image of THE ARMY.
-
-Thus the superior man increases his masses
-By generosity toward the people.
-
-Ground water is invisibly present within the earth. In the same way
-the military power of a people is invisibly present in the masses. When
-danger threatens, every peasant becomes present in the masses. When danger
-threatens, every peasant becomes a soldier; when the war ends, he goes
-back to his plow. He who is generous toward the people wins their love,
-and a people living under a mild rule becomes strong and powerful. Only
-a people economically strong can be important in military power. Such power
-must therefore be cultivated by improving the economic condition of the
-people and by humane government. Only when there is this invisible bond
-between government and people, so that the people are sheltered by their
-government as ground water is sheltered by the earth, is it possible to
-wage a victorious war.
+In the middle of the earth is water:\n The image of THE ARMY.\n \n Thus the superior man increases his masses\n By generosity toward the people.\n \n Ground water is invisibly present within the earth. In the same way the military power of a people is invisibly present in the masses. When danger threatens, every peasant becomes present in the masses. When danger threatens, every peasant becomes a soldier; when the war ends, he goes back to his plow. He who is generous toward the people wins their love, and a people living under a mild rule becomes strong and powerful. Only a people economically strong can be important in military power. Such power must therefore be cultivated by improving the economic condition of the people and by humane government. Only when there is this invisible bond between government and people, so that the people are sheltered by their government as ground water is sheltered by the earth, is it possible to wage a victorious war.
 
 THE LINES
 
 Six at the beginning means:
 
-An army must set forth in proper order.
-If the order is not good, misfortune threatens.
-
-At the beginning of a military enterprise, order is imperative. A
-just and valid cause must exist, and the obedience and coordination of the
-troops must be well organized, otherwise the result is inevitably failure.
+An army must set forth in proper order.\n If the order is not good, misfortune threatens.\n \n At the beginning of a military enterprise, order is imperative. A just and valid cause must exist, and the obedience and coordination of the troops must be well organized, otherwise the result is inevitably failure.
 
 Nine in the second place means:
 
-In the midst of the army.
-Good fortune. No blame.
-The king bestows a triple decoration.
-
-The leader should be in the midst of his army, in touch with it, sharing
-good and bad with the masses he leads. This alone makes him equal to
-the heavy demands made upon him. He needs also the recognition of the
-ruler. The decorations he receives are justified, because there is no question
-of personal preferment here: the whole army, whose center he is, is honored
-in his person. 
+In the midst of the army.\n Good fortune. No blame.\n The king bestows a triple decoration.\n \n The leader should be in the midst of his army, in touch with it, sharing good and bad with the masses he leads. This alone makes him equal to the heavy demands made upon him. He needs also the recognition of the ruler. The decorations he receives are justified, because there is no question of personal preferment here: the whole army, whose center he is, is honored in his person. 
 
 Six in the third place means:
 
-Perchance the army carries corpses in the wagon.
-Misfortune.
-
-Here we have a choice of two explanations. One points to defeat because
-someone other than the chosen leader interferes with the command; the
-other is similar in its general meaning, but the expression, "carries
-corpses in the wagon," is interpreted differently. At burials and at sacrifices
-to the dead it was customary in China for the deceased to whom the sacrifice
-was made to be represented by a boy of the family, who sat in the dead
-man's place and was honored as his representative. On the basis of this
-custom the text is interpreted as meaning that a "corpse boy" is sitting
-in the wagon, or, in other words, that authority is not being exercised by
-the proper leaders but has been usurped by others. Perhaps the whole difficulty
-clears up if it is inferred that there has been an error in copying. The
-character fan, meaning "all," may have been misread as shih, which means
-"corpse." Allowing for this error, the meaning would be that if the multitude
-assumes leadership of the army (rides in the wagon), misfortune will ensue.
+Perchance the army carries corpses in the wagon.\n Misfortune.\n \n Here we have a choice of two explanations. One points to defeat because someone other than the chosen leader interferes with the command; the other is similar in its general meaning, but the expression, "carries corpses in the wagon," is interpreted differently. At burials and at sacrifices to the dead it was customary in China for the deceased to whom the sacrifice was made to be represented by a boy of the family, who sat in the dead man's place and was honored as his representative. On the basis of this custom the text is interpreted as meaning that a "corpse boy" is sitting in the wagon, or, in other words, that authority is not being exercised by the proper leaders but has been usurped by others. Perhaps the whole difficulty clears up if it is inferred that there has been an error in copying. The character fan, meaning "all," may have been misread as shih, which means "corpse." Allowing for this error, the meaning would be that if the multitude assumes leadership of the army (rides in the wagon), misfortune will ensue.
 
 Six in the fourth place means:
 
-The army retreats. No blame.
+The army retreats. No blame.\n \n In the face of a superior enemy, with whom it would be hopeless to engage in battle, an orderly retreat is the only correct procedure, because it will save the army from defeat and disintegration. It is by no means a sign of courage or strength to insist upon engaging in a hopeless struggle regardless of circumstances.
 
-In the face of a superior enemy, with whom it would be hopeless to
-engage in battle, an orderly retreat is the only correct procedure, because
-it will save the army from defeat and disintegration. It is by no means
-a sign of courage or strength to insist upon engaging in a hopeless struggle
-regardless of circumstances.
 Six in the fifth place means:
 
-There is game in the field.
-It furthers one to catch it.
-Without blame.
-Let the eldest lead the army.
-The younger transports corpses;
-Then perseverance brings misfortune.
-
-Game is in the field--it has left its usual haunts in the forest and
-is devastating the fields. This points to an enemy invasion. Energetic
-combat and punishment are here thoroughly justified, but they must not
-degenerate into a wild melee in which everyone fends for himself. Despite
-the greatest degree of perseverance and bravery, this would lead to misfortune.
-The army must be directed by an experienced leader. It is a matter of waging
-war, not of permitting the mob to slaughter all who fall into their hands;
-if they do, defeat will be the result, and despite all perseverance there
-is danger of misfortune.
+There is game in the field.\n It furthers one to catch it.\n Without blame.\n Let the eldest lead the army.\n The younger transports corpses;\n Then perseverance brings misfortune.\n \n Game is in the field--it has left its usual haunts in the forest and is devastating the fields. This points to an enemy invasion. Energetic combat and punishment are here thoroughly justified, but they must not degenerate into a wild melee in which everyone fends for himself. Despite the greatest degree of perseverance and bravery, this would lead to misfortune. The army must be directed by an experienced leader. It is a matter of waging war, not of permitting the mob to slaughter all who fall into their hands; if they do, defeat will be the result, and despite all perseverance there is danger of misfortune.
 
 Six at the top means:
 
-The great prince issues commands,
-Founds states, vests families with fiefs.
-Inferior people should not be employed.
-
-The war has ended successfully, victory is won, and the king divided
-estates and fiefs among his faithful vassals. But it is important that
-inferior people should not come into power. If they have helped, let them
-be paid off with money, but they should not be awarded lands or the privileges
-of rulers, lest power be abused.
+The great prince issues commands,\n Founds states, vests families with fiefs.\n Inferior people should not be employed.\n \n The war has ended successfully, victory is won, and the king divided estates and fiefs among his faithful vassals. But it is important that inferior people should not come into power. If they have helped, let them be paid off with money, but they should not be awarded lands or the privileges of rulers, lest power be abused.
 
 
 
@@ -994,153 +502,41 @@ of rulers, lest power be abused.
 above K'AN THE ABYSMAL, WATER
 below K'UN THE RECEPTIVE, EARTH
 
-The waters on the surface of the earth flow together wherever they
-can, as for example in the ocean, where all the rivers come together.
-Symbolically this connotes holding together and the laws that regulate
-it. The same idea is suggested by the fact that all the lines of the hexagram
-except the fifth, the place of the ruler, are yielding. The yielding lines
-hold together because they are influenced by a man of strong will in the
-leading position, a man who is their center of union. Moreover, this strong
-and guiding personality in turn holds together with the others, finding
-in them the complement of his own nature.
+The waters on the surface of the earth flow together wherever they can, as for example in the ocean, where all the rivers come together. Symbolically this connotes holding together and the laws that regulate it. The same idea is suggested by the fact that all the lines of the hexagram except the fifth, the place of the ruler, are yielding. The yielding lines hold together because they are influenced by a man of strong will in the leading position, a man who is their center of union. Moreover, this strong and guiding personality in turn holds together with the others, finding in them the complement of his own nature.
 
 THE JUDGMENT
 
-HOLDING TOGETHER brings good fortune.
-Inquire of the oracle once again
-Whether you possess sublimity, constancy, and perseverance;
-Then there is no blame.
-
-Those who are uncertain gradually join.
-Whoever come too late
-Meets with misfortune.
-
-What is required is that we unite with others, in order that all may
-complement and aid one another through holding together. But such holding
-together calls for a central figure around whom other persons may unite.
-To become a center of influence holding people together is a grave matter
-and fraught with great responsibility. It requires greatness of spirit,
-consistency, and strength. Therefore let him who wishes to gather others
-about him ask himself whether he is equal to the undertaking, for anyone
-attempting the task without a real calling for it only makes confusion
-worse than if no union at all had taken place. But when there is a real
-rallying point, those who at first are hesitant or uncertain gradually come
-in of their own accord. Late-comers must suffer the consequences, for in
-holding together the question of the right time is also important. Relationships
-are formed and firmly established according to definite inner laws. Common
-experiences strengthen these ties, and he who comes too late to share in
-these basic experiences must suffer for it if, as a straggler, he finds
-the door locked. If a man has recognized the necessity for union and does
-not feel strong enough to function as the center, it is his duty to become
-a member of some other organic fellowship.
+HOLDING TOGETHER brings good fortune.\n Inquire of the oracle once again\n Whether you possess sublimity, constancy, and perseverance;\n Then there is no blame.\n \n Those who are uncertain gradually join.\n Whoever come too late\n Meets with misfortune.\n \n What is required is that we unite with others, in order that all may complement and aid one another through holding together. But such holding together calls for a central figure around whom other persons may unite. To become a center of influence holding people together is a grave matter and fraught with great responsibility. It requires greatness of spirit, consistency, and strength. Therefore let him who wishes to gather others about him ask himself whether he is equal to the undertaking, for anyone attempting the task without a real calling for it only makes confusion worse than if no union at all had taken place. But when there is a real rallying point, those who at first are hesitant or uncertain gradually come in of their own accord. Late-comers must suffer the consequences, for in holding together the question of the right time is also important. Relationships are formed and firmly established according to definite inner laws. Common experiences strengthen these ties, and he who comes too late to share in these basic experiences must suffer for it if, as a straggler, he finds the door locked. If a man has recognized the necessity for union and does not feel strong enough to function as the center, it is his duty to become a member of some other organic fellowship.
 
 THE IMAGE
 
-On the earth is water:
-The image of HOLDING TOGETHER.
-
-Thus the kings of antiquity
-Bestowed the different states as fiefs
-And cultivated friendly relations
-With the feudal lords.
-
-Water fills up all the empty places on the earth and clings fast to
-it. The social organization of ancient China was based on this principle
-of the holding together of dependents and rulers. Water flows to unite
-with water, because all parts of it are subject to the same laws. So too
-should human society hold together through a community of interests that
-allows each individual to feel himself a member of a whole. The central
-power of a social organization must see to it that every member finds that
-his true interest lies in holding together with it, as was the case in the
-paternal relationship between king and vassals in ancient China.
+On the earth is water:\n The image of HOLDING TOGETHER.\n \n Thus the kings of antiquity\n Bestowed the different states as fiefs\n And cultivated friendly relations\n With the feudal lords.\n \n Water fills up all the empty places on the earth and clings fast to it. The social organization of ancient China was based on this principle of the holding together of dependents and rulers. Water flows to unite with water, because all parts of it are subject to the same laws. So too should human society hold together through a community of interests that allows each individual to feel himself a member of a whole. The central power of a social organization must see to it that every member finds that his true interest lies in holding together with it, as was the case in the paternal relationship between king and vassals in ancient China.
 
 THE LINES
 
 Six at the beginning means:
-
-Hold to him in truth and loyalty;
-This is without blame.
-Truth, like a full earthen bowl"
-Thus in the end
-Good fortune comes from without.
-
-Fundamental sincerity is the only proper basis for forming relationships.
-This attitude, symbolized by a full earthen bowl, in which the content
-is everything and the empty form nothing, shows itself not in clever words
-but through the strength of what lies within the speaker. This strength
-is so great that it has power to attract good fortune to itself from without.
+\n
+Hold to him in truth and loyalty;\n This is without blame.\n Truth, like a full earthen bowl"\n Thus in the end\n Good fortune comes from without.\n \n Fundamental sincerity is the only proper basis for forming relationships. This attitude, symbolized by a full earthen bowl, in which the content is everything and the empty form nothing, shows itself not in clever words but through the strength of what lies within the speaker. This strength is so great that it has power to attract good fortune to itself from without.
 
 Six in the second place means:
 
-Hold to him inwardly.
-Perseverance brings good fortune.
-
-
-If a person responds perseveringly and in the right way to the behests
-from above that summon him to action, his relations with others are intrinsic
-and he does not lose himself. But if a man seeks association with others
-as if he were an obsequious office hunter, he throws himself away. He
-does not follow the path of the superior man, who never loses his dignity.
+Hold to him inwardly.\n Perseverance brings good fortune.\n \n If a person responds perseveringly and in the right way to the behests from above that summon him to action, his relations with others are intrinsic and he does not lose himself. But if a man seeks association with others as if he were an obsequious office hunter, he throws himself away. He does not follow the path of the superior man, who never loses his dignity.
 
 Six in the third place means:
 
-You hold together with the wrong people.
-
-We are often among people who do not belong to our own sphere. In
-that case we must beware of being drawn into false intimacy through force
-of habit. Needless to say, this would have evil consequences. Maintaining
-sociability without intimacy is the only right attitude toward people, because
-otherwise we should not be free to enter into relationship with people of
-our own kind later on.
+You hold together with the wrong people.\n \n We are often among people who do not belong to our own sphere. In that case we must beware of being drawn into false intimacy through force of habit. Needless to say, this would have evil consequences. Maintaining sociability without intimacy is the only right attitude toward people, because otherwise we should not be free to enter into relationship with people of our own kind later on.
 
 Six in the fourth place means:
 
-Hold to him outwardly also.
-Perseverance brings good fortune.
+Hold to him outwardly also.\n Perseverance brings good fortune.\n \n Here the relations with a man who is the center of union are well established. Then we may, and indeed we should, show our attachment openly. But we must remain constant and not allow ourselves to be led astray.
 
-Here the relations with a man who is the center of union are well
-established. Then we may, and indeed we should, show our attachment openly.
-But we must remain constant and not allow ourselves to be led astray.
 Nine in the fifth place means:
 
-Manifestation of holding together.
-In the hunt the king uses beaters on three sides only
-And forgoes game that runs off in front.
-The citizens need no warning.
-Good fortune.
-
-
-In the royal hunts of ancient China it was customary to drive up the
-game from three sides, but on the fourth the animals had a chance to
-run off. If they failed to do this they had to pass through a gate behind
-which the king stood ready to shoot. Only animals that entered here were
-shot; those that ran off in front were permitted to escape. This custom
-accorded with a kingly attitude; the royal hunter did not wish to turn
-the chase into a slaughter, but held that the kill should consist only of
-those animals which had so to speak voluntarily exposed themselves. There
-is depicted here a ruler, or influential man, to whom people are attracted.
-Those who come to him he accepts, those who do not come are allowed to go
-their own way. He invited none, flatters none--all come of their own free
-will. In this way there develops a voluntary dependence among those who hold
-him. They do not have to be constantly on their guard but may express their
-opinions openly. Police measures are not necessary, and they cleave to
-their ruler of their own volition. The same principle of freedom is valid
-for life in general. We should not woo favor from people. If a man cultivates
-within himself the purity and the strength that are necessary for one
-who is the center of a fellowship, those who are meant for him come of
-their own accord.
+Manifestation of holding together.\n In the hunt the king uses beaters on three sides only\n And forgoes game that runs off in front.\n The citizens need no warning.\n Good fortune.\n \n In the royal hunts of ancient China it was customary to drive up the game from three sides, but on the fourth the animals had a chance to run off. If they failed to do this they had to pass through a gate behind which the king stood ready to shoot. Only animals that entered here were shot; those that ran off in front were permitted to escape. This custom accorded with a kingly attitude; the royal hunter did not wish to turn the chase into a slaughter, but held that the kill should consist only of those animals which had so to speak voluntarily exposed themselves. There is depicted here a ruler, or influential man, to whom people are attracted. Those who come to him he accepts, those who do not come are allowed to go their own way. He invited none, flatters none--all come of their own free will. In this way there develops a voluntary dependence among those who hold him. They do not have to be constantly on their guard but may express their opinions openly. Police measures are not necessary, and they cleave to their ruler of their own volition. The same principle of freedom is valid for life in general. We should not woo favor from people. If a man cultivates within himself the purity and the strength that are necessary for one who is the center of a fellowship, those who are meant for him come of their own accord.
 
 Six at the top means:
 
-He finds no head for holding together.
-Misfortune.
-
-
-The head is the beginning. If the beginning is not right, there is
-no hope of a right ending. If we have missed the right moment for union
-and go on hesitating to give complete and full devotion, we shall regret
-the error when it is too late.
-
+He finds no head for holding together.\n Misfortune.\n \n The head is the beginning. If the beginning is not right, there is no hope of a right ending. If we have missed the right moment for union and go on hesitating to give complete and full devotion, we shall regret the error when it is too late. 
 
 
 <a name="9"></a>
@@ -1150,136 +546,41 @@ the error when it is too late.
 above SUN THE GENTLE, WIND
 below CH'IEN THE CREATIVE, HEAVEN
 
-This hexagram means the force of the small--the power of the shadowy--that
-restrains, tames, impedes. A weak line in the fourth place, that of the
-minister, holds the five strong lines in check. In the Image it is the
-wind blowing across the sky. The wind restrains the clouds, the rising
-breath of the Creative, and makes them grow dense, but as yet is not strong
-enough to turn them to rain. The hexagram presents a configuration of circumstances
-in which a strong element is temporarily held in leash by a weak element.
-It is only through gentleness that this can have a successful outcome.
+This hexagram means the force of the small--the power of the shadowy--that restrains, tames, impedes. A weak line in the fourth place, that of the minister, holds the five strong lines in check. In the Image it is the wind blowing across the sky. The wind restrains the clouds, the rising breath of the Creative, and makes them grow dense, but as yet is not strong enough to turn them to rain. The hexagram presents a configuration of circumstances in which a strong element is temporarily held in leash by a weak element. It is only through gentleness that this can have a successful outcome. 
 
 THE JUDGMENT
 
-THE TAMING POWER OF THE SMALL
-Has success.
-Dense clouds, no rain from our western region.
-
-This image refers to the state of affairs in China at the time when
-King Wên, who came originally from the west, was in the east at
-the court of the reigning tyrant Chou Hsin. The moment for action on a
-large scale had not yet arrived. King Wên could only keep the tyrant
-somewhat in check by friendly persuasion. Hence the image of many clouds,
-promising moisture and blessing to the land, although as yet no rain falls.
-The situation is not unfavorable; there is a prospect of ultimate success,
-but there are still obstacles in the way, and we can merely take preparatory
-measures. Only through the small means of friendly persuasion can we exert
-any influence. The time has not yet come for sweeping measures. However,
-we may be able, to a limited extent, to act as a restraining and subduing
-influence. To carry out our purpose we need firm determination within and
-gentleness and adaptability in external relations.
+THE TAMING POWER OF THE SMALL\n Has success.\n Dense clouds, no rain from our western region.\n  This image refers to the state of affairs in China at the time when King Wên, who came originally from the west, was in the east at the court of the reigning tyrant Chou Hsin. The moment for action on a large scale had not yet arrived. King Wên could only keep the tyrant somewhat in check by friendly persuasion. Hence the image of many clouds, promising moisture and blessing to the land, although as yet no rain falls. The situation is not unfavorable; there is a prospect of ultimate success, but there are still obstacles in the way, and we can merely take preparatory measures. Only through the small means of friendly persuasion can we exert any influence. The time has not yet come for sweeping measures. However, we may be able, to a limited extent, to act as a restraining and subduing influence. To carry out our purpose we need firm determination within and gentleness and adaptability in external relations.
 
 THE IMAGE
 
-The wind drives across heaven:
-The image of THE TAMING POWER OF THE SMALL.Thus the superior man
-Refines the outward aspect of his nature.
-
-The wind can indeed drive the clouds together in the sky; yet, being
-nothing but air, without solid body, it does not produce great or lasting
-effects. So also an individual, in times when he can produce no great
-effect in the outer world, can do nothing except refine the expression
-of his nature in small ways.
+The wind drives across heaven:\n The image of THE TAMING POWER OF THE SMALL.Thus the superior man\n Refines the outward aspect of his nature.\n  The wind can indeed drive the clouds together in the sky; yet, being nothing but air, without solid body, it does not produce great or lasting effects. So also an individual, in times when he can produce no great effect in the outer world, can do nothing except refine the expression of his nature in small ways. 
 
 THE LINES
 
 Nine at the beginning means:
 
-Return to the way.
-How could there be blame in this?
-Good fortune.
-
-It lies in the nature of a strong man to press forward. In so doing
-he encounters obstructions. Therefore he returns to the way suited to
-his situation, where he is free to advance or to retreat. In the nature
-of things this will bring good fortune, for it is wise and reasonable not
-to try to obtain anything by force.
+Return to the way.\n How could there be blame in this?\n Good fortune.\n  It lies in the nature of a strong man to press forward. In so doing he encounters obstructions. Therefore he returns to the way suited to his situation, where he is free to advance or to retreat. In the nature of things this will bring good fortune, for it is wise and reasonable not to try to obtain anything by force.
 
 Nine in the second place means:
 
-He allows himself to be drawn into returning.
-Good fortune.
-
-One would like to press forward, but before going farther one sees
-from the example of others like oneself that this way is blocked. In
-such a case, if the effort to push forward is not in harmony with the
-time, a reasonable and resolute man will not expose himself to a personal
-rebuff, but will retreat with others of like mind. This brings good fortune,
-because he does not needlessly jeopardize himself.
+He allows himself to be drawn into returning.\n Good fortune.\n  One would like to press forward, but before going farther one sees from the example of others like oneself that this way is blocked. In such a case, if the effort to push forward is not in harmony with the time, a reasonable and resolute man will not expose himself to a personal rebuff, but will retreat with others of like mind. This brings good fortune, because he does not needlessly jeopardize himself.
 
 Nine in the third place means:
 
-The spokes burst out of the wagon wheels.
-Man and wife roll their eyes.
-
-
-Here an attempt is made to press forward forcibly, in the consciousness
-that the obstructing power is slight. But since, under the circumstances,
-power actually lies with the weak, this sudden offensive is doomed to
-failure. External conditions hinder the advance, just as loss of the wheel
-spokes stops the progress of a wagon. We do not yet heed this hint form
-fate, hence there are annoying arguments like those of a married couple.
-Naturally this is not a favorable state of thing, for though the situation
-may enable the weaker side to hold its ground, the difficulties are too
-numerous to permit of a happy result. In consequence even the strong man
-cannot so use his power as to exert the right influence on those around
-him. He experiences a rebuff where he expected an easy victory, and he
-thus compromises his dignity.
+The spokes burst out of the wagon wheels.\n Man and wife roll their eyes.\n \n Here an attempt is made to press forward forcibly, in the consciousness that the obstructing power is slight. But since, under the circumstances, power actually lies with the weak, this sudden offensive is doomed to failure. External conditions hinder the advance, just as loss of the wheel spokes stops the progress of a wagon. We do not yet heed this hint form fate, hence there are annoying arguments like those of a married couple. Naturally this is not a favorable state of thing, for though the situation may enable the weaker side to hold its ground, the difficulties are too numerous to permit of a happy result. In consequence even the strong man cannot so use his power as to exert the right influence on those around him. He experiences a rebuff where he expected an easy victory, and he thus compromises his dignity.
 
 Six in the fourth place means:
 
-If you are sincere, blood vanishes and fear gives way.
-No blame.
-
-
-If one is in the difficult and responsible position of counselor to
-a powerful man, on should restrain him in such a way that the threat
-of actual bloodshed may arise. Nonetheless, the power of disinterested
-truth is greater than all theses obstacles. It carries such weight that
-the end is achieved, and all danger of bloodshed and all fear disappear.
+If you are sincere, blood vanishes and fear gives way.\n No blame.\n \n If one is in the difficult and responsible position of counselor to a powerful man, on should restrain him in such a way that the threat of actual bloodshed may arise. Nonetheless, the power of disinterested truth is greater than all theses obstacles. It carries such weight that the end is achieved, and all danger of bloodshed and all fear disappear. 
 
 Nine in the fifth place means:
 
-If you are sincere and loyally attached, 
-You are rich in your neighbor.
-
-Loyalty leads to firm ties because it means that each partner complements
-the other. In the weaker person loyalty consists in devotion, in the
-stronger it consists in trustworthiness. This relation of mutual reinforcement
-leads to a true wealth that is all the more apparent because it is not
-selfishly hoarded but is shared with friends. Pleasure shared is pleasure
-doubled.
+If you are sincere and loyally attached, \n You are rich in your neighbor.\n \n Loyalty leads to firm ties because it means that each partner complements the other. In the weaker person loyalty consists in devotion, in the stronger it consists in trustworthiness. This relation of mutual reinforcement leads to a true wealth that is all the more apparent because it is not selfishly hoarded but is shared with friends. Pleasure shared is pleasure doubled.
 
 Nine at the top means:
 
-The rain comes, there is rest.
-This is due to the lasting effect of character.
-Perseverance brings the woman into danger.
-The moon is nearly full.
-If the superior man persists,
-Misfortune comes.
-
-Success is at hand. The wind has driven up the rain. A fixed standpoint
-has been reach. This has come about through the cumulation of small effects
-produced by reverence for a superior character. But a success thus secured
-bit by bit calls for great caution. It would be a dangerous illusion
-for anyone to think he could presume upon it. The female principle, the
-weak element that has won the victory, should never persist in vaunting
-it--that would lead to danger. The dark power in the moon is strongest
-when the moon is almost full. When it is full and directly opposite the
-sun, its waning is inevitable. Under such circumstances one must be content
-with what has been achieved. To advance any further, before the appropriate
-time has come, would lead to misfortune.
+The rain comes, there is rest.\n This is due to the lasting effect of character.\n Perseverance brings the woman into danger.\n The moon is nearly full.\n If the superior man persists,\n Misfortune comes.\n \n Success is at hand. The wind has driven up the rain. A fixed standpoint has been reach. This has come about through the cumulation of small effects produced by reverence for a superior character. But a success thus secured bit by bit calls for great caution. It would be a dangerous illusion for anyone to think he could presume upon it. The female principle, the weak element that has won the victory, should never persist in vaunting it--that would lead to danger. The dark power in the moon is strongest when the moon is almost full. When it is full and directly opposite the sun, its waning is inevitable. Under such circumstances one must be content with what has been achieved. To advance any further, before the appropriate time has come, would lead to misfortune.
 
 
 
@@ -1290,134 +591,43 @@ time has come, would lead to misfortune.
 above CH'IEN THE CREATIVE, HEAVEN
 below TUI THE JOYOUS, LAKE
 
-The name of the hexagram means on the one hand the right way of conducting
-oneself. Heaven, the father, is above, and the lake, the youngest daughter,
-is below. This shows the difference between high and low, upon which
-composure correct social conduct, depends. On the other hand the word
-for the name of the hexagram, TREADING, means literally treading upon
-something. The small and cheerful [Tui] treads upon the large and strong
-[Ch'ien]. The direction of movement of the two primary trigrams is upward.
-The fact that the strong treads on the weak is not mentioned in the Book
-of Changes, because it is taken for granted. For the weak to take a stand
-against the strong is not dangerous here, because it happened in good humor
-[Tui] and without presumption, so that the strong man is not irritated
-but takes it all in good part.
+The name of the hexagram means on the one hand the right way of conducting oneself. Heaven, the father, is above, and the lake, the youngest daughter, is below. This shows the difference between high and low, upon which composure correct social conduct, depends. On the other hand the word for the name of the hexagram, TREADING, means literally treading upon something. The small and cheerful [Tui] treads upon the large and strong [Ch'ien]. The direction of movement of the two primary trigrams is upward. The fact that the strong treads on the weak is not mentioned in the Book of Changes, because it is taken for granted. For the weak to take a stand against the strong is not dangerous here, because it happened in good humor [Tui] and without presumption, so that the strong man is not irritated but takes it all in good part.
 
 THE JUDGMENT
 
-TREADING. Treading upon the tail of the tiger.
-It does not bite the man. Success.
-
-The situation is really difficult. That which is strongest and that
-which is weakest are close together. The weak follows behind the strong
-and worries it. The strong, however, acquiesces and does not hurt the
-weak, because the contact is in goof humor and harmless. In terms of
-a human situation, one is handling wild, intractable people. In such a
-case one's purpose will be achieved if one behaves with decorum. Pleasant
-manners succeed even with irritable people.
+TREADING. Treading upon the tail of the tiger.\n It does not bite the man. Success.\n \n The situation is really difficult. That which is strongest and that which is weakest are close together. The weak follows behind the strong and worries it. The strong, however, acquiesces and does not hurt the weak, because the contact is in goof humor and harmless. In terms of a human situation, one is handling wild, intractable people. In such a case one's purpose will be achieved if one behaves with decorum. Pleasant manners succeed even with irritable people.
 
 THE IMAGE
 
-Heaven above, the lake below:
-The image of TREADING.
-
-Thus the superior man discriminates between high and low,
-And thereby fortifies the thinking of the people.
-
-Heaven and the lake show a difference of elevation that inheres in
-the natures of the two, hence no envy arises. Among mankind also there
-are necessarily differences of elevation; it is impossible to bring about
-universal equality. But it is important that differences in social rank
-should not be arbitrary and unjust, for if this occurs, envy and class
-struggle are the inevitable consequences. If, on the other hand, external
-differences in rank correspond with differences in inner worth, and if inner
-worth forms the criterion of external rank, people acquiesce and order
-reigns in society.
+Heaven above, the lake below:\n The image of TREADING.\n \n Thus the superior man discriminates between high and low,\n And thereby fortifies the thinking of the people.\n \n Heaven and the lake show a difference of elevation that inheres in the natures of the two, hence no envy arises. Among mankind also there are necessarily differences of elevation; it is impossible to bring about universal equality. But it is important that differences in social rank should not be arbitrary and unjust, for if this occurs, envy and class struggle are the inevitable consequences. If, on the other hand, external differences in rank correspond with differences in inner worth, and if inner worth forms the criterion of external rank, people acquiesce and order reigns in society.
 
 THE LINES
 
 Nine at the beginning means:
 
-Simple conduct. Progress without blame.
-
-The situation is one in which we are still not bound by any obligations
-of social intercourse. If our conduct is simple, we remain free of them
-We can quietly follow our predilections as long as we are content and
-make not demands on people. The meaning of the hexagram is not standstill
-but progress. A man finds himself in an altogether inferior position at
-the start. However, he has the inner strength that guarantees progress.
-If he can be content with simplicity, he can make progress without blame.
-When a man is dissatisfied with modest circumstances, he is restless and
-ambitious and tries to advance, not for the sake of accomplishing anything
-worth while, but merely in order to escape from lowliness and poverty
-by dint of his conduct. Once his purpose is achieved, he is certain to
-become arrogant and luxury-loving. Therefore blame attaches to his progress.
-On the other hand, a man who is good at his work is content to behave simply.
-He wishes to make progress in order to accomplish something. When he attains
-his goal, he does something worth while, an all is well.
+Simple conduct. Progress without blame.\n \n The situation is one in which we are still not bound by any obligations of social intercourse. If our conduct is simple, we remain free of them We can quietly follow our predilections as long as we are content and make not demands on people. The meaning of the hexagram is not standstill but progress. A man finds himself in an altogether inferior position at the start. However, he has the inner strength that guarantees progress. If he can be content with simplicity, he can make progress without blame. When a man is dissatisfied with modest circumstances, he is restless and ambitious and tries to advance, not for the sake of accomplishing anything worth while, but merely in order to escape from lowliness and poverty by dint of his conduct. Once his purpose is achieved, he is certain to become arrogant and luxury-loving. Therefore blame attaches to his progress. On the other hand, a man who is good at his work is content to behave simply. He wishes to make progress in order to accomplish something. When he attains his goal, he does something worth while, an all is well.
 
 Nine in the second place means:
 
-Treading a smooth, level course.
-The perseverance of a dark man
-Brings good fortune.
-
-The situation of a lonely sage is indicated here. He remains withdrawn
-from the bustle of life, seeks nothing, asks nothing of anyone, and travels
-through life unassailed, on a level road. Since he is content and does
-not challenge fate, he remains free of entanglements.
+Treading a smooth, level course.\n The perseverance of a dark man\n Brings good fortune.\n \n The situation of a lonely sage is indicated here. He remains withdrawn from the bustle of life, seeks nothing, asks nothing of anyone, and travels through life unassailed, on a level road. Since he is content and does not challenge fate, he remains free of entanglements.
 
 Six in the third place means:
 
-A one-eyed man is able to see,
-A lame man is able to tread.
-He treads on the tail of the tiger.
-
-The tiger bites the man.
-Misfortune.
-
-Thus does a warrior act on behalf of his great prince.
-
-A one-eyed man can indeed see, but not enough for clear vision. A
-lame man can indeed treat, but not enough to make progress. If in spite of
-such defects a man considers himself strong and consequently exposes himself
-to danger, he is inviting disaster, for he is undertaking something beyond
-his strength. This reckless way of plunging ahead, regardless of the adequacy
-of one's powers, can be justified only in the case of a warrior battling
-for his prince.
+A one-eyed man is able to see,\n A lame man is able to tread.\n He treads on the tail of the tiger.\n \n The tiger bites the man.\n Misfortune.\n \n Thus does a warrior act on behalf of his great prince.\n \n A one-eyed man can indeed see, but not enough for clear vision. A lame man can indeed treat, but not enough to make progress. If in spite of such defects a man considers himself strong and consequently exposes himself to danger, he is inviting disaster, for he is undertaking something beyond his strength. This reckless way of plunging ahead, regardless of the adequacy of one's powers, can be justified only in the case of a warrior battling for his prince.
 
 Nine in the fourth place means:
 
-He treads on the tail of the tiger.
-Caution and circumspection
-Lead ultimately to good fortune.
+He treads on the tail of the tiger.\n Caution and circumspection\n Lead ultimately to good fortune.\n \n This text refers to a dangerous enterprise. The inner power to carry it through is there, but this inner power is combined with hesitating caution in one's external attitude. This line contrasts with the preceding line, which is weak within but outwardly presses forward. Here one is sure of ultimate success, which consists in achieving one's purpose, that is, in overcoming danger by going forward. 
 
-This text refers to a dangerous enterprise. The inner power to carry
-it through is there, but this inner power is combined with hesitating
-caution in one's external attitude. This line contrasts with the preceding
-line, which is weak within but outwardly presses forward. Here one is sure
-of ultimate success, which consists in achieving one's purpose, that is,
-in overcoming danger by going forward.
+
 Nine in the fifth place means:
 
-Resolute conduct.
-Perseverance with awareness of danger.
+Resolute conduct.\n Perseverance with awareness of danger.\n \n This refers to the ruler of the hexagram as a whole. One sees that one has to be resolute in conduct. But at the same time one must remain conscious of the danger connected with such resoluteness, especially if it is to be persevered in. Only awareness of the danger makes success possible. 
 
-This refers to the ruler of the hexagram as a whole. One sees that
-one has to be resolute in conduct. But at the same time one must remain
-conscious of the danger connected with such resoluteness, especially if
-it is to be persevered in. Only awareness of the danger makes success possible.
 
 Nine at the top means:
 
-Look to your conduct and weigh the favorable signs.
-When everything is fulfilled, supreme good fortune comes.
-
-The work is ended. If we want to know whether good fortune will follow,
-we must look back upon our conduct and its consequences. If the effects
-are good, then good fortune is certain. No one knows himself. It is only
-by the consequences of his actions, by the fruit of his labors, that a
-man can judge what he is to expect.
+Look to your conduct and weigh the favorable signs.\n When everything is fulfilled, supreme good fortune comes.\n \n The work is ended. If we want to know whether good fortune will follow, we must look back upon our conduct and its consequences. If the effects are good, then good fortune is certain. No one knows himself. It is only by the consequences of his actions, by the fruit of his labors, that a man can judge what he is to expect.
 
 
 
@@ -1428,146 +638,43 @@ man can judge what he is to expect.
 above K'UN THE RECEPTIVE, EARTH
 below CH'IEN THE CREATIVE, HEAVEN
 
-The Receptive, which moves downward, stands above; the Creative, which
-moves upward, is below. Hence their influences meet and are in harmony,
-so that all living things bloom and prosper. This hexagram belongs to
-the first month (February-March), at which time the forces of nature prepare
-the new spring. 
+The Receptive, which moves downward, stands above; the Creative, which moves upward, is below. Hence their influences meet and are in harmony, so that all living things bloom and prosper. This hexagram belongs to the first month (February-March), at which time the forces of nature prepare the new spring. 
 
 THE JUDGMENT
 
 
-PEACE. The small departs,
-The great approaches.
-Good fortune. Success.
-
-This hexagram denotes a time in nature when heaven seems to be on
-earth. Heaven has placed itself beneath the earth, and so their powers unite
-in deep harmony. Then peace and blessing descend upon all living things.
-In the world of man it is a time of social harmony; those in high places
-show favor to the lowly, and the lowly and inferior is an end to all feuds.
-In side, at the center, in the key position, is the light principle; the
-dark principle is outside. Thus the light has a powerful influence, while
-the dark is submissive. In this way each receives its due. When the good
-elements of society occupy a central position and are in control, the evil
-elements come under their influence and change for the better. When the spirit
-of heaven rules in man, his animal nature also comes under its influence
-and takes its appropriate place. The individual lines enter the hexagram
-from below and leave it again at the top. Here the small, weak, and evil
-elements are about to take their departure, while the great, strong, and
-good elements are moving up. This brings good fortune and success.
+PEACE. The small departs,\n The great approaches.\n Good fortune. Success.\n \n This hexagram denotes a time in nature when heaven seems to be on earth. Heaven has placed itself beneath the earth, and so their powers unite in deep harmony. Then peace and blessing descend upon all living things. In the world of man it is a time of social harmony; those in high places show favor to the lowly, and the lowly and inferior is an end to all feuds. In side, at the center, in the key position, is the light principle; the dark principle is outside. Thus the light has a powerful influence, while the dark is submissive. In this way each receives its due. When the good elements of society occupy a central position and are in control, the evil elements come under their influence and change for the better. When the spirit of heaven rules in man, his animal nature also comes under its influence and takes its appropriate place. The individual lines enter the hexagram from below and leave it again at the top. Here the small, weak, and evil elements are about to take their departure, while the great, strong, and good elements are moving up. This brings good fortune and success.
 
 THE IMAGE
 
-Heaven and earth unite: the image of PEACE.
-Thus the ruler
-Divides and completes the course of heaven and earth,
-And so aids the people.
-
-Heaven and earth are in contact and combine their influences, producing
-a time of universal flowering and prosperity. This stream of energy must
-be regulated by the ruler of men. It is done by a process of division.
-Thus men divide the uniform flow of time into the seasons, according to
-the succession of natural phenomena, and mark off infinite space by the
-points of the compass. In this way nature in its overwhelming profusion
-of phenomena is bounded and controlled. One the other hand, nature must
-be furthered in her productiveness. This is done by adjusting the products
-to the right time and the right place, which increases the natural yield.
-This controlling and furthering activity of man in his relation to nature
-is the work on nature that rewards him.
+Heaven and earth unite: the image of PEACE.\n Thus the ruler\n Divides and completes the course of heaven and earth,\n And so aids the people.\n \n Heaven and earth are in contact and combine their influences, producing a time of universal flowering and prosperity. This stream of energy must be regulated by the ruler of men. It is done by a process of division. Thus men divide the uniform flow of time into the seasons, according to the succession of natural phenomena, and mark off infinite space by the points of the compass. In this way nature in its overwhelming profusion of phenomena is bounded and controlled. One the other hand, nature must be furthered in her productiveness. This is done by adjusting the products to the right time and the right place, which increases the natural yield. This controlling and furthering activity of man in his relation to nature is the work on nature that rewards him.
 
 THE LINES 
 
 Nine at the beginning means:
 
-When ribbon grass is pulled up, the sod comes with it.
-Each according to his kind.
-Undertakings bring good fortune.
+When ribbon grass is pulled up, the sod comes with it.\n Each according to his kind.\n Undertakings bring good fortune.\n \n In times of prosperity every able man called to fill an office draws like minded people along with him, just as in pulling up ribbon grass one always pulls up a bunch of it, because the stalks are connected by their roots. In such times, when it is possible to extend influence widely, the mind of an able man is set upon going out into life and accomplishing something.
 
-In times of prosperity every able man called to fill an office draws
-like minded people along with him, just as in pulling up ribbon grass
-one always pulls up a bunch of it, because the stalks are connected by
-their roots. In such times, when it is possible to extend influence widely,
-the mind of an able man is set upon going out into life and accomplishing
-something.
 Nine in the second place means:
 
-Bearing with the uncultured in gentleness,
-Fording the river with resolution,
-Not neglecting what is distant,
-Not regarding one's companions:
-
-Thus one may manage to walk in the middle.
-
-In times of prosperity it is important and above all to possess enough
-greatness of soul to bear with imperfect people. For in the hands of
-a great master no material is unproductive; he can find use for everything.
-But this generosity is by no means laxity or weakness. It is during times
-of prosperity especially that we must always be ready to risk even dangerous
-undertakings, such as the crossing of a river, if they are necessary.
-So too we must not neglect what is distant but must attend scrupulously
-to everything. Factionalism and the dominance of cliques are especially
-to be avoided. Even if people of like mind come forward together, they ought
-not to form a faction by holding together for mutual advantage; instead,
-each man should do is duty. Theses are four ways in which one can overcome
-the hidden danger of a gradual slackening that always lurks in any time
-of peace. And that is how one finds the middle way for action.
+Bearing with the uncultured in gentleness,\n Fording the river with resolution,\n Not neglecting what is distant,\n Not regarding one's companions:\n \n Thus one may manage to walk in the middle.\n \n In times of prosperity it is important and above all to possess enough greatness of soul to bear with imperfect people. For in the hands of a great master no material is unproductive; he can find use for everything. But this generosity is by no means laxity or weakness. It is during times of prosperity especially that we must always be ready to risk even dangerous undertakings, such as the crossing of a river, if they are necessary. So too we must not neglect what is distant but must attend scrupulously to everything. Factionalism and the dominance of cliques are especially to be avoided. Even if people of like mind come forward together, they ought not to form a faction by holding together for mutual advantage; instead, each man should do is duty. Theses are four ways in which one can overcome the hidden danger of a gradual slackening that always lurks in any time of peace. And that is how one finds the middle way for action.
 
 Nine in the third place means:
 
-No plain not followed by a slope.
-No going not followed by a return.
-He who remains persevering in danger
-Is without blame.
-Do not complain about this truth;
-Enjoy the good fortune you still possess.
-
-Everything on earth is subject to change. Prosperity is followed by
-decline: this is the eternal law on earth. Evil can indeed be held in
-check but not permanently abolished. It always returns. This conviction
-might induct melancholy, but it should not; it ought only to keep us from
-falling into illusion when good fortune comes to us. If we continue mindful
-of the danger, we remain persevering and make no mistakes. As long as a
-man's inner nature remains stronger and richer than anything offered by
-external fortune, as long as he remains inwardly superior to fate, fortune
-will not desert him.
+No plain not followed by a slope.\n No going not followed by a return.\n He who remains persevering in danger\n Is without blame.\n Do not complain about this truth;\n Enjoy the good fortune you still possess.\n \n Everything on earth is subject to change. Prosperity is followed by decline: this is the eternal law on earth. Evil can indeed be held in check but not permanently abolished. It always returns. This conviction might induct melancholy, but it should not; it ought only to keep us from falling into illusion when good fortune comes to us. If we continue mindful of the danger, we remain persevering and make no mistakes. As long as a man's inner nature remains stronger and richer than anything offered by external fortune, as long as he remains inwardly superior to fate, fortune will not desert him.
 
 Six in the fourth place means:
 
-He flutters down, not boasting of his wealth,
-Together with his neighbor,
-Guileless and sincere.
+He flutters down, not boasting of his wealth,\n Together with his neighbor,\n Guileless and sincere.\n \n In times of mutual confidence, people of high rank come in close contact with the lowly quite simply and without boasting of their wealth. This is not due to the force of circumstances but corresponds with their inmost sentiment. The approach is made quite spontaneously, because it is based on inner conviction.
 
-In times of mutual confidence, people of high rank come in close contact
-with the lowly quite simply and without boasting of their wealth. This
-is not due to the force of circumstances but corresponds with their inmost
-sentiment. The approach is made quite spontaneously, because it is based
-on inner conviction.
+
 Six in the fifth place means:
 
-The sovereign I
-Gives his daughter in marriage.
-And supreme good fortune.
-
-The sovereign I is T'ang the Completer. By his decree the imperial
-princesses, although higher in rank than their husbands, had to obey
-them like all other wives. Here too we are shown a truly modest union
-of high and low that brings happiness and blessings.
+The sovereign I\n Gives his daughter in marriage.\n And supreme good fortune.\n \n The sovereign I is T'ang the Completer. By his decree the imperial princesses, although higher in rank than their husbands, had to obey them like all other wives. Here too we are shown a truly modest union of high and low that brings happiness and blessings.
 
 Six at the top means:
 
-The wall falls back into the moat.
-Use no army now.
-Make your commands known within your own town.
-Perseverance brings humiliation.
-
-The change alluded to in the middle of the hexagram has begun to take
-place. The wall of the town sinks back into the moat from which it was
-dug. The hour of doom is at hand. When matters have come to this pass,
-we should submit to fate and not try to stave it off by violent resistance.
-The one recourse left us is to hold our own within our intimate circle.
-Should we persevere in trying to resist the evil in the usual way, our
-collapse would only be more complete, and humiliation would be the result.
+The wall falls back into the moat.\n Use no army now.\n Make your commands known within your own town.\n Perseverance brings humiliation.\n \n The change alluded to in the middle of the hexagram has begun to take place. The wall of the town sinks back into the moat from which it was dug. The hour of doom is at hand. When matters have come to this pass, we should submit to fate and not try to stave it off by violent resistance. The one recourse left us is to hold our own within our intimate circle. Should we persevere in trying to resist the evil in the usual way, our collapse would only be more complete, and humiliation would be the result.
 
 
 

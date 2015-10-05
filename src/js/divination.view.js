@@ -38,7 +38,7 @@ define([
 			},
 
 			hexagramLinkConverter : function (direction, value) {
-				var baseURL = 'http://www2.unipr.it/~deyoung/I_Ching_Wilhelm_Translation.html#'
+				var baseURL = '#yijing/'
 			    if (direction === "ModelToView") {
 			        //format only when the direction is from model to view
 			        return  baseURL + value;
