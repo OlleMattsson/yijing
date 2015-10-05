@@ -1,15 +1,18 @@
 define([
   'jquery',     
   'backbone', 
-], function($, Backbone) {	
+  'js/trigram.model.js'
+], function($, Backbone, Trigram) {	
 	var Hexagram =	Backbone.Model.extend({
 			url : '',		
 			//urlRoot : 'static/iching',	
+			aboveTri : null,
+			belowTri : null,
 			parse : function(res) {
 				return res[0];
 			},
 			initialize : function() {				
-				var self = this;
+				var model = this;
 				this.url = 'static/iching/' + this.id + '.json';
 				this.fetch({
 					dataType: 'json', 	// very important!
@@ -20,6 +23,9 @@ define([
 					complete : function(xhr, text) {
 						// we could use a custom event to trigger render() in the view
 						// self.trigger('onComplete') 	
+
+						model.set({ aboveTri : new Trigram({id : model.get("above") }) });
+						model.set({ belowTri : new Trigram({id : model.get("below") }) });
 					}
 				});
 

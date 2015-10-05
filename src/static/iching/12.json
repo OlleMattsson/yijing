@@ -4,8 +4,16 @@
 	"html" : "",
 	"nameMan" : "",
 	"nameEng" : "",
-	"above" : "",
-	"below" : "",
+	"above" : {
+		"html" : "",
+		"nameMan" : "",
+		"nameEng" : ""	
+		},
+	"below" : {
+		"html" : "",
+		"nameMan" : "",
+		"nameEng" : ""
+	},
 	"description" : "",
 	"judgement" : "",
 	"image" : "",
