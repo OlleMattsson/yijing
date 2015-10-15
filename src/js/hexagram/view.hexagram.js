@@ -23,10 +23,12 @@ define([
 			});
 
 			this.$el.html( this.template( model.toJSON() ) );
-			console.log( "rendered Hexagram" )
+			console.log( this )
 
 			return this;
-
+		},
+		events : {
+			"click" : function() {console.log(this)}
 		}
 
 	});

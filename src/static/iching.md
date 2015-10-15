@@ -3590,13 +3590,7 @@ lead to humiliation.
 above K'UN THE RECEPTIVE, EARTH
 below LI THE CLINGING, FIRE
 
-Here the sun has sunk under the earth and is therefore darkened. The
-name of the hexagram means literally "wounding of the bright"; hence
-the individual lines contain frequent references to wounding. The situation
-is the exact opposite of that in the foregoing hexagram. In the latter
-a wise man at the head of affairs has able helpers, and in company with
-them makes progress; here a man of dark nature is in a position of authority
-and brings harm to the wise and able man.
+Here the sun has sunk under the earth and is therefore darkened. The name of the hexagram means literally "wounding of the bright"; hence the individual lines contain frequent references to wounding. The situation is the exact opposite of that in the foregoing hexagram. In the latter a wise man at the head of affairs has able helpers, and in company with them makes progress; here a man of dark nature is in a position of authority and brings harm to the wise and able man.
 
 THE JUDGMENT
 
@@ -3722,21 +3716,7 @@ the good, and thus consumed the energy to which it owed its duration.
 above SUN THE GENTLE, WIND
 below LI THE CLINGING, FIRE
 
-The hexagram represents the laws obtaining within the family. The
-strong line at the top represents the father, the lowest the son. The strong
-line in the fifth place represents the husband, the yielding second line
-the wife. On the other hand, the two strong lines in the fifth and the third
-place represent two brothers, and the two weak lines correlated with them
-in the fourth and the second place stand for their respective wives. Thus
-all the connections and relationships within the family find their appropriate
-expression. Each individual line has the character according with its place.
-The fact that a strong line occupies the sixth place-where a weak line might
-be expected-indicates very clearly the strong leadership that must come from
-the head of the family. The line is to be considered here not in its quality
-as the sixth but in its quality as the top line. THE FAMILY shows the laws
-operative within the household that, transferred to outside life, keep the
-state and the world in order. The influence that goes out from within the
-family is represented by the symbol of the wind created by fire.
+The hexagram represents the laws obtaining within the family. The strong line at the top represents the father, the lowest the son. The strong line in the fifth place represents the husband, the yielding second line the wife. On the other hand, the two strong lines in the fifth and the third place represent two brothers, and the two weak lines correlated with them in the fourth and the second place stand for their respective wives. Thus all the connections and relationships within the family find their appropriate expression. Each individual line has the character according with its place. The fact that a strong line occupies the sixth place-where a weak line might be expected-indicates very clearly the strong leadership that must come from the head of the family. The line is to be considered here not in its quality as the sixth but in its quality as the top line. THE FAMILY shows the laws operative within the household that, transferred to outside life, keep the state and the world in order. The influence that goes out from within the family is represented by the symbol of the wind created by fire.
 
 THE JUDGMENT
 
@@ -3877,12 +3857,7 @@ responsibility.
 above LI THE CLINGING, FLAME
 below TUI THE JOYOUS, LAKE
 
-This hexagram is composed of the trigram Li above, i.e., flame, which
-burns upward, and Tui below, i.e., the lake, which seeps downward. These
-two movements are indirect contrast. Furthermore, LI is the second daughter
-and Tui the youngest daughter, and although they live in the same house
-they belong to different men; hence their wills are not the same but are
-divergently directed.
+This hexagram is composed of the trigram Li above, i.e., flame, which burns upward, and Tui below, i.e., the lake, which seeps downward. These two movements are indirect contrast. Furthermore, LI is the second daughter and Tui the youngest daughter, and although they live in the same house they belong to different men; hence their wills are not the same but are divergently directed.
 
 THE JUDGMENT
 
@@ -4022,13 +3997,7 @@ for just when opposition reaches its climax it changes over to its antithesis.
 above K'AN THE ABYSMAL, WATER
 below KêN KEEPING STILL, MOUNTAIN
 
-The hexagram pictures a dangerous abyss lying before us and a steep,
-inaccessible mountain rising behind us. We are surrounded by obstacles;
-at the same time, since the mountain has the attribute of keeping still,
-there is implicit a hint as to how we can extricate ourselves. The hexagram
-represents obstructions that appear in the course of time but that can
-and should be overcome. Therefore all the instruction given is directed
-to overcoming them.
+The hexagram pictures a dangerous abyss lying before us and a steep, inaccessible mountain rising behind us. We are surrounded by obstacles; at the same time, since the mountain has the attribute of keeping still, there is implicit a hint as to how we can extricate ourselves. The hexagram represents obstructions that appear in the course of time but that can and should be overcome. Therefore all the instruction given is directed to overcoming them.
 
 THE JUDGMENT
 
@@ -4155,10 +4124,7 @@ man in alliance with whom one can achieve the work of rescue.
 above CHêN THE AROUSING, THUNDER
 below K'AN THE ABYSMAL, WATER
 
-Here the movement goes out of the sphere of danger. The obstacle has
-been removed, the difficulties are being resolved. Deliverance is not
-yet achieved; it is just in its beginning, and the hexagram represents
-its various stages.
+Here the movement goes out of the sphere of danger. The obstacle has been removed, the difficulties are being resolved. Deliverance is not yet achieved; it is just in its beginning, and the hexagram represents its various stages.
 
 THE JUDGMENT
 
@@ -4297,17 +4263,8 @@ quarry. This is how a man fares who acts after he has made ready the means.
 above KêN KEEPING STILL, MOUNTAIN
 below TUI THE JOYOUS, LAKE
 
-This hexagram represents a decrease of the lower trigram in favor
-of the upper, because the third line, originally strong, has moved up to
-the top, and the top line, originally weak, has replaced it. What is below
-is decreased to the benefit of what is above. This is out-and-out decrease.
-If the foundations of a building are decreased in strength and the upper
-walls are strengthened, the whole structure loves its stability. Likewise,
-a decrease in the prosperity of the people in favor of the government is
-out-and-out decrease. And the entire theme of the hexagram is directed to
-showing how this shift of wealth can take place without causing the sources
-of wealth can take place without causing the sources of wealth in the nation
-and its lower classes to fail.
+This hexagram represents a decrease of the lower trigram in favor of the upper, because the third line, originally strong, has moved up to the top, and the top line, originally weak, has replaced it. What is below is decreased to the benefit of what is above. This is out-and-out decrease. If the foundations of a building are decreased in strength and the upper walls are strengthened, the whole structure loves its stability. Likewise, a decrease in the prosperity of the people in favor of the government is out-and-out decrease. And the entire theme of the hexagram is directed to showing how this shift of wealth can take place without causing the sources of wealth can take place without causing the sources of wealth in the nation and its lower classes to fail.
+
 
 THE JUDGMENT
 
@@ -4445,13 +4402,7 @@ to everyone.
 above SUN THE GENTLE, WIND
 below CHêN THE AROUSING, THUNDER
 
-The idea of increase is expressed in the fact that the strong lowest
-line of the upper trigram has sunk down and taken its place under the
-lower trigram. This conception also expresses the fundamental idea on
-which the Book of Changes is based. To rule truly is to serve. A sacrifice
-of the higher element that produces an increase of the lower is called
-an out-and-out increase: it indicates the spirit that alone has power to
-help the world.
+The idea of increase is expressed in the fact that the strong lowest line of the upper trigram has sunk down and taken its place under the lower trigram. This conception also expresses the fundamental idea on which the Book of Changes is based. To rule truly is to serve. A sacrifice of the higher element that produces an increase of the lower is called an out-and-out increase: it indicates the spirit that alone has power to help the world.
 
 THE JUDGMENT
 
@@ -4593,13 +4544,7 @@ him draw near.
 above TUI THE JOYOUS, LAKE
 below CH'IEN THE CREATIVE, HEAVEN
 
-This hexagram signifies on the one hand a break-through after a long
-accumulation of tension, as a swollen river breaks through its dikes,
-or in the manner of a cloudburst. On the other hand, applied to human conditions,
-it refers to the time when inferior people gradually begin to disappear.
-Their influence is on the wane; as a result of resolute action, a change
-in conditions occurs, a break-through. The hexagram is linked with the
-third month [April-May].
+This hexagram signifies on the one hand a break-through after a long accumulation of tension, as a swollen river breaks through its dikes, or in the manner of a cloudburst. On the other hand, applied to human conditions, it refers to the time when inferior people gradually begin to disappear. Their influence is on the wane; as a result of resolute action, a change in conditions occurs, a break-through. The hexagram is linked with the third month [April-May].
 
 THE JUDGMENT
 
@@ -4761,13 +4706,7 @@ to be overlooked, new evil would arise from it.
 above CH'IEN THE CREATIVE, HEAVEN
 below SUN THE GENTLE, WIND
 
-This hexagram indicates a situation in which the principle of darkness,
-after having been eliminated, furtively and unexpectedly obtrudes again
-from within and below. Of its own accord the female principle comes to
-meet the male. It is an unfavorable and dangerous situation, and we must
-understand and promptly prevent the possible consequences. The hexagram
-is linked with the fifth month [June-July], because at the summer solstice
-the principle of darkness gradually becomes ascendant again. 
+This hexagram indicates a situation in which the principle of darkness, after having been eliminated, furtively and unexpectedly obtrudes again from within and below. Of its own accord the female principle comes to meet the male. It is an unfavorable and dangerous situation, and we must understand and promptly prevent the possible consequences. The hexagram is linked with the fifth month [June-July], because at the summer solstice the principle of darkness gradually becomes ascendant again. 
 
 THE JUDGMENT
 
@@ -4895,16 +4834,7 @@ They know how to bear the dislike of the masses with composure.
 above TUI THE JOYOUS, LAKE
 below K'UN THE RECEPTIVE, EARTH
 
-This hexagram is related in form and meaning to Pi, HOLDING TOGETHER
-
-
-<a href="http://www2.unipr.it/~deyoung/I_Ching_Wilhelm_Translation.html#8">8</a>. In the latter, water is over the earth; here a
-lake is over the earth. But since the lake is a place where water collects,
-the idea of gathering together is even more strongly expressed here than
-in the other hexagram. The same idea also arises from the fact that in
-the present case it is two strong lines (the fourth and the fifth) that
-bring about the gather together, whereas in the former case one strong
-line (the fifth) stands in the midst of weak lines.
+This hexagram is related in form and meaning to Pi, HOLDING TOGETHER   <a href="http://www2.unipr.it/~deyoung/I_Ching_Wilhelm_Translation.html#8">8</a>. In the latter, water is over the earth; here a lake is over the earth. But since the lake is a place where water collects, the idea of gathering together is even more strongly expressed here than in the other hexagram. The same idea also arises from the fact that in the present case it is two strong lines (the fourth and the fifth) that bring about the gather together, whereas in the former case one strong line (the fifth) stands in the midst of weak lines.
 
 THE JUDGMENT
 
@@ -5050,16 +4980,7 @@ missed is after all achieved.
 above K'UN THE RECEPTIVE, EARTH
 below SUN THE GENTLE, WIND, WOOD
 
-The lower trigram, Sun, represents wood, and the upper, K'un, means
-the earth. Linked with this is the idea that wood in the earth grows
-upward. In contrast to the meaning of Chin, PROGRESS 
-
-<a href="http://www2.unipr.it/~deyoung/I_Ching_Wilhelm_Translation.html#35">35</a>, this pushing upward is associated with effort,
-just as a plant needs energy for pushing upward through the earth. That
-is why this hexagram, although it is connected with success, is associated
-with effort of the will. In PROGRESS the emphasis is on expansion; PUSHING
-UPWARD indicates rather a vertical ascent-direct rise from obscurity and
-lowliness to power and influence.
+The lower trigram, Sun, represents wood, and the upper, K'un, means the earth. Linked with this is the idea that wood in the earth grows upward. In contrast to the meaning of Chin, PROGRESS   <a href=\"http://www2.unipr.it/~deyoung/I_Ching_Wilhelm_Translation.html#35\">35</a>, this pushing upward is associated with effort, just as a plant needs energy for pushing upward through the earth. That is why this hexagram, although it is connected with success, is associated with effort of the will. In PROGRESS the emphasis is on expansion; PUSHING UPWARD indicates rather a vertical ascent-direct rise from obscurity and lowliness to power and influence.
 
 THE JUDGMENT
 
@@ -5178,12 +5099,7 @@ is always harmful.
 above TUI THE JOYOUS, LAKE
 below K'AN THE ABYSMAL, WATER
 
-The lake is above, water below; the lake is empty, dried up. Exhaustion
-is expressed in yet another way: at the top, a dark line is holding down
-two light line; below, a light line is hemmed in between two dark ones.
-The upper trigram belongs to the principle of darkness, the lower to the
-principle of light. Thus everywhere superior men are oppressed and held
-in restraint by inferior men.
+The lake is above, water below; the lake is empty, dried up. Exhaustion is expressed in yet another way: at the top, a dark line is holding down two light line; below, a light line is hemmed in between two dark ones. The upper trigram belongs to the principle of darkness, the lower to the principle of light. Thus everywhere superior men are oppressed and held in restraint by inferior men.
 
 THE JUDGMENT
 
@@ -5329,13 +5245,7 @@ mental attitude, and makes a firm decision, he masters the oppression.
 above K'AN THE ABYSMAL, WATER
 below SUN THE GENTLE, WIND, WOOD
 
-Wood is below, water above. The wood goes down into the earth to bring
-up water. The image derives from the pole-and-bucket well of ancient
-China. The wood represents not the buckets, which in ancient times were
-made of clay, but rather the wooden poles by which the water is hauled
-up from the well. The image also refers to the world of plants, which lift
-water out of the earth by means of their fibers. The well from which water
-is drawn conveys the further idea of an inexhaustible dispensing of nourishment.
+Wood is below, water above. The wood goes down into the earth to bring up water. The image derives from the pole-and-bucket well of ancient China. The wood represents not the buckets, which in ancient times were made of clay, but rather the wooden poles by which the water is hauled up from the well. The image also refers to the world of plants, which lift water out of the earth by means of their fibers. The well from which water is drawn conveys the further idea of an inexhaustible dispensing of nourishment.
 
 THE JUDGMENT
 
@@ -5475,19 +5385,7 @@ greater his wealth becomes.
 above TUI THE JOYOUS, LAKE
 below LI THE CLINGING, FIRE
 
-The Chinese character for this hexagram means in its original sense
-an animal's pelt, which is changed in the course of the year by molting.
-From this word is carried over to apply to the "moltings" in political
-life, the great revolutions connected with changes of governments. The
-two trigrams making up the hexagram are the same two that appear in K'uei,
-OPPOSITION 
-
-<a href="http://www2.unipr.it/~deyoung/I_Ching_Wilhelm_Translation.html#38">38</a>, that is, the two younger daughters, Li and Tui.
-But while there the elder of the two daughters is above, and what results
-is essentially only an opposition of tendencies, here the younger daughter
-is above. The influences are in actual conflict, and the forces combat
-each other like fire and water (lake), each trying to destroy the other.
-Hence the idea of revolution.
+The Chinese character for this hexagram means in its original sense an animal's pelt, which is changed in the course of the year by molting. From this word is carried over to apply to the "moltings" in political life, the great revolutions connected with changes of governments. The two trigrams making up the hexagram are the same two that appear in K'uei, OPPOSITION   <a href=\"http://www2.unipr.it/~deyoung/I_Ching_Wilhelm_Translation.html#38\">38</a>, that is, the two younger daughters, Li and Tui. But while there the elder of the two daughters is above, and what results is essentially only an opposition of tendencies, here the younger daughter is above. The influences are in actual conflict, and the forces combat each other like fire and water (lake), each trying to destroy the other. Hence the idea of revolution.
 
 THE JUDGMENT
 
@@ -5622,23 +5520,7 @@ at the moment.
 above LI THE CLINGING, FIRE
 below SUN THE GENTLE, WIND, WOOD
 
-The six lines construct the image of Ting, THE CALDRON; at the bottom
-are the legs, over them the belly, then come the ears (handles), and
-at the top the carrying rings. At the same time, the image suggests the
-idea of nourishment. The ting, cast of bronze, was the vessel that held
-the cooked viands in the temple of the ancestors and at banquets. The
-heads of the family served the food from the ting into the bowls of the
-guests. THE WELL 
-
-<a href="http://www2.unipr.it/~deyoung/I_Ching_Wilhelm_Translation.html#48">48</a> likewise has the secondary meaning of giving
-nourishment, but rather more in relation to the people. The ting, as a utensil
-pertaining to a refined civilization, suggests the fostering and nourishing
-of able men, which redounded to the benefit of the state. This hexagram
-and THE WELL are the only two in the Book of Changes that represent concrete,
-men-made objects. Yet here too the thought has its abstract connotation.
-Sun, below, is wood and wind; Li, above, is flame. Thus together they stand
-for the flame kindled by wood and wind, which likewise suggests the idea
-of preparing food.
+The six lines construct the image of Ting, THE CALDRON; at the bottom are the legs, over them the belly, then come the ears (handles), and at the top the carrying rings. At the same time, the image suggests the idea of nourishment. The ting, cast of bronze, was the vessel that held the cooked viands in the temple of the ancestors and at banquets. The heads of the family served the food from the ting into the bowls of the guests. THE WELL   <a href=\"http://www2.unipr.it/~deyoung/I_Ching_Wilhelm_Translation.html#48\">48</a> likewise has the secondary meaning of giving nourishment, but rather more in relation to the people. The ting, as a utensil pertaining to a refined civilization, suggests the fostering and nourishing of able men, which redounded to the benefit of the state. This hexagram and THE WELL are the only two in the Book of Changes that represent concrete, men-made objects. Yet here too the thought has its abstract connotation. Sun, below, is wood and wind; Li, above, is flame. Thus together they stand for the flame kindled by wood and wind, which likewise suggests the idea of preparing food.
 
 THE JUDGMENT
 
@@ -5778,11 +5660,7 @@ pleasing to men, wherefore all goes well.
 above CHêN THE AROUSING, THUNDER
 below CHêN THE AROUSING, THUNDER
 
-The hexagram Chên represents the eldest son, who seizes rule
-with energy and power. A yang line develops below two yin lines and presses
-upward forcibly. This movement is so violent that it arouses terror.
-It is symbolized by thunder, which bursts forth from the earth and by
-its shock causes fear and trembling.
+The hexagram Chên represents the eldest son, who seizes rule with energy and power. A yang line develops below two yin lines and presses upward forcibly. This movement is so violent that it arouses terror. It is symbolized by thunder, which bursts forth from the earth and by its shock causes fear and trembling.
 
 THE JUDGMENT
 
@@ -5914,15 +5792,7 @@ with him. However, he must not take this into account.
 above KêN KEEPING STILL, MOUNTAIN
 below KêN KEEPING STILL, MOUNTAIN
 
-The image of this hexagram is the mountain, the youngest son of heaven
-and earth. The male principle is at the top because it strives upward
-by nature; the female principle is below, since the direction of its movement
-has come to its normal end. In its application to man, the hexagram turns
-upon the problem of achieving a quiet heart. It is very difficult to bring
-quiet to the heart. While Buddhism strives for rest through an ebbing
-away of all movement in nirvana, the Book of Changes holds that rest is
-merely a state of polarity that always posits movement as its complement.
-Possibly the words of the text embody directions for the practice of yoga.
+The image of this hexagram is the mountain, the youngest son of heaven and earth. The male principle is at the top because it strives upward by nature; the female principle is below, since the direction of its movement has come to its normal end. In its application to man, the hexagram turns upon the problem of achieving a quiet heart. It is very difficult to bring quiet to the heart. While Buddhism strives for rest through an ebbing away of all movement in nirvana, the Book of Changes holds that rest is merely a state of polarity that always posits movement as its complement. Possibly the words of the text embody directions for the practice of yoga.
 
 THE JUDGMENT
 
@@ -6055,13 +5925,7 @@ matter.
 above SUN THE GENTLE, WIND, WOOD
 below KêN KEEPING STILL, MOUNTAIN
 
-This hexagram is made up of Sun (wood, penetration) above, i.e., without,
-and Kên (mountain, stillness) below, i.e., within. A tree on a
-mountain develops slowly according to the law of its being and consequently
-stands firmly rooted. This gives the idea of a development that proceeds
-gradually, step by step. The attributes of the trigrams also point to
-this: within is tranquillity, which guards against precipitate actions,
-and without is penetration, which makes development and progress possible.
+This hexagram is made up of Sun (wood, penetration) above, i.e., without, and Kên (mountain, stillness) below, i.e., within. A tree on a mountain develops slowly according to the law of its being and consequently stands firmly rooted. This gives the idea of a development that proceeds gradually, step by step. The attributes of the trigrams also point to this: within is tranquillity, which guards against precipitate actions, and without is penetration, which makes development and progress possible.
 
 THE JUDGMENT
 
@@ -6209,21 +6073,7 @@ people of earth, who look up to him as an example.
 above CHêN THE AROUSING, THUNDER
 below TUI THE JOYOUS, LAKE
 
-Above we have Chên, the eldest son, and below, Tui, the youngest
-daughter. The man leads and the girl follows him in gladness. The picture
-is that of the entrance of the girl into her husband's house. In all,
-there are four hexagrams depicting the relationship between husband and
-wife. Hsien, INFLUENCE, 
-
-<a href="http://www2.unipr.it/~deyoung/I_Ching_Wilhelm_Translation.html#31">31</a>, describes the attraction that a young couple
-have for each other; Hêng, DURATION 
-
-<a href="http://www2.unipr.it/~deyoung/I_Ching_Wilhelm_Translation.html#32">32</a>, portrays the permanent relationships of marriage;
-Chien, DEVELOPMENT 
-
-<a href="http://www2.unipr.it/~deyoung/I_Ching_Wilhelm_Translation.html#53">53</a>, reflects the protracted, ceremonious procedures
-attending THE MARRYING MAIDEN, shows a young girl under the guidance
-of an older man who marries her.
+Above we have Chên, the eldest son, and below, Tui, the youngest daughter. The man leads and the girl follows him in gladness. The picture is that of the entrance of the girl into her husband's house. In all, there are four hexagrams depicting the relationship between husband and wife. Hsien, INFLUENCE,   <a href=\"http://www2.unipr.it/~deyoung/I_Ching_Wilhelm_Translation.html#31\">31</a>, describes the attraction that a young couple have for each other; Hêng, DURATION   <a href=\"http://www2.unipr.it/~deyoung/I_Ching_Wilhelm_Translation.html#32\">32</a>, portrays the permanent relationships of marriage; Chien, DEVELOPMENT   <a href=\"http://www2.unipr.it/~deyoung/I_Ching_Wilhelm_Translation.html#53\">53</a>, reflects the protracted, ceremonious procedures attending THE MARRYING MAIDEN, shows a young girl under the guidance of an older man who marries her.
 
 THE JUDGMENT
 
@@ -6370,11 +6220,7 @@ for a marriage.
 above CHêN THE AROUSING, THUNDER
 below LI THE CLINGING, FIRE
 
-Chên is movement; Li is flame, whose attribute is clarity. Clarity
-within, movement without-this produces greatness and abundance. The hexagram
-pictures a period of advanced civilization. However, the fact that development
-has reached a peak suggests that this extraordinary condition of abundance
-cannot be maintained permanently.
+Chên is movement; Li is flame, whose attribute is clarity. Clarity within, movement without-this produces greatness and abundance. The hexagram pictures a period of advanced civilization. However, the fact that development has reached a peak suggests that this extraordinary condition of abundance cannot be maintained permanently.
 
 THE JUDGMENT
 
@@ -6509,17 +6355,7 @@ so alienates his family that in the end he finds himself completely isolated.
 above LI THE CLINGING, FIRE
 below KêN KEEPING STILL, MOUNTAIN
 
-the mountain, Kên, stands still; above it fire, Li, flames up
-and does not tarry. Therefore the two trigrams do not stay together.
-Strange lands and separation are the wanderer's lot. When a man is a
-wanderer and stranger, he should not be gruff nor overbearing. He has
-no large circle of acquaintances, therefore he should not give himself
-airs. He must be cautious and reserved; in this way he protects himself
-from evil. If he is obliging toward others, he wins success. A wanderer
-has no fixed abode; his home is the road. Therefore he must take care to
-remain upright and steadfast, so that he sojourns only in the proper places,
-associating only with good people. Then he has good fortune and can go his
-way unmolested.
+the mountain, Kên, stands still; above it fire, Li, flames up and does not tarry. Therefore the two trigrams do not stay together. Strange lands and separation are the wanderer's lot. When a man is a wanderer and stranger, he should not be gruff nor overbearing. He has no large circle of acquaintances, therefore he should not give himself airs. He must be cautious and reserved; in this way he protects himself from evil. If he is obliging toward others, he wins success. A wanderer has no fixed abode; his home is the road. Therefore he must take care to remain upright and steadfast, so that he sojourns only in the proper places, associating only with good people. Then he has good fortune and can go his way unmolested.
 
 THE IMAGE
 
@@ -6631,16 +6467,8 @@ his cow-i.e., his modesty and adaptability-evil will result.
 above SUN THE GENTLE, WIND, WOOD
 below SUN THE GENTLE, WIND, WOOD
 
-Sun is one of the eight doubled trigrams. It is the eldest daughter
-and symbolizes wind or wood; it has for its attribute gentleness, which
-nonetheless penetrates like the wind or like growing wood with its roots.
-The dark principle, in itself rigid and immovable, is dissolved by the
-penetrating light principle, to which it subordinates itself in gentleness.
-In nature, it is the wind that disperses the gathered clouds, leaving the
-sky clear and serene. In human life it is penetrating clarity of judgment
-that thwarts all dark hidden motives. In the life of the community it is
-the powerful influence of a great personality that uncovers and breaks up
-those intrigues which shun the light of day.
+Sun is one of the eight doubled trigrams. It is the eldest daughter and symbolizes wind or wood; it has for its attribute gentleness, which nonetheless penetrates like the wind or like growing wood with its roots. The dark principle, in itself rigid and immovable, is dissolved by the penetrating light principle, to which it subordinates itself in gentleness. In nature, it is the wind that disperses the gathered clouds, leaving the sky clear and serene. In human life it is penetrating clarity of judgment that thwarts all dark hidden motives. In the life of the community it is the powerful influence of a great personality that uncovers and breaks up those intrigues which shun the light of day.
+
 
 THE JUDGMENT
 
@@ -6773,15 +6601,7 @@ the personal domain of darkness would only bring harm.
 above TUI THE JOYOUS, LAKE
 below TUI THE JOYOUS, LAKE
 
-This hexagram, like sun, is one of the eight formed by doubling of
-a trigram. The trigram Tui denotes the youngest daughter; it is symbolized
-by the smiling lake, and its attribute is joyousness. Contrary to appearances,
-it is not the yielding quality of the top line that accounts for joy
-here. The attribute of the yielding or dark principle is not joy but
-melancholy. However, joy is indicated by the fact that there are two
-strong lines within, expressing themselves through the medium of gentleness.
-True joy, therefore, rests on firmness and strength within, manifesting
-itself outwardly as yielding and gentle.
+This hexagram, like sun, is one of the eight formed by doubling of a trigram. The trigram Tui denotes the youngest daughter; it is symbolized by the smiling lake, and its attribute is joyousness. Contrary to appearances, it is not the yielding quality of the top line that accounts for joy here. The attribute of the yielding or dark principle is not joy but melancholy. However, joy is indicated by the fact that there are two strong lines within, expressing themselves through the medium of gentleness. True joy, therefore, rests on firmness and strength within, manifesting itself outwardly as yielding and gentle.
 
 THE JUDGMENT
 
@@ -6892,10 +6712,7 @@ and what becomes of him depends upon chance and external influences.
 above SUN THE GENTLE, WIND
 below K'AN THE ABYSMAL, WATER
 
-Wind blowing over water disperses it, dissolving it into foam and
-mist. This suggests that when a man's vital energy is dammed up within him
-(indicated as a danger by the attribute of the lower trigram), gentleness
-serves to break up and dissolve the blockage.
+Wind blowing over water disperses it, dissolving it into foam and mist. This suggests that when a man's vital energy is dammed up within him (indicated as a danger by the attribute of the lower trigram), gentleness serves to break up and dissolve the blockage. 
 
 THE JUDGMENT
 
@@ -7034,14 +6851,7 @@ is right.
 above K'AN THE ABYSMAL, WATER
 below TUI THE JOYOUS, LAKE
 
-A lake occupies a limited space. When more water comes into it, it
-overflows. Therefore limits must be set for the water. The image shows
-water below and water above, with the firmament between them as a limit.
-The Chinese word for limitation really denotes the joints that divide
-a bamboo stalk. In relation to ordinary life it means the thrift that sets
-fixed limits upon expenditures. In relation to the moral sphere it means
-the fixed limits that the superior man sets upon his actions-the limits
-of loyalty and disinterestedness.
+A lake occupies a limited space. When more water comes into it, it overflows. Therefore limits must be set for the water. The image shows water below and water above, with the firmament between them as a limit. The Chinese word for limitation really denotes the joints that divide a bamboo stalk. In relation to ordinary life it means the thrift that sets fixed limits upon expenditures. In relation to the moral sphere it means the fixed limits that the superior man sets upon his actions-the limits of loyalty and disinterestedness.
 
 THE JUDGMENT
 
@@ -7176,20 +6986,7 @@ one's soul, which otherwise would succumb to irresolution and temptation.
 above SUN THE GENTLE, WIND
 below TUI THE JOYOUS, LAKE
 
-The wind blows over the lake and stirs the surface of the water. Thus
-visible effects of the invisible manifest themselves. The hexagram consists
-of firm lines above and below, while it is open in the center. This indicates
-a heart free of prejudices and therefore open to truth. On the other
-hand, each of the two trigrams has a firm line in the middle; this indicates
-the force of inner truth in the influences they present. The attributes
-of the two trigrams are: above, gentleness, forbearance toward inferiors;
-below, joyousness in obeying superiors. Such conditions create the basis
-of a mutual confidence that makes achievements possible. The character
-of fu ("truth") is actually the picture of a bird's foot over a fledgling.
-It suggests the idea of brooding. An egg is hollow. The light-giving power
-must work to quicken it from outside, but there must be a germ of life
-within, if life is to be awakened. Far-reaching speculations can be linked
-with these ideas.
+The wind blows over the lake and stirs the surface of the water. Thus visible effects of the invisible manifest themselves. The hexagram consists of firm lines above and below, while it is open in the center. This indicates a heart free of prejudices and therefore open to truth. On the other hand, each of the two trigrams has a firm line in the middle; this indicates the force of inner truth in the influences they present. The attributes of the two trigrams are: above, gentleness, forbearance toward inferiors; below, joyousness in obeying superiors. Such conditions create the basis of a mutual confidence that makes achievements possible. The character of fu ("truth") is actually the picture of a bird's foot over a fledgling. It suggests the idea of brooding. An egg is hollow. The light-giving power must work to quicken it from outside, but there must be a germ of life within, if life is to be awakened. Far-reaching speculations can be linked with these ideas.
 
 THE JUDGMENT
 
@@ -7349,23 +7146,7 @@ This may succeed now and then, but if persisted in, it will have bad consequence
 above CHêN THE AROUSING, THUNDER
 below KêN KEEPING STILL, MOUNTAIN
 
-While in the hexagram Ta Kuo, PREPONDERANCE OF THE GREAT 
-
-<a href="http://www2.unipr.it/~deyoung/I_Ching_Wilhelm_Translation.html#28">28</a>, the strong lines preponderate and are within,
-inclosed between weak lines at the top and bottom, the present hexagram
-has weak lines preponderating, though here again they are on the outside,
-the strong lines being within. This indeed is the basis of the exceptional
-situation indicated by the hexagram. When strong lines are outside, we
-have the hexagram I, PROVIDING NOURISHMENT 
-
-<a href="http://www2.unipr.it/~deyoung/I_Ching_Wilhelm_Translation.html#27">27</a>, or Chung Fu, INNER TRUTH, 
-
-<a href="http://www2.unipr.it/~deyoung/I_Ching_Wilhelm_Translation.html#61">61</a>; neither represents and exceptional state. When
-strong elements within preponderate, they necessarily enforce their will.
-This creates struggle and exceptional conditions in general. But in the
-present hexagram it is the weak element that perforce must mediate with
-the outside world. If a man occupies a position of authority for which
-he is by nature really inadequate, extraordinary prudence is necessary.
+While in the hexagram Ta Kuo, PREPONDERANCE OF THE GREAT <a href="http://www2.unipr.it/~deyoung/I_Ching_Wilhelm_Translation.html#28">28</a>, the strong lines preponderate and are within, inclosed between weak lines at the top and bottom, the present hexagram has weak lines preponderating, though here again they are on the outside, the strong lines being within. This indeed is the basis of the exceptional situation indicated by the hexagram. When strong lines are outside, we have the hexagram I, PROVIDING NOURISHMENT   <a href="http://www2.unipr.it/~deyoung/I_Ching_Wilhelm_Translation.html#27">27</a>, or Chung Fu, INNER TRUTH,   <a href="http://www2.unipr.it/~deyoung/I_Ching_Wilhelm_Translation.html#61">61</a>; neither represents and exceptional state. When strong elements within preponderate, they necessarily enforce their will. This creates struggle and exceptional conditions in general. But in the present hexagram it is the weak element that perforce must mediate with the outside world. If a man occupies a position of authority for which he is by nature really inadequate, extraordinary prudence is necessary.
 
 THE JUDGMENT
 
@@ -7527,20 +7308,8 @@ from the order of nature.
 above K'AN THE ABYSMAL, WATER
 below LI THE CLINGING, FIRE
 
-This hexagram is the evolution of T'ai PEACE 
+This hexagram is the evolution of T'ai PEACE   <a href="http://www2.unipr.it/~deyoung/I_Ching_Wilhelm_Translation.html#11">11</a>. The transition from confusion to order is completed, and everything is in its proper place even in particulars. The strong lines are in the strong places, the weak lines in the weak places. This is a very favorable outlook, yet it gives reason for thought. For it is just when perfect equilibrium has been reached that any movement may cause order to revert to disorder. The one strong line that has moved to the top, thus effecting complete order in details, is followed by the other lines. Each moving according to its nature, and thus suddenly there arises again the hexagram P'i, STANDSTILL   <a href="http://www2.unipr.it/~deyoung/I_Ching_Wilhelm_Translation.html#12">12</a>. Hence the present hexagram indicates the conditions of a time of climax, which necessitate the utmost caution.
 
-<a href="http://www2.unipr.it/~deyoung/I_Ching_Wilhelm_Translation.html#11">11</a>. The transition from confusion to order is completed,
-and everything is in its proper place even in particulars. The strong
-lines are in the strong places, the weak lines in the weak places. This
-is a very favorable outlook, yet it gives reason for thought. For it is
-just when perfect equilibrium has been reached that any movement may cause
-order to revert to disorder. The one strong line that has moved to the top,
-thus effecting complete order in details, is followed by the other lines.
-Each moving according to its nature, and thus suddenly there arises again
-the hexagram P'i, STANDSTILL 
-
-<a href="http://www2.unipr.it/~deyoung/I_Ching_Wilhelm_Translation.html#12">12</a>. Hence the present hexagram indicates the conditions
-of a time of climax, which necessitate the utmost caution.
 
 THE JUDGMENT
 
@@ -7694,14 +7463,8 @@ pausing, one falls a victim to this danger.
 above LI THE CLINGING, FLAME
 below K'AN THE ABYSMAL, WATER
 
-This hexagram indicates a time when the transition from disorder to
-order is not yet completed. The change is indeed prepared for, since
-all the lines in the upper trigram are in relation to those in the lower.
-However, they are not yet in their places. While the preceding hexagram
-offers an analogy to autumn, which forms the transition from summer to
-winter, this hexagram presents a parallel to spring, which leads out of
-winter's stagnation into the fruitful time of summer. With this hopeful
-outlook the Book of Changes come to its close.
+This hexagram indicates a time when the transition from disorder to order is not yet completed. The change is indeed prepared for, since all the lines in the upper trigram are in relation to those in the lower. However, they are not yet in their places. While the preceding hexagram offers an analogy to autumn, which forms the transition from summer to winter, this hexagram presents a parallel to spring, which leads out of winter's stagnation into the fruitful time of summer. With this hopeful outlook the Book of Changes come to its close.
+
 
 THE JUDGMENT
 

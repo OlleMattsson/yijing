@@ -32,22 +32,22 @@ define([
         
         var hexagram = new HexagramModel({id : kingWen});    
         
-        hexagram.on("change", function (model) {
+        hexagram.on("ready", function () {
           new HexagramView({ model: hexagram }).render()
 
 
-        Trigram.listenTo(TrigramCollection, 'reset', function(e){
-          // now the collection is available and we can do stuff
-          Trigram.render( TrigramCollection.get( hexagram.get("above") ), '#above' )
-          Trigram.render( TrigramCollection.get( hexagram.get("below") ), '#below' )  
+          Trigram.listenTo(TrigramCollection, 'reset', function(e){
+            // now the collection is available and we can do stuff
+            Trigram.render( TrigramCollection.get( hexagram.get("above") ), '#above' )
+            Trigram.render( TrigramCollection.get( hexagram.get("below") ), '#below' )  
 
-        }) 
+          }) 
 
-        // then load the actual collection that will trigger the listeners
-        TrigramCollection.load();
+          // then load the actual collection that will trigger the listeners
+          TrigramCollection.load();
 
 
-          $('#spinner').hide();
+            $('#spinner').hide();
         });
 
 
