@@ -20,7 +20,16 @@
             <div class="navbar-header">
               <a class="navbar-brand" href="#">QuJing</a>
             </div>
-              <ul class="navbar-nav navbar-right" style="margin-top: 30px;">
+              <ul class="navbar-nav navbar-right" 
+                style="
+                    margin-top: 30px;
+                    @media (min-width: 400px)
+                    .navbar-right {
+                        float: right !important;
+                        margin-right: -15px;
+                    }
+
+                    ">
                 <li><a href="#oracle">Oracle</a></li>
                 <li><a href="#yijing/1">Yi Jing</a></li>
                 <li><a href="#about">About</a></li>

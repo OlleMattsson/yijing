@@ -85,7 +85,7 @@ li {
 }
 
 .monogram {
-	display:inline;
+	display:block;
 	font-size:20em;
 	line-height:0px;
 	color:rgba(61, 61, 61, 1);
@@ -96,8 +96,22 @@ li {
 } 
 
 .line {
-	height:40px;
+	height:45px;
 	text-align: center;
+  
+}
+
+#HexagramBrowser .line {
+  display:block;
+  color:rgba(61, 61, 61, 1);
+  border: 0px solid black;
+}
+
+#HexagramBrowser .monogram {
+  display:inline-block;
+  font-size:20em;
+  line-height:0px;
+  color:rgba(61, 61, 61, 1);
 }
 
 .info {
@@ -147,15 +161,36 @@ li {
 @-webkit-keyframes sk-doubleBounce {
   0%, 100% {
     -webkit-transform: scale(0);
-            transform: scale(0); }
+            transform: scale(0); 
+  }
   50% {
     -webkit-transform: scale(1);
-            transform: scale(1); } }
+            transform: scale(1); 
+  } 
+}
 
 @keyframes sk-doubleBounce {
   0%, 100% {
     -webkit-transform: scale(0);
-            transform: scale(0); }
+            transform: scale(0); 
+  }
   50% {
     -webkit-transform: scale(1);
-            transform: scale(1); } }
+            transform: scale(1); 
+  } 
+}
+
+@media (min-width: 400px) {
+  .navbar-right {
+      float: right !important;
+      margin-right: -15px;
+  }
+
+  .navbar-nav > li {
+      float: left;
+  }
+
+  .navbar-header {
+    float: left;
+  }
+}

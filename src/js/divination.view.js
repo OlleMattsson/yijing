@@ -15,8 +15,8 @@ define([
 			render: function() {
 				this.$el.html( this.template );
 
-          		var bindings = { 
-          			"kingWenNow" : [{
+				var bindings = { 
+					"kingWenNow" : [{
 				        selector: '[name = "kingWenNow"]',
 				        elAttribute: "href",
 				        converter: this.hexagramLinkConverter

@@ -6,11 +6,12 @@ define([
   'DivinationView',
   'HexagramView',
   'HexagramModel',
-  'js/view.about',
+  'js/about/view.about',
   'js/app/app',
   'js/trigram/view.trigramList',
   'js/trigram/collection',
-  'js/trigram/view'
+  'js/trigram/view',
+  'HexagramBrowser'
 ], function(
   Backbone, 
   jq,
@@ -22,7 +23,8 @@ define([
   App, 
   TrigramList, 
   TrigramCollection,
-  Trigram
+  Trigram,
+  HexagramBrowser
   ){
   return Backbone.Router.extend({
     routes: {
@@ -35,22 +37,16 @@ define([
         hexagram.on("ready", function () {
           new HexagramView({ model: hexagram }).render()
 
-
           Trigram.listenTo(TrigramCollection, 'reset', function(e){
             // now the collection is available and we can do stuff
             Trigram.render( TrigramCollection.get( hexagram.get("above") ), '#above' )
             Trigram.render( TrigramCollection.get( hexagram.get("below") ), '#below' )  
-
           }) 
 
           // then load the actual collection that will trigger the listeners
           TrigramCollection.load();
-
-
-            $('#spinner').hide();
+          $('#spinner').hide();
         });
-
-
 
       },
 
@@ -75,6 +71,10 @@ define([
 
       },
 
+      'browser' : function() {
+        $('#spinner').hide();
+        HexagramBrowser.render();
+      },
 
         /*
          BAGUA PLAYGROUND FOR DEBUGGING

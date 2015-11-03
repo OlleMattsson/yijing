@@ -2,14 +2,6 @@
 require.config({
 	waitSeconds: 10,
 	paths: {
-		inputField : 'js/inputField',
-		inputFieldBind : 'js/inputField-bind',
-		iChing : 'js/view.hexagramList',
-		ModelBinder : 'bower_components/Backbone.ModelBinder/Backbone.ModelBinder.min',
-
-
-		//Trigram : 'js/trigram.model',
-
 		// libs
 		backbone : 'bower_components/backbone/backbone-min',
 		underscore : 'bower_components/underscore/underscore',
@@ -18,15 +10,24 @@ require.config({
 		text : 'bower_components/text/text',
 		bootstrap : 'bower_components/bootstrap/dist/js/boostrap.min',
 
-		// entrypoint
+		// app
 		app: 'js/app/app',
 		router : 'js/app/router',	
-		DivinationModel : 'js/divination.model',
-		DivinationView : 'js/divination.view',
-		HexagramModel : 'js/hexagram/model.hexagram',
-		HexagramCollection : 'js/collection.hexagrams',
-		HexagramView : 'js/hexagram/view.hexagram',	
 
+		DivinationModel : 'js/divination',
+		DivinationView : 'js/divination.view',
+
+		HexagramModel : 'js/hexagram/HexagramModel',
+		HexagramCollection : 'js/hexagram/HexagramCollection',
+		HexagramView : 'js/hexagram/HexagramView',	
+		HexagramBrowser : 'js/hexagram/HexagramBrowser',
+		iChing : 'js/hexagram/HexagramList',
+
+				//Trigram : 'js/trigram.model',
+
+		inputField : 'js/inputField',
+		inputFieldBind : 'js/inputField-bind',
+		ModelBinder : 'bower_components/Backbone.ModelBinder/Backbone.ModelBinder.min',
 	},
 	// shimming for all non AMD modules
 	shim : {
