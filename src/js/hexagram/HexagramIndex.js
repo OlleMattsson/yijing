@@ -18,8 +18,7 @@ var model = Backbone.Model.extend({
 
 		var hexagram = this.get("index"),
 			l = hexagram.length,
-			result = []
-			searchString = searchString || "3";
+			result = [];
 
 		for (var i = 0; i < l; i++ ) {
 			if (hexagram[i][0].indexOf(searchString) > -1) {
@@ -36,6 +35,18 @@ var model = Backbone.Model.extend({
 			}
 		}
 		return result;
+	},
+
+	searchKingWen : function(kingwen) {
+		var hexagram = this.get("index"),
+			l = hexagram.length,
+			result = [];
+
+		for (var i = 0; i < l; i++ ) {					
+			if (hexagram[i][1] == kingwen) {
+				return new HexagramModel( { id : this.fuxiToKingWen(i) });
+			}			
+		}
 	},
 
 	constructIndex : function(){

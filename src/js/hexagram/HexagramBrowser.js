@@ -6,6 +6,7 @@ define([
 	'text!templates/yin.svg',
 	'text!templates/yang.svg',
 	'js/hexagram/HexagramIndex',
+	'HexagramModel'
 ], function(
 	Backbone,
 	$,
@@ -13,7 +14,8 @@ define([
 	html,
 	yinSVG,
 	yangSVG,
-	HexagramIndex
+	HexagramIndex,
+	HexagramModel
 ){
 var ViewModel = Backbone.Model.extend({
 	defaults : {
@@ -99,20 +101,22 @@ var View = Backbone.View.extend({
 		this.model.on('change:line1 change:line2 change:line3 change:line4 change:line5 change:line6', 
 			this.renderSVG, this); //
 
+		/*
 		this.model.on('change:binaryHexagram', function(e, newValue){ 
 			console.log(newValue);
 		} , this);
-
-		this.model.on('change:FuXiNumber', function(){ console.log(this.model.get('FuXiNumber') ); }, this);
+		*/
+		// this.model.on('change:FuXiNumber', function(){ console.log(this.model.get('FuXiNumber') ); }, this);
 		
 		this.model.on('change:KingWenNumber', function(){ 
-			console.log(this.model.get('KingWenNumber') ); 
-
-			$("#searchField").html(  this.model.get('KingWenNumber') + '.'  );
+			var hex = new HexagramModel({id : this.model.get('KingWenNumber')  })
+			hex.on("ready", function(){
+				$("#searchField").html( '(' + hex.get("fuxi") + ') ' + hex.get('kingwen') + '. ' + hex.get("nameMan") + ' - ' + hex.get("nameEng"));	
+			});
 		}, this);
 
 		HexagramIndex.on("indexReady", function(){
-          console.log(HexagramIndex.get("index"))
+          //console.log(HexagramIndex.get("index"))
         })
 
 	},
