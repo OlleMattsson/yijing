@@ -112,10 +112,13 @@ var View = Backbone.View.extend({
 			var hex = new HexagramModel({id : this.model.get('KingWenNumber')  })
 			hex.on("ready", function(){
 				$("#searchField").html( '(' + hex.get("fuxi") + ') ' + hex.get('kingwen') + '. ' + hex.get("nameMan") + ' - ' + hex.get("nameEng"));	
+				$("#description").html(hex.get('description'))
+				$("#judgement").html(hex.get('judgement'))
+				$("#image").html(hex.get('image'))
 			});
 		}, this);
 
-		HexagramIndex.on("indexReady", function(){
+		HexagramIndex.on("change:index", function(){
           //console.log(HexagramIndex.get("index"))
         })
 
