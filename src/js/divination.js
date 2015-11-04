@@ -29,13 +29,13 @@ define([
 
 					this.makeFutureHexagram();
 
-					this.convertToBinarySequence(this.nowSequence, this.binaryNowSequence);
-					this.set('fuXiNow', parseInt(this.binaryNowSequence.join(''), 2) ); 
-					this.set('kingWenNow',this.binaryToKingWen(this.binaryNowSequence) );
+					this.convertToBinarySequence(  this.nowSequence,  this.binaryNowSequence  );
+					this.set( 'fuXiNow',  parseInt(  this.binaryNowSequence.join('')  ,2)); 
+					this.set( 'kingWenNow',  this.binaryToKingWen(   this.binaryNowSequence   ));
 
-					this.convertToBinarySequence(this.futureSequence, this.binaryFutureSequence);
-					this.set('fuXiFuture', parseInt(this.binaryFutureSequence.join(''), 2) );
-					this.set('kingWenFuture', this.binaryToKingWen(this.binaryFutureSequence) );
+					this.convertToBinarySequence(  this.futureSequence,  this.binaryFutureSequence);
+					this.set( 'fuXiFuture',  parseInt(  this.binaryFutureSequence.join('')  ,2));
+					this.set( 'kingWenFuture',  this.binaryToKingWen(  this.binaryFutureSequence ));
 				
 
 					

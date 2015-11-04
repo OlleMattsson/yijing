@@ -5,15 +5,15 @@ define([
 	'text!templates/HexagramBrowser.html',
 	'text!templates/yin.svg',
 	'text!templates/yang.svg',
-
+	'js/hexagram/HexagramIndex',
 ], function(
 	Backbone,
 	$,
 	Handlebars,
 	html,
 	yinSVG,
-	yangSVG
-
+	yangSVG,
+	HexagramIndex
 ){
 var ViewModel = Backbone.Model.extend({
 	defaults : {
@@ -29,15 +29,14 @@ var ViewModel = Backbone.Model.extend({
 		KingWenNumber : ''		
 	},
 	initialize : function(){
+		/* 
+			INTERNAL MODEL EVENTS
+		*/
 		this.on('change:line1 change:line2 change:line3 change:line4 change:line5 change:line6', 
 			function(){
 				this.set('binaryHexagram', this.makeBinaryHexagram() );
 				this.set('FuXiNumber', parseInt(   this.get('binaryHexagram').join('')   , 2));
 				this.set('KingWenNumber', this.binaryToKingWen(   this.get('binaryHexagram')   ));
-
-				console.log(this.get('binaryHexagram') );
-				console.log("Fu Xi: " + this.get('FuXiNumber'));
-				console.log("King Wen: " + this.get('KingWenNumber'));
 			}, this);
 	},
 	toggleLineState : function(line){
@@ -77,20 +76,50 @@ var View = Backbone.View.extend({
 	template: Handlebars.compile( html ),
 	tagName: 'div', 
 	model : new ViewModel(),
+	$searchField : $('#searchField'),
 
+	/* 
+		DOM EVENTS 
+	*/
 	events : {
 		"click .line" : function(e) {
 			this.model.toggleLineState(e.currentTarget.dataset.line);
 		},
+		"keyup #searchField" : function(e) {
+			console.log(  HexagramIndex.search(  $('#searchField').html()  ));
+		}
 	},
 
+
 	initialize : function(){
+	/* 
+		MODEL EVENTS 
+	*/
+		
 		this.model.on('change:line1 change:line2 change:line3 change:line4 change:line5 change:line6', 
-			this.renderSVG, this); 
+			this.renderSVG, this); //
+
+		this.model.on('change:binaryHexagram', function(e, newValue){ 
+			console.log(newValue);
+		} , this);
+
+		this.model.on('change:FuXiNumber', function(){ console.log(this.model.get('FuXiNumber') ); }, this);
+		
+		this.model.on('change:KingWenNumber', function(){ 
+			console.log(this.model.get('KingWenNumber') ); 
+
+			$("#searchField").html(  this.model.get('KingWenNumber') + '.'  );
+		}, this);
+
+		HexagramIndex.on("indexReady", function(){
+          console.log(HexagramIndex.get("index"))
+        })
+
 	},
 
 	render : function() {
 		this.$el.html( this.template( ) );
+
 		$('#HexagramBrowser-Lines .line').each(function(key, val){
 			$(this).html(yinSVG);
 		})
@@ -126,4 +155,5 @@ var View = Backbone.View.extend({
 });
 
 return new View();
+
 })

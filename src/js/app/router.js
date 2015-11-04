@@ -11,7 +11,8 @@ define([
   'js/trigram/view.trigramList',
   'js/trigram/collection',
   'js/trigram/view',
-  'HexagramBrowser'
+  'HexagramBrowser',
+  //'js/hexagram/HexagramIndex'
 ], function(
   Backbone, 
   jq,
@@ -25,6 +26,7 @@ define([
   TrigramCollection,
   Trigram,
   HexagramBrowser
+  //HexagramIndex
   ){
   return Backbone.Router.extend({
     routes: {
@@ -74,6 +76,14 @@ define([
       'browser' : function() {
         $('#spinner').hide();
         HexagramBrowser.render();
+      },
+
+      'search/:query' : function(query) {
+        $('#spinner').hide();
+
+
+
+
       },
 
         /*
