@@ -6,14 +6,26 @@ define([
 	HexagramModel
 ){
 var model = Backbone.Model.extend({
+
+defaults : {
+	index : [],
+	autocompleteIndex : []
+},
+
 	initialize : function (){
 		// create an index
-		this.constructIndex()
+		//this.constructIndex()
+		this.constructAutocompleteIndex()
 
 		this.on('change:index', function() {
 			// do something that needs the index
-
+			console.log(  this.get("index")  );
 		});
+
+		this.on('change:autocompleteIndex', function() {
+			// do something that needs the index
+			console.log(  "autocompleteIndex ready" );
+		});		
 	},
 
 	search : function(searchString) {
@@ -72,6 +84,7 @@ var model = Backbone.Model.extend({
 
     	this.on("HexagramData-Ready", function(){
 	    	for (var j = 0; j < 64; j++ ) {
+	    		console.log(hexagramData[j])
 	    		index.push([
 	    			hexagramData[j].get('fuxi'), 
 	    			hexagramData[j].get('kingwen'), 
@@ -83,9 +96,37 @@ var model = Backbone.Model.extend({
     	});
 	},
 
-	constructHexagramCollection : function () {
-		
-	}
+	constructAutocompleteIndex : function () {
+		var index = [],
+			hexagramData = [],
+			counter = 0;
+
+		for (var i = 0; i < 64; i++){
+			var current = new HexagramModel({id : this.fuxiToKingWen(i)});
+			hexagramData.push(  current  );
+    	}
+
+    	current.on("ready", function () {
+    		counter++;
+    		if (counter == 64) {
+    			this.set("hexagramData", hexagramData);
+    			this.trigger("HexagramData-Ready")
+    		}
+    	}, this);
+
+    	this.on("HexagramData-Ready", function(){
+	    	for (var j = 0; j < 64; j++ ) {
+	    		index.push({
+	    			"name" : 
+	    			hexagramData[j].get('fuxi') + ' ' +
+	    			hexagramData[j].get('kingwen') + ' ' +
+	    			hexagramData[j].get('nameMan').toLowerCase() + ' ' +
+	    			hexagramData[j].get('nameEng').toLowerCase()
+	    		});
+	    	}
+	    	this.set("autocompleteIndex", index)
+    	});		
+	},
 
 	fuxiToKingWen : function (fuxi) { // sourceArray: [0,0,0,0,0,0]
 		var kingWenSequence = [2, 23,  8, 20, 16, 35, 45, 12, 15, 52, 39, 53, 62, 56, 31, 33, 7,  4, 29, 59, 40, 64, 47,  6, 46, 18, 48, 57, 32, 50, 28, 44, 24, 27,  3, 42, 51, 21, 17, 25, 36, 22, 63, 37, 55, 30, 49, 13, 19, 41, 60, 61, 54, 38, 58, 10, 11, 26,  5,  9, 34, 14, 43,  1];

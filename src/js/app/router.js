@@ -12,7 +12,8 @@ define([
   'js/trigram/collection',
   'js/trigram/view',
   'HexagramBrowser',
-  //'js/hexagram/HexagramIndex'
+  'js/hexagram/HexagramIndex',
+  'js/backbone.autocomplete.js'
 ], function(
   Backbone, 
   jq,
@@ -25,8 +26,9 @@ define([
   TrigramList, 
   TrigramCollection,
   Trigram,
-  HexagramBrowser
-  //HexagramIndex
+  HexagramBrowser,
+  HexagramIndex,
+  AutoCompleteView
   ){
   return Backbone.Router.extend({
     routes: {
@@ -113,6 +115,45 @@ define([
       this.on('route:defaultAction', function(actions){
         App.start()
         $('#spinner').hide();
+
+
+
+
+    HexagramIndex.on('change:autocompleteIndex', function() {
+      // do something that needs the index
+      console.log(  HexagramIndex.get("autocompleteIndex") );
+      
+
+
+        var Plugin = Backbone.Model.extend({
+          label: function () {
+              return this.get("name");
+          }
+        });
+
+        var PluginCollection = Backbone.Collection.extend({
+          model: Plugin
+        });
+
+        var plugins = new PluginCollection(
+          HexagramIndex.get("autocompleteIndex")
+        );
+
+        console.log(  plugins );
+
+        new AutoCompleteView({
+          input: $("#plugin"),
+          model: plugins,
+          onSelect: function (model) {
+              console.log(model);
+              $("#selected").show().find("p").html(model.label());
+          }
+        }).render();
+
+    }); 
+
+
+
       });
 
       this.on('url-changed', function(actions){
