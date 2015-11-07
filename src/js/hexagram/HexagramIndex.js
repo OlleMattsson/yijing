@@ -9,7 +9,8 @@ var model = Backbone.Model.extend({
 
 defaults : {
 	index : [],
-	autocompleteIndex : []
+	autocompleteIndex : [],
+	done : false
 },
 
 	initialize : function (){
@@ -24,7 +25,8 @@ defaults : {
 
 		this.on('change:autocompleteIndex', function() {
 			// do something that needs the index
-			console.log(  "autocompleteIndex ready" );
+			console.log(  "change:autocompleteIndex" );
+			this.set('done', true)
 		});		
 	},
 
@@ -117,11 +119,12 @@ defaults : {
     	this.on("HexagramData-Ready", function(){
 	    	for (var j = 0; j < 64; j++ ) {
 	    		index.push({
-	    			"name" : 
+	    			"label" : 
 	    			hexagramData[j].get('fuxi') + ' ' +
 	    			hexagramData[j].get('kingwen') + ' ' +
 	    			hexagramData[j].get('nameMan').toLowerCase() + ' ' +
-	    			hexagramData[j].get('nameEng').toLowerCase()
+	    			hexagramData[j].get('nameEng').toLowerCase(),
+	    			"fuxi" : hexagramData[j].get('fuxi')
 	    		});
 	    	}
 	    	this.set("autocompleteIndex", index)

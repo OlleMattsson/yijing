@@ -76,8 +76,47 @@ define([
       },
 
       'browser' : function() {
+
         $('#spinner').hide();
+
         HexagramBrowser.render();
+
+        HexagramIndex.on('change:autocompleteIndex', function() {
+          // AutoCompleteView needs collection of models that it searches through
+            var collection = Backbone.Collection.extend();
+        
+            var acv = new AutoCompleteView({
+              input: $("#searchField"),
+              // we set the model of AutoCompleteView to be our recently defined collection
+              // as that collection is constructed, it uses the autoCompleteIndex as it's data source
+              // Backbone is smart enough to use each autocompleteIndex[ {Oject} ] as a data source 
+              // for the models in our Backbone collection. Such amaze!
+              model: new collection( HexagramIndex.get("autocompleteIndex") ),
+              
+              // this is callback function for the onSelect event
+              onSelect: function (selectedModel) {
+                  $("#selected").show().find("p").html( selectedModel.get("label") );
+                  HexagramBrowser.model.set("binaryHexagram", HexagramBrowser.model.fuxiToBinary( selectedModel.get("fuxi")  ));
+                  HexagramBrowser.trigger('change:binaryHexagram');
+              }
+            })
+            // we set up this extra event to be triggered once AutoCompleteView is done initing
+            .on('updateDOM', function() {
+              HexagramBrowser.updateDOM() // loads texts
+            })
+            .render();        
+        });
+
+        // sometimes the change:autocompleteIndex index gets fired before the event is triggered
+        // in that case we trigger it again
+        if (HexagramIndex && HexagramIndex.get("done") == true) {
+          console.log("Event fired before listener was defined. Triggering event change:autocompleteIndex again.")
+          HexagramIndex.trigger('change:autocompleteIndex');
+        }
+
+
+
+
       },
 
       'search/:query' : function(query) {
@@ -111,49 +150,16 @@ define([
     },
 
     initialize: function(options){
-      // listen to defaultAction event
+
+      
       this.on('route:defaultAction', function(actions){
+
+        // DEFAULT LANDING PAGE (first thing the user sees =)
         App.start()
         $('#spinner').hide();
 
 
-
-
-    HexagramIndex.on('change:autocompleteIndex', function() {
-      // do something that needs the index
-      console.log(  HexagramIndex.get("autocompleteIndex") );
-      
-
-
-        var Plugin = Backbone.Model.extend({
-          label: function () {
-              return this.get("name");
-          }
-        });
-
-        var PluginCollection = Backbone.Collection.extend({
-          model: Plugin
-        });
-
-        var plugins = new PluginCollection(
-          HexagramIndex.get("autocompleteIndex")
-        );
-
-        console.log(  plugins );
-
-        new AutoCompleteView({
-          input: $("#plugin"),
-          model: plugins,
-          onSelect: function (model) {
-              console.log(model);
-              $("#selected").show().find("p").html(model.label());
-          }
-        }).render();
-
-    }); 
-
-
-
+ 
       });
 
       this.on('url-changed', function(actions){

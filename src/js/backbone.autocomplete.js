@@ -15,8 +15,9 @@ var AutoCompleteItemView = Backbone.View.extend({
     },
 
     render: function () {
+        //console.log(this.model.get("label"))
         this.$el.html(this.template({
-            "label": this.highlight(this.model.label())
+            "label": this.highlight(this.model.get("label"))
         }));
         return this;
     },
@@ -60,6 +61,9 @@ var AutoCompleteView = Backbone.View.extend({
     initialize: function (options) {
         _.extend(this, options);
         this.filter = _.debounce(this.filter, this.wait);
+        console.log('autocomplete init()')
+        
+
     },
 
     render: function () {
@@ -75,6 +79,7 @@ var AutoCompleteView = Backbone.View.extend({
             .blur($.proxy(this.blur, this))
         ;
 
+        this.trigger('updateDOM');
         return this;
     },
 
@@ -90,7 +95,7 @@ var AutoCompleteView = Backbone.View.extend({
     },
 
     keyup: function () {
-        var keyword = this.input.val();
+        var keyword = this.input.html();
         if (this.isChanged(keyword)) {
             if (this.isValid(keyword)) {
                 this.filter(keyword);
@@ -121,7 +126,7 @@ var AutoCompleteView = Backbone.View.extend({
 
         } else {
             this.loadResult(this.model.filter(function (model) {
-                return model.label().toLowerCase().indexOf(keyword) !== -1
+                return model.get("label").toLowerCase().indexOf(keyword) !== -1
             }), keyword);
         }
     },
@@ -168,8 +173,8 @@ var AutoCompleteView = Backbone.View.extend({
     },
 
     select: function (model) {
-        var label = model.label();
-        this.input.val(label);
+        var label = model.get("label") ;
+        this.input.html(label);
         this.currentText = label;
         this.onSelect(model);
     },
