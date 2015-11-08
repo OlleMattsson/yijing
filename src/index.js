@@ -9,6 +9,8 @@ require.config({
 		jquery : 'bower_components/jquery/dist/jquery.min',
 		text : 'bower_components/text/text',
 		bootstrap : 'bower_components/bootstrap/dist/js/boostrap.min',
+		AutoCompleteView :'js/backbone.autocomplete',
+
 
 		// app
 		app: 'js/app/app',

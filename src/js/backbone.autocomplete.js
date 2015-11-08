@@ -62,7 +62,7 @@ var AutoCompleteView = Backbone.View.extend({
         _.extend(this, options);
         this.filter = _.debounce(this.filter, this.wait);
         console.log('autocomplete init()')
-        
+
 
     },
 
@@ -79,7 +79,7 @@ var AutoCompleteView = Backbone.View.extend({
             .blur($.proxy(this.blur, this))
         ;
 
-        this.trigger('updateDOM');
+        this.trigger('render-done');
         return this;
     },
 
