@@ -61,9 +61,6 @@ var AutoCompleteView = Backbone.View.extend({
     initialize: function (options) {
         _.extend(this, options);
         this.filter = _.debounce(this.filter, this.wait);
-        console.log('autocomplete init()')
-
-
     },
 
     render: function () {

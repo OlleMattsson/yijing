@@ -150,9 +150,6 @@ var View = Backbone.View.extend({
 
 
 		this.model.on('change:index', function() {
-			console.log("")
-
-			//view.render();
 		});	
 
 
@@ -187,8 +184,6 @@ var View = Backbone.View.extend({
 	        .render();
 
         });
-
-		console.log(  this.model.get("indexReady")  )
 
         if (this.model.get("indexReady") == true) {
           console.log("Event fired before listener was defined. Triggering event change:autocompleteIndex again.")
