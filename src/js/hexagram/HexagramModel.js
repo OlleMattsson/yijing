@@ -9,7 +9,7 @@ define([
 				this.fetch({
 					dataType: 'json', 	// very important!
 				    reset: true,		// triggers "reset" event when fetch is done
-					error : function(model, res, options) { console.log("HexagramModel.fetch() ERROR:", model, res)},
+					error : function(model, res, options) { console.log("HexagramModel.fetch("+this.url+") ERROR:", model, res)},
 					complete : function(){
 						model.trigger("ready");
 					}

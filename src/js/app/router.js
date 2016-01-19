@@ -1,4 +1,3 @@
-// essentially a controller
 define([
   'backbone',
   'jquery',
@@ -32,10 +31,22 @@ define([
   ){
   return Backbone.Router.extend({
     routes: {
-      'yijing/:kingWen': function(kingWen){
+      'yijing(/:kingWen)': function(kingWen){
         $('#spinner').show();
+
+        Yijing.Views.HexagramBrowser = HexagramBrowser;
+
+        if (kingWen) {
+          console.log(kingWen)
+          var arr = Yijing.Views.HexagramBrowser.model.kingWenToBinary( kingWen );
+          Yijing.Views.HexagramBrowser.model.set('binaryHexagram', arr );
+        } 
+
+        Yijing.Views.HexagramBrowser.render();
+
+        $('#spinner').hide();
       
-        
+        /*
         var hexagram = new HexagramModel({id : kingWen});    
         
         hexagram.on("ready", function () {
@@ -51,6 +62,7 @@ define([
           TrigramCollection.load();
           $('#spinner').hide();
         });
+        */
 
       },
 
@@ -74,15 +86,15 @@ define([
         About.render()
 
       },
-
-      'browser' : function() {
+/*
+      'browser/:kingWen' : function() {
 
         $('#spinner').hide();
 
-        HexagramBrowser.render();
+        
 
       },
-
+*/
         /*
          BAGUA PLAYGROUND FOR DEBUGGING
         */

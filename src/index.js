@@ -54,6 +54,13 @@ require.config({
 
 // Start the application 
 require(['router'], function(Router){
+
+	window.Yijing = {
+		Models : {},
+		Collection : {},
+		Views : {}
+	};
+
       new Router();
       Backbone.history.start(); // {pushState: true}
 });

@@ -38,7 +38,7 @@ var ViewModel = Backbone.Model.extend({
 		this.constructIndex();					
 	},
 
-	constructIndex : function () {
+	constructIndex : function () {  // <- should be collection instead
 
 
 		var index = [],
@@ -66,8 +66,10 @@ var ViewModel = Backbone.Model.extend({
 	    			
 	    			hexagramData[j].get('kingwen') + '. ' +
 	    			hexagramData[j].get('nameMan') + ' - ' +
-	    			hexagramData[j].get('nameEng') + ' ('+
-					hexagramData[j].get('fuxi') + ')'
+	    			hexagramData[j].get('nameEng') 
+	    			
+	    			// + ' ('+ hexagramData[j].get('fuxi') + ')'
+	    			
 	    			,
 	    			"fuxi" : hexagramData[j].get('fuxi')
 	    		});
@@ -88,7 +90,7 @@ var ViewModel = Backbone.Model.extend({
 		this.trigger('change:binaryHexagram') // must be done manually
 	},
 
-	fuxiToBinary : function(fuxi) { //eg. 8 -> [0,0,1,0,0,0]
+	fuxiToBinary : function(fuxi) { //eg. 3 -> [0,0,0,0,1,1]
 		var bin = "",
 			arr = [],
 		  	length = 6
@@ -101,15 +103,31 @@ var ViewModel = Backbone.Model.extend({
 		return arr;	
 	},	
 
+	kingWenToBinary : function(kingWen) { //eg. 3 -> [1,0,0,0,1,0]
+		var bin = "", 
+			arr = [],
+		  	length = 6,
+			kingWenSequence = [2, 23, 8, 20, 16, 35, 45, 12, 15, 52, 39, 53, 62, 56, 31, 33, 7, 4, 29, 59, 40, 64, 47,  6,	46, 18, 48, 57, 32, 50, 28, 44, 24, 27,  3, 42, 51, 21, 17, 25,	36, 22, 63, 37, 55, 30, 49, 13, 19, 41, 60, 61, 54, 38, 58, 10,	11, 26,  5,  9, 34, 14, 43,  1],
+			fuxi = kingWenSequence.indexOf(parseInt(kingWen));
+		
+		while(length--) {
+			bin += (fuxi >> length ) & 1;    
+		}
+
+		arr = bin.split("");
+		return arr;	
+	},		
+
 	binaryToKingWen : function (source) { // source: arr[0,0,0,0,0,0]  OR int 0 - 63
 		var kingWenSequence = [2, 23, 8, 20, 16, 35, 45, 12, 15, 52, 39, 53, 62, 56, 31, 33, 7, 4, 29, 59, 40, 64, 47,  6,	46, 18, 48, 57, 32, 50, 28, 44, 24, 27,  3, 42, 51, 21, 17, 25,	36, 22, 63, 37, 55, 30, 49, 13, 19, 41, 60, 61, 54, 38, 58, 10,	11, 26,  5,  9, 34, 14, 43,  1];
-
 		if( source && source.length == 6 ) {
 			return kingWenSequence[ parseInt(source.join(''), 2) ];	
 		} else {
 			return kingWenSequence[ source ];
 		}
-	}
+	},
+
+
 });
 
 
@@ -126,34 +144,33 @@ var View = Backbone.View.extend({
 	tagName: 'div', 
 	model : new ViewModel(),
 	$searchField : $('#searchField'),
-
-	/* 
-		DOM EVENTS 
-	*/
+	autocomplete : null,
 	events : {
 		"click .line" : function(e) {
 			this.model.toggleLineState(e.currentTarget.dataset.line); // update binaryHexagram
 		},
 		"focus #searchField" : function() {
 			this.SelectText('searchField');
-		}
+		},
+		"click #next" : function () {
+			current = parseInt(this.model.get('KingWenNumber'));
+			next = current < 64 ? current + 1 : 1;
+			this.model.set('binaryHexagram', this.model.kingWenToBinary(  (next)  ));
+		},
+		"click #previous" : function () {
+			current = parseInt(this.model.get('KingWenNumber'));
+			next = current > 1 ? current - 1 : 64; 
+			this.model.set('binaryHexagram', this.model.kingWenToBinary( next ));
+		},
 	},
-
 	initialize : function(){
-		
-		view = this;
-
+		console.log("first");
 		this.model.on('change:binaryHexagram', function(e, newValue){ 
-			this.renderSVGfromModel();
+			console.log("change:binaryHexagram")
 			this.updateDOM();
+			//this.renderSVGfromModel();
+			
 		} , this);
-
-
-		this.model.on('change:index', function() {
-		});	
-
-
-
 	},
 
 	render : function() {
@@ -162,13 +179,18 @@ var View = Backbone.View.extend({
 
 		this.$el.html( this.template( ) );
 
+		/*
 		$('#HexagramBrowser-Lines .line').each(function(key, val){
 			$(this).html(yinSVG);
 		})
+		*/
+
+		this.renderSVGfromModel();
+
 
         this.model.on('change:index', function() {
 
-	        new AutoCompleteView({
+	        browserView.autocomplete = new AutoCompleteView({
 	          input: $("#searchField"),
 	          model: new collection( browserView.model.get("index") ),
 
@@ -179,14 +201,14 @@ var View = Backbone.View.extend({
 	          }
 	        })
 	        .on('render-done', function() {
-	          browserView.updateDOM()
+	          //browserView.updateDOM()
 	        })
 	        .render();
 
         });
 
         if (this.model.get("indexReady") == true) {
-          console.log("Event fired before listener was defined. Triggering event change:autocompleteIndex again.")
+          console.log("change:index event fired before this.model.on('change:index') listener was ready. Triggering event change:autocompleteIndex again.")
           this.model.trigger('change:index');
         }        
 
@@ -194,12 +216,28 @@ var View = Backbone.View.extend({
 	},
 
 	updateDOM : function() {
-		var hex = new HexagramModel({id : this.model.get('KingWenNumber')  })
+		var hex = new HexagramModel({id : this.model.get('KingWenNumber')  }),
+			browserView = this;
 		hex.on("ready", function(){
-			$("#searchField").html( hex.get('kingwen') + '. ' + hex.get("nameMan") + ' - ' + hex.get("nameEng") + ' (' + hex.get("fuxi") + ')');	
+			
+			 // + ' (' + hex.get("fuxi") + ')'
+				
+
+			//console.log( hex );
+
+			browserView.$el.html( browserView.template( hex.toJSON() ) );
+
+			browserView.renderSVGfromModel();
+
+			$("#searchField").html( hex.get('kingwen') + '. ' + hex.get("nameMan") + ' - ' + hex.get("nameEng")
+			);
+
+			browserView.autocomplete.render();
+			/*
 			$("#description").html(hex.get('description'))
 			$("#judgement").html(hex.get('judgement'))
 			$("#image").html(hex.get('image'))
+			*/
 		});		
 	},	
 
