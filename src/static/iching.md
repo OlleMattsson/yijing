@@ -2815,46 +2815,19 @@ The curtain is of such fullness\n That the polestars can be seen at noon.\n Thro
 
 Nine in the third place means:
 
-The underbrush is of such abundance\n That the small stars can be seen at noon.\n He breaks his right arm . No blame.\n \n The image is that of a progressive covering over of the sun. Here the eclipse reaches totality, therefore even the small stars can be seen at noon. In the sphere of social relationships, this means that the prince is now so eclipsed that even the most insignificant persons can push themselves into the foreground. This makes it impossible for an able man, though he might be the right hand of the ruler, to undertake anything. It is as though his arm were broken, but he is not to blame for being thus hindered
-in action.
+The underbrush is of such abundance\n That the small stars can be seen at noon.\n He breaks his right arm . No blame.\n \n The image is that of a progressive covering over of the sun. Here the eclipse reaches totality, therefore even the small stars can be seen at noon. In the sphere of social relationships, this means that the prince is now so eclipsed that even the most insignificant persons can push themselves into the foreground. This makes it impossible for an able man, though he might be the right hand of the ruler, to undertake anything. It is as though his arm were broken, but he is not to blame for being thus hindered in action.
 
 Nine in the fourth place means:
 
-The curtain is of such fullness\n
-That the polestars can be seen at noon.\n
-He meets his ruler, who is of like kind.\n
-Good fortune.\n
-\n
-Here the darkness is already decreasing, therefore interrelated elements
-come together. Here too the complement must be found-the necessary wisdom
-to complement joy of action. Then everything will go well. The complementary
-factor postulated here is the reverse of the one in the first line. In
-the latter, wisdom is to be complemented by energy, while here energy
-is complemented by wisdom.
+The curtain is of such fullness\n That the polestars can be seen at noon.\n He meets his ruler, who is of like kind.\n Good fortune.\n \n Here the darkness is already decreasing, therefore interrelated elements come together. Here too the complement must be found-the necessary wisdom to complement joy of action. Then everything will go well. The complementary factor postulated here is the reverse of the one in the first line. In the latter, wisdom is to be complemented by energy, while here energy is complemented by wisdom.
 
 Six in the fifth place means:
 
-Lines are coming,\n
-Blessing and fame draw near.\n
-Good fortune.\n
-\n
-The ruler is modest and therefore open to the counsel of able men.
-Thus he is surrounded by men who suggest to him the lines of action.
-This brings blessing, fame, and good fortune to him and all the people.
+Lines are coming,\n Blessing and fame draw near.\n Good fortune.\n \n The ruler is modest and therefore open to the counsel of able men. Thus he is surrounded by men who suggest to him the lines of action. This brings blessing, fame, and good fortune to him and all the people.
 
 Six at the top means:
 
-His house is in a state of abundance.\n
-He screens off his family.\n
-He peers through the gate\n
-And no longer perceives anyone.\n
-For three years he sees nothing.\n
-Misfortune.\n
-\n
-This describes a man who because of his arrogance and obstinacy attains
-the opposite of what he strives for. He seeks abundance and splendor
-for his dwelling. He wishes at all odds to be master in his house, which
-so alienates his family that in the end he finds himself completely isolated.
+His house is in a state of abundance.\n He screens off his family.\n He peers through the gate\n And no longer perceives anyone.\n For three years he sees nothing.\n Misfortune.\n \n This describes a man who because of his arrogance and obstinacy attains the opposite of what he strives for. He seeks abundance and splendor for his dwelling. He wishes at all odds to be master in his house, which so alienates his family that in the end he finds himself completely isolated.
 
 
 
@@ -2864,7 +2837,10 @@ so alienates his family that in the end he finds himself completely isolated.
 above LI THE CLINGING, FIRE
 below KêN KEEPING STILL, MOUNTAIN
 
-the mountain, Kên, stands still; above it fire, Li, flames up and does not tarry. Therefore the two trigrams do not stay together. Strange lands and separation are the wanderer's lot. When a man is a wanderer and stranger, he should not be gruff nor overbearing. He has no large circle of acquaintances, therefore he should not give himself airs. He must be cautious and reserved; in this way he protects himself from evil. If he is obliging toward others, he wins success. A wanderer has no fixed abode; his home is the road. Therefore he must take care to remain upright and steadfast, so that he sojourns only in the proper places, associating only with good people. Then he has good fortune and can go his way unmolested.
+the mountain, Kên, stands still; above it fire, Li, flames up and does not tarry. Therefore the two trigrams do not stay together. Strange lands and separation are the wanderer's lot. 
+
+JUDGEMENT
+When a man is a wanderer and stranger, he should not be gruff nor overbearing. He has no large circle of acquaintances, therefore he should not give himself airs. He must be cautious and reserved; in this way he protects himself from evil. If he is obliging toward others, he wins success. A wanderer has no fixed abode; his home is the road. Therefore he must take care to remain upright and steadfast, so that he sojourns only in the proper places, associating only with good people. Then he has good fortune and can go his way unmolested.
 
 THE IMAGE
 
