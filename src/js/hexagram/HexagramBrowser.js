@@ -37,7 +37,9 @@ var ViewModel = Backbone.Model.extend({
 	},
 
 	constructIndex : function () {  // <- should be collection instead		
-		var index = [];		
+		var index = [],
+			self = this;
+
     	yj.App.hexCollectionPromise().then( function (collection) {    		
     		for (var i in collection.models) {
 				index.push({
@@ -50,7 +52,7 @@ var ViewModel = Backbone.Model.extend({
 	    			"fuxi" : collection.models[i].get('fuxi')
 	    		});
     		}
-    		this.set("index", index);
+    		self.set("index", index);
     	});
 	},	
 
@@ -102,12 +104,13 @@ var ViewModel = Backbone.Model.extend({
 	},
 
 	indexPromise : function () {
+		var self = this;
 		return new Promise( function (resolve,reject) {
-				if ( this.get("indexReady") ) {
-					resolve ( this.get("index") );
+				if ( self.get("indexReady") ) {
+					resolve ( self.get("index") );
 				} else {
-					this.on('change:index', function () {
-						resolve ( this.get("index") );
+					self.on('change:index', function () {
+						resolve ( self.get("index") );
 					}); 
 				}
 		});
@@ -178,9 +181,9 @@ var View = Backbone.View.extend({
 		var browserView = this;
 
 		yj.App.hexPromise( this.model.get('KingWenNumber')  ).then( function (hex) {
-			this.$el.html( this.template( ) );
-			this.renderSVGfromModel();
-			this.$el.append( browserView.infotemplate( hex.toJSON() ) );
+			browserView.$el.html( browserView.template( ) );
+			browserView.renderSVGfromModel();
+			browserView.$el.append( browserView.infotemplate( hex.toJSON() ) );
 			$("#searchField").html( hex.get('kingwen') + '. ' + hex.get("nameMan") + ' - ' + hex.get("nameEng") );
 			//$("#searchField").focus().val( $("#searchField").val() );
 			return;
