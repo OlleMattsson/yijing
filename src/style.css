@@ -131,6 +131,14 @@ li {
     padding-bottom:10px;
 }
 
+input:focus {
+    outline-width: 0;
+}
+
+[contenteditable="true"]:focus {
+    outline: none;
+}
+
 /* SPINNER */
 
 #spinner {

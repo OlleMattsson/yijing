@@ -1,10 +1,8 @@
 define([
 'backbone',
 'handlebars',
-'HexagramCollection',
-'HexagramView',
 'text!templates/about.html'
-], function(Backbone, Handlebars, HexagramCollection, HexagramView, templateHTML){
+], function(Backbone, Handlebars, templateHTML){
 	var model = Backbone.Model.extend({
 			// for translation
 			defaults : {

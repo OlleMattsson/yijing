@@ -18,33 +18,22 @@ served at localhost:8000
 
 1.0
 
-I want to easily go from one hexagram to the next
-- listen to keydown events from left and right arrows
+UIX
+    Mobilefriendlyness
+    Publishable about text
+    Footer
+    Faster loading
+    
+Technical
+    - Client side caching
+    - React (NTH)
 
-I want oracle links to point to new browser
- - browser view routes 
-
-Smarter loading
-
-Production code, at least
- - produciton branch with clean code
+Production code, at least 
+ - production branch with clean code
  - development branch for experimentals 
  - r.js optimizer
-
-Publishable about text
-
-Client side caching
-
+ 
 Deploy to OVH (easy)
-
-Mobilefriendlyness
-
-UX
-
-Promise pattern
-
-React
-
 
 EXTRA CREDITS: 
 Deploy 1.0 on local network

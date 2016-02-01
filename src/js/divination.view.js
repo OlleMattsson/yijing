@@ -38,7 +38,7 @@ define([
 			},
 
 			hexagramLinkConverter : function (direction, value) {
-				var baseURL = '#browser/'
+				var baseURL = '#hexagram/'
 			    if (direction === "ModelToView") {
 			        //format only when the direction is from model to view
 			        return  baseURL + value;

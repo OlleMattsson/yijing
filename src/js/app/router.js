@@ -1,103 +1,78 @@
 define([
   'backbone',
   'jquery',
-  'iChing',
-  'DivinationView',
-  'HexagramView',
-  'HexagramModel',
-  'js/about/view.about',
+  'About',
   'js/app/app',
-  'js/trigram/view.trigramList',
   'js/trigram/collection',
   'js/trigram/view',
-  'HexagramBrowser',
-  //'js/hexagram/HexagramIndex',
-  'js/backbone.autocomplete.js'
 ], function(
   Backbone, 
   jq,
-  iChing, 
-  DivinationView, 
-  HexagramView, 
-  HexagramModel, 
   About, 
   App, 
-  TrigramList, 
   TrigramCollection,
-  Trigram,
-  HexagramBrowser,
-  //HexagramIndex,
-  AutoCompleteView
+  Trigram
   ){
   return Backbone.Router.extend({
+    initialize: function(options){
+      this.on('route:defaultAction', function(actions){
+        App.render()
+        $('#spinner').hide(); 
+      });
+    },   
+
+
     routes: {
-      'yijing(/:kingWen)': function(kingWen){
+
+      /*
+      ** HEXAGRAM BROWSER
+      *****************************************************************************/
+
+      'hexagram(/:kingWen)': function(kingWen){
         $('#spinner').show();
 
-        Yijing.Views.HexagramBrowser = HexagramBrowser;
+        yj.Views.HexagramBrowser.render();
 
         if (kingWen) {
-          console.log(kingWen)
-          var arr = Yijing.Views.HexagramBrowser.model.kingWenToBinary( kingWen );
-          Yijing.Views.HexagramBrowser.model.set('binaryHexagram', arr );
-        } 
-
-        Yijing.Views.HexagramBrowser.render();
+          var arr = yj.Views.HexagramBrowser.model.kingWenToBinary( kingWen );
+          yj.Views.HexagramBrowser.model.set('binaryHexagram', arr );
+        }    
 
         $('#spinner').hide();
-      
-        /*
-        var hexagram = new HexagramModel({id : kingWen});    
-        
-        hexagram.on("ready", function () {
-          new HexagramView({ model: hexagram }).render()
-
-          Trigram.listenTo(TrigramCollection, 'reset', function(e){
-            // now the collection is available and we can do stuff
-            Trigram.render( TrigramCollection.get( hexagram.get("above") ), '#above' )
-            Trigram.render( TrigramCollection.get( hexagram.get("below") ), '#below' )  
-          }) 
-
-          // then load the actual collection that will trigger the listeners
-          TrigramCollection.load();
-          $('#spinner').hide();
-        });
-        */
-
       },
 
-     
+      
+
+      /*
+      ** ORACLE
+      *****************************************************************************/     
+      
       'oracle' : function() {
         $('#spinner').show();
+        var DivinationView = yj.Views.DivinationView;
         DivinationView.render();
-
         DivinationView.model.makeHexagram();  
-        
         DivinationView.model.on('hexagramComplete', function(){
           $('#spinner').hide();
           DivinationView.renderHexagram();
           DivinationView.renderFutureHexagram();
-
         });
-        
       },
+
+      /*
+      ** ABOUT
+      *****************************************************************************/   
       'about' : function() {
         $('#spinner').hide();
-        About.render()
-
+        yj.Views.About.render()
       },
-/*
-      'browser/:kingWen' : function() {
 
-        $('#spinner').hide();
 
-        
 
-      },
-*/
-        /*
-         BAGUA PLAYGROUND FOR DEBUGGING
-        */
+
+      /*
+      ** BAGUA TESTING SITE
+      *****************************************************************************/   
 
       'bagua' : function() {
         $('#spinner').hide();
@@ -105,36 +80,22 @@ define([
 
         Trigram.listenTo(TrigramCollection, 'reset', function(e){
           // now the collection is available and we can do stuff
-          Trigram.render( TrigramCollection.get(5), '#mainView' )
-          Trigram.render( TrigramCollection.get(1), '#mainView' )          
+          Trigram.render( TrigramCollection.get(4), '#mainView' )          
+          Trigram.render( TrigramCollection.get(2), '#mainView' )          
         }) 
 
         // then load the actual collection that will trigger the listeners
         TrigramCollection.load();
 
-      },      
-      // Default
+      }, 
+
+
+
+
+      /*
+      ** DEFAULT ROUTE
+      *****************************************************************************/  
       '*actions': 'defaultAction', // <- emit defaultAction event
     },
-
-
-
-
-
-    initialize: function(options){
-      this.on('route:defaultAction', function(actions){
-
-        // DEFAULT LANDING PAGE (first thing the user sees =)
-        App.start()
-        $('#spinner').hide();
- 
-      });
-
-
-      this.on('url-changed', function(actions){
-        console.log('route event')
-      });
-    }    
-
   });
 });  

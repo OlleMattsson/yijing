@@ -6,7 +6,7 @@ define([
 		template: Handlebars.compile( templateHTML ),
 		tagName: 'div', 
 		render : function(model, element) {
-			$(element).html( this.template( model.toJSON() ) );
+			$(element).append('<br>' +  this.template( model.toJSON() ) );
 			return this;
 		}
 	});
