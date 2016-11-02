@@ -11,7 +11,7 @@ var gulp = require("gulp"),
 
 gulp.task("optimise", function(callback) {
     rjs.optimize({
-        appDir: "",   // copy everything from here
+        appDir: "",             // copy everything from here
         dir: "./js-dist",       // to here
         baseUrl: "./src",        
         mainConfigFile: "./src/index.js",
@@ -28,33 +28,18 @@ gulp.task("optimise", function(callback) {
     }, callback);
 });
 
-gulp.task("watch", function() {
-    gulp.watch([
-        appDir + "/img/**",
-        appDir + "/models/**",
-        appDir + "/script/**",
-        appDir + "/style/**",
-        appDir + "/templates/**",
-        appDir + "/views/**",
-        appDir + "/*.*"
-    ], ["optimise"]);
-});
-
 gulp.task("copyfiles", function () {
 
     gulp.src( [ './src/index.html', 
                 './src/style.css'])
-    .pipe( gulp.dest('./dist') )
+    .pipe( gulp.dest('./dist') );
 
     gulp.src('./js-dist/index.js')
     .pipe( uglify() )
     .pipe( gulp.dest('./dist') )
-    .on('error', function(error) {
-        console.log("uglify", error);
-    })
 
     gulp.src('./src/static/yijing.json')
-    .pipe( gulp.dest( './dist/static'))
+    .pipe( gulp.dest( './dist/static'));
     
     gulp.src('./src/bower_components/requirejs/require.js')
     .pipe( gulp.dest( './dist/bower_components/requirejs'));
@@ -64,8 +49,7 @@ gulp.task("copyfiles", function () {
     
     gulp.src('./src/bower_components/bootstrap/dist/css/bootstrap.css')
     .pipe( gulp.dest( './dist/bower_components/bootstrap/dist/css'));
-        
-})
+});
 
 
 
@@ -77,25 +61,17 @@ gulp.task("clean", function() {
     })
 });
 
-gulp.task("cleanjsdist", function() {
-    gulp.src('./js-dist', {read: false})
-    .pipe(clean())
-    .on('error', function(error) {
-        console.log(error);
-    })
-});
 
+
+// build yijing data file
 gulp.task("yijing", function() {
     gulp.src("./src/static/iching/*.json")
         .pipe(jsoncombine("yijing.json",function(data){ 
             return new Buffer(JSON.stringify(data));
          }))
-        //.pipe(gzip())
         .pipe(gulp.dest("./src/static"));
 });
 
  
 gulp.task('default', gulpSequence( "optimise", "copyfiles"));
-
-//gulp.task("", ["optimise", "build", "cleanjsdist"]);
 gulp.task("y", ["yijing"]);

@@ -36,14 +36,18 @@ define([
   var AppModel = Backbone.Model.extend({
 
     defaults : {
-      appTitle : "Welcome to the Quantum YiJing"
+      appTitle : "Welcome to the Quantum YiJing",
+      isProduction : false,
+      yijingProdUrl : 'http://ollemattsson.com/yj/static/yijing.json',
+      yijingDevUrl : './../../static/yijing.json'
     },
 
     // promise that yijing JSON data is available
     yijingDataPromise : function() { 
+      var self = this;
       return new Promise( function (resolve, reject) {
         $.ajax({
-          url: './../../static/yijing.json',
+          url: self.get('isProduction') == true ? self.get('yijingProdUrl') : self.get('yijingDevUrl'),
           success: function (data) { resolve(data) },
           error : function (err) { reject(err) }
         }); 

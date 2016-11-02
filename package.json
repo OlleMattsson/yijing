@@ -1,13 +1,13 @@
 {
-  "name": "backbone-app",
-  "version": "1.0.0",
-  "description": "playground for backbone",
+  "name": "yijing",
+  "version": "0.9.0",
+  "description": "Yijing and Quantum Oracle",
   "main": "index.js",
   "scripts": {
     "test": "test"
   },
-  "author": "Olle Mattsson (olle.mattsson@codemate.com)",
-  "license": "ISC",
+  "author": "Olle Mattsson (olle.mattsson@gmail.com)",
+  "license": "CC",
   "devDependencies": {
     "gulp": "^3.9.0",
     "gulp-clean": "^0.3.1",
